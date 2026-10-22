@@ -1,0 +1,462 @@
+- generic [ref=e2]:
+  - link "Skip to main content" [ref=e4] [cursor=pointer]:
+    - /url: "#main-content"
+  - main [ref=e5]:
+    - generic [ref=e6]:
+      - navigation "Primary" [ref=e7]:
+        - generic [ref=e8]: Ryan DeBoer
+        - generic [ref=e9]:
+          - link "About" [ref=e10] [cursor=pointer]:
+            - /url: /about
+          - link "Work" [ref=e11] [cursor=pointer]:
+            - /url: "#projects"
+          - link "Notes" [ref=e12] [cursor=pointer]:
+            - /url: /notes
+          - link "Resume" [ref=e13] [cursor=pointer]:
+            - /url: /resume
+          - link "Get in touch" [ref=e14] [cursor=pointer]:
+            - /url: mailto:rdeboer180@gmail.com
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Passionate Designer Curious Builder" [level=1] [ref=e19]:
+            - generic [ref=e20]: Passionate Designer
+            - generic [ref=e22]: Curious Builder
+          - generic [ref=e24]:
+            - paragraph [ref=e25]:
+              - text: I learn by building things I will have to maintain, and that taught me to write my judgment down. Professionally and in my own projects, that means governance teams can follow and taste files an agent can build from, so the work stays consistent when I am not in the room. I fight for consistency and simplicity because the tools can change.
+              - strong [ref=e26]: Giving a damn does not.
+            - paragraph [ref=e29]:
+              - text: I keep one set of rules in step across Figma, code, and the CMS. My
+              - strong [ref=e30]:
+                - link "WheelRack" [ref=e31] [cursor=pointer]:
+                  - /url: /work/wheelrack/
+              - text: tokens and components became the React and Storybook library for six retail partners. In
+              - strong [ref=e32]:
+                - link "our AEM components" [ref=e33] [cursor=pointer]:
+                  - /url: /work/aem-component-system/
+              - text: ", I design the variants and build them in production Sass, so SEO and Design teams can update pages within those rules."
+          - paragraph [ref=e35]:
+            - generic [ref=e36]: Ryan DeBoer
+            - generic [ref=e37]: South Bend, IN / Remote US, Eastern Time
+        - generic [ref=e39]:
+          - link "Open to new work" [ref=e40] [cursor=pointer]:
+            - /url: mailto:rdeboer180@gmail.com
+          - generic "Portrait border radius token" [ref=e42]:
+            - code [ref=e43]: "borderRadius: tokens.radius.full"
+          - generic [aria-hidden]:
+            - generic:
+              - text: Cut
+              - generic: ⌘X
+            - generic:
+              - text: Copy
+              - generic: ⌘C
+            - generic:
+              - text: Paste
+              - generic: ⌘V
+            - generic:
+              - text: Duplicate
+              - generic: ⌘D
+            - generic:
+              - text: Delete
+              - generic: ⌫
+          - generic [ref=e45]:
+            - img "Ryan DeBoer, product designer" [ref=e48]
+            - generic [aria-hidden]: layer / 01 Portfolio image
+          - generic "Design roles" [ref=e51]:
+            - generic [ref=e52]:
+              - generic [ref=e53]: Roles / Layers
+              - button "Minimize role layers" [expanded] [ref=e54] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e55]: −
+            - generic [ref=e57]:
+              - generic [aria-hidden] [ref=e58]:
+                - generic [ref=e59]:
+                  - text: ⌈
+                  - generic [ref=e60]: Kind
+                - generic [ref=e61]: ↓
+                - generic [ref=e62]: ◐
+                - generic [ref=e63]: T
+                - generic [ref=e64]: ▭
+                - generic [ref=e65]: ▢
+                - generic [ref=e66]: ●
+              - generic [aria-hidden] [ref=e67]:
+                - generic [ref=e68]:
+                  - generic [ref=e69]: Normal
+                  - generic [ref=e70]: ↓
+                - generic [ref=e71]:
+                  - generic [ref=e72]: "Opacity:"
+                  - generic [ref=e73]: 100%
+              - generic [ref=e74]:
+                - button "Product Designer" [ref=e75] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=e79]: T
+                - button "System Designer" [pressed] [ref=e81] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=e85]: T
+                - button "Design Engineer" [ref=e87] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=e91]: T
+                - button "UI/UX Designer" [ref=e93] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=e97]: T
+                - button "Brand Engineer" [ref=e99] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=e103]: T
+              - generic [aria-hidden] [ref=e105]:
+                - generic [ref=e106]:
+                  - generic [ref=e111]: fx
+                  - generic [ref=e112]: ◐
+                  - generic [ref=e113]: ◑
+                - generic [ref=e118]: +
+    - region [ref=e126]:
+      - generic [ref=e127]:
+        - generic [ref=e128]: 01 / Case Studies
+        - heading "Systems, products, and tools I’ve shipped" [level=2] [ref=e139]
+    - region [ref=e142]:
+      - generic [ref=e143]:
+        - generic [ref=e144]:
+          - heading "Writing from the work" [level=2] [ref=e145]
+          - link "All notes" [ref=e146] [cursor=pointer]:
+            - /url: /notes/
+        - list [ref=e147]:
+          - listitem [ref=e148]:
+            - link "[ Practice ] · 2 min The line between Figma and the AEM codebase is getting thinner" [ref=e149] [cursor=pointer]:
+              - /url: /notes/the-line-between-figma-and-the-codebase/
+              - generic [ref=e150]: "[ Practice ] · 2 min"
+              - generic [ref=e151]: The line between Figma and the AEM codebase is getting thinner
+              - generic [aria-hidden] [ref=e152]: →
+          - listitem [ref=e153]:
+            - link "[ Exploration ] · 6 min I simplified PlayDraft until it stopped feeling like a game" [ref=e154] [cursor=pointer]:
+              - /url: /notes/simplifying-playdraft-without-losing-the-game/
+              - generic [ref=e155]: "[ Exploration ] · 6 min"
+              - generic [ref=e156]: I simplified PlayDraft until it stopped feeling like a game
+              - generic [aria-hidden] [ref=e157]: →
+          - listitem [ref=e158]:
+            - link "[ Practice ] · 5 min Steering into AEM instead of away from it" [ref=e159] [cursor=pointer]:
+              - /url: /notes/steering-into-aem/
+              - generic [ref=e160]: "[ Practice ] · 5 min"
+              - generic [ref=e161]: Steering into AEM instead of away from it
+              - generic [aria-hidden] [ref=e162]: →
+    - region [ref=e164]:
+      - generic [ref=e166]:
+        - generic [ref=e167]: 02 / Why me?
+        - generic [ref=e180]:
+          - heading "Curiosity. Care. Collaboration." [level=2] [ref=e181]:
+            - generic [ref=e182]: Curiosity.
+            - generic [ref=e184]: Care.
+            - generic [ref=e186]: Collaboration.
+          - generic [ref=e188]:
+            - paragraph [ref=e189]:
+              - text: Visual craft and design systems are my foundation. Curiosity takes me into unfamiliar problems and building products of my own.
+              - link "My Custom Built Designer Forge" [ref=e190] [cursor=pointer]:
+                - /url: /talent-tree/
+              - text: "maps 16 years of growth: the skills I’ve sharpened and the strategic perspective I bring to product design."
+            - paragraph [ref=e191]:
+              - text: My work connects UX, product design, brand, and implementation through shared components for the web and React Native. At Tire Rack, I bring 12+ years of AEM experience and partner with engineers on our CMS framework. I also build internal agentic tools and skills to reduce repetitive work for my team and the teams we work with.
+              - link "My plans for agentic AEM authoring" [ref=e192] [cursor=pointer]:
+                - /url: /notes/aem-meeting-authors-where-they-work/
+              - text: build on that same goal.
+            - link "The fuller story behind the work →" [ref=e193] [cursor=pointer]:
+              - /url: /about
+    - generic [ref=e196]:
+      - generic [ref=e197]: 03 / How I work
+      - generic [ref=e209]:
+        - heading "Shared language. Better product decisions." [level=2] [ref=e210]
+        - paragraph [ref=e213]: "For a new or changed system component, I start with a shared language: what it needs to do, what already exists, and what design and code each need to express. Shared Product Context is both the starting point and the return point."
+      - generic [ref=e214]:
+        - generic [ref=e215]:
+          - heading "The loop" [level=3] [ref=e216]
+          - paragraph [ref=e218]: Shared context → design + code → validation → context for the next change.
+        - list "The loop, in four beats" [ref=e219]:
+          - listitem [ref=e220]:
+            - generic [ref=e221]: "[ 01 ]"
+            - generic [ref=e222]: Start with shared context
+          - listitem [ref=e223]:
+            - generic [ref=e224]: "[ 02 ]"
+            - generic [ref=e225]: Build from the same plan
+          - listitem [ref=e226]:
+            - generic [ref=e227]: "[ 03 ]"
+            - generic [ref=e228]: Test what becomes real
+          - listitem [ref=e229]:
+            - generic [ref=e230]: "[ 04 ]"
+            - generic [ref=e231]: Map it back to the center
+        - generic [ref=e232]:
+          - link "Read how the loop works →" [ref=e233] [cursor=pointer]:
+            - /url: /notes/shared-language-better-product-decisions/
+          - link "See this in the work →" [ref=e234] [cursor=pointer]:
+            - /url: /work/playdraft/
+          - link "Explore the live system →" [ref=e235] [cursor=pointer]:
+            - /url: /design-system
+    - region [ref=e237]:
+      - generic [ref=e238]:
+        - generic [ref=e239]: 04 / Peer recommendations
+        - generic [ref=e253]:
+          - heading "From the people I build with" [level=2] [ref=e254]
+          - paragraph [ref=e255]: "Pick a person to read what they wrote, the way they’d send it: a few messages at a time."
+        - generic [ref=e256]:
+          - generic [ref=e257]:
+            - generic [ref=e258]: Direct messages
+            - tablist "Direct messages" [ref=e259]:
+              - tab "Adam Payne" [selected] [ref=e260] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e261]: AP
+                - generic [ref=e262]:
+                  - generic [ref=e263]:
+                    - generic [ref=e264]: Adam Payne
+                    - generic [aria-hidden] [ref=e265]: "2026"
+                  - generic [aria-hidden] [ref=e266]: He runs large projects from a design perspective, coordinates with leaders and ICs from corresponding teams on his own, and has a strong record of delivering large bodies of work without issue.
+              - tab "Cheryl Carpenter" [ref=e267] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e268]: CC
+                - generic [ref=e269]:
+                  - generic [ref=e270]:
+                    - generic [ref=e271]: Cheryl Carpenter
+                    - generic [aria-hidden] [ref=e272]: "2026"
+                  - generic [aria-hidden] [ref=e273]: He owned the design side; I owned the build, and it was one of the best collaborations I’ve had. Ryan doesn’t just design screens. He designs the whole experience.
+              - tab "Amanda Straup" [ref=e274] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e275]: AS
+                - generic [ref=e276]:
+                  - generic [ref=e277]:
+                    - generic [ref=e278]: Amanda Straup
+                    - generic [aria-hidden] [ref=e279]: "2026"
+                  - generic [aria-hidden] [ref=e280]: The quality of the experience our participants receive is a direct reflection of the effort and care he puts into it. As a designer, he has an exceptional eye for creating work that is clean, creative and visually engaging.
+              - tab "Patrick Stines" [ref=e281] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e282]: PS
+                - generic [ref=e283]:
+                  - generic [ref=e284]:
+                    - generic [ref=e285]: Patrick Stines
+                    - generic [aria-hidden] [ref=e286]: "2026"
+                  - generic [aria-hidden] [ref=e287]: He has been an excellent partner throughout our transition and upgrade to AEM Core Components, helping ensure that designs are both visually strong and technically effective. Since I moved into development, he has played a key role in bridging the gap between creative vision and technical execution.
+              - tab "Ryan Kokesh" [ref=e288] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e289]: RK
+                - generic [ref=e290]:
+                  - generic [ref=e291]:
+                    - generic [ref=e292]: Ryan Kokesh
+                    - generic [aria-hidden] [ref=e293]: "2024"
+                  - generic [aria-hidden] [ref=e294]: He consistently takes the initiative to engage relevant teams (including UX, UXR, Analytics, Imaging, and SEO) whenever needed. He excels at building and maintaining strong relationships, which significantly enhances his overall effectiveness.
+              - tab "Rob Oxley" [ref=e295] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e296]: RO
+                - generic [ref=e297]:
+                  - generic [ref=e298]:
+                    - generic [ref=e299]: Rob Oxley
+                    - generic [aria-hidden] [ref=e300]: "2026"
+                  - generic [aria-hidden] [ref=e301]: He truly has a passion for improvement in both his professional and personal life. He is always looking for better and more efficient ways to do things. He loves trying new tools and refining existing processes.
+              - tab "Gina Saucedo" [ref=e302] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e303]: GS
+                - generic [ref=e304]:
+                  - generic [ref=e305]:
+                    - generic [ref=e306]: Gina Saucedo
+                    - generic [aria-hidden] [ref=e307]: "2026"
+                  - generic [aria-hidden] [ref=e308]: Since I started at Tire Rack almost 5 years ago, Ryan has always been a kind and thoughtful mentor to me as a Senior Designer on the Web Design team. He is a very intuitive and collaborative teammate, and always looks for ways that we can improve our design system and user experience throughout our sites.
+          - tabpanel "Adam Payne" [ref=e309]:
+            - generic [ref=e310]:
+              - generic [aria-hidden] [ref=e311]: AP
+              - generic [ref=e312]:
+                - generic [ref=e313]: Adam Payne
+                - generic [ref=e314]: Web Design Manager, Tire Rack · Managed Ryan directly
+            - figure "Adam Payne 2026" [ref=e315]:
+              - generic [ref=e316]:
+                - generic [ref=e317]: Adam Payne
+                - time [ref=e318]: "2026"
+              - generic [ref=e319]:
+                - generic [aria-hidden] [ref=e320]: AP
+                - blockquote [ref=e321]:
+                  - paragraph [ref=e322]: Ryan is one of the most helpful, industrious, passionate and dependable designers I’ve had the luck of serving as a manager.
+                  - paragraph [ref=e323]: He runs large projects from a design perspective, coordinates with leaders and ICs from corresponding teams on his own, and has a strong record of delivering large bodies of work without issue. He writes good, clean code and cares passionately about making sure the vision gets realized.
+                  - paragraph [ref=e324]: A team or role that lets him lead projects across technical and nontechnical teams would truly flourish with him in the seat.
+              - generic [ref=e325]:
+                - generic [ref=e326]: Leadership & Delivery
+                - link "On LinkedIn Adam Payne’s recommendation (opens in a new tab)" [ref=e327] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/ryandeboerdesigns/details/recommendations/
+                  - text: On LinkedIn ↗
+                  - generic [ref=e328]: Adam Payne’s recommendation (opens in a new tab)
+            - link "Email Ryan about your team" [ref=e329] [cursor=pointer]:
+              - /url: mailto:rdeboer180@gmail.com
+              - generic [aria-hidden] [ref=e330]: Message Ryan about your team…
+              - generic [ref=e331]: Get in touch
+    - region [ref=e333]:
+      - generic [ref=e334]:
+        - generic [ref=e335]:
+          - generic [ref=e336]: 05 / Capabilities
+          - heading "What I bring to a product team." [level=2] [ref=e346]
+          - paragraph [ref=e347]: Visual craft and design systems are my strongest ground. I carry that work into products through hands-on web implementation and agent-assisted React and React Native builds.
+        - generic [ref=e348]:
+          - region "Visual craft & prototyping" [ref=e350]:
+            - heading "Visual craft & prototyping" [level=3] [ref=e351]
+            - generic [ref=e354]:
+              - paragraph [ref=e355]: Properties
+              - generic [ref=e357]:
+                - term [ref=e358]: stack
+                - definition [ref=e359]: Figma · Illustrator · Photoshop · Figma Make
+            - generic [ref=e360]:
+              - paragraph [ref=e361]: In practice
+              - paragraph [ref=e362]: Interface design, typography, brand expression, vector and raster craft, and high-fidelity prototypes.
+          - region "Design systems & governance" [ref=e364]:
+            - heading "Design systems & governance" [level=3] [ref=e365]
+            - generic [ref=e368]:
+              - paragraph [ref=e369]: Properties
+              - generic [ref=e371]:
+                - term [ref=e372]: stack
+                - definition [ref=e373]: Figma Variables · Tokens Studio · Storybook
+            - generic [ref=e374]:
+              - paragraph [ref=e375]: In practice
+              - paragraph [ref=e376]: Enterprise web design systems at Tire Rack, with component contracts, states, tokens, documentation, and adoption support. React Native system design through PlayDraft, built with agents and validated in the working app.
+          - region "AEM & content systems" [ref=e378]:
+            - heading "AEM & content systems" [level=3] [ref=e379]
+            - generic [ref=e382]:
+              - paragraph [ref=e383]: Properties
+              - generic [ref=e385]:
+                - term [ref=e386]: stack
+                - definition [ref=e387]: Adobe Experience Manager · Adobe Target
+            - generic [ref=e388]:
+              - paragraph [ref=e389]: In practice
+              - paragraph [ref=e390]: Core-component variants, reusable component libraries, and template permissions. Experience Fragments for A/B testing and geographic targeting, with authoring, approval, and publishing workflows the team can maintain.
+          - region "Product implementation" [ref=e392]:
+            - heading "Product implementation" [level=3] [ref=e393]
+            - generic [ref=e396]:
+              - paragraph [ref=e397]: Properties
+              - generic [ref=e398]:
+                - generic [ref=e399]:
+                  - term [ref=e400]: Direct
+                  - definition [ref=e401]: HTML · CSS/Sass · AEM · WordPress
+                - generic [ref=e402]:
+                  - term [ref=e403]: Agent-assisted
+                  - definition [ref=e404]: React · React Native · Expo · TypeScript/TSX
+            - generic [ref=e405]:
+              - paragraph [ref=e406]: In practice
+              - paragraph [ref=e407]: Hands-on web and CMS delivery. I direct agent-assisted product builds, review the working output, test behavior, and own QA and release decisions.
+          - region "Agentic systems & tooling" [ref=e409]:
+            - heading "Agentic systems & tooling" [level=3] [ref=e410]
+            - generic [ref=e413]:
+              - paragraph [ref=e414]: Properties
+              - generic [ref=e415]:
+                - generic [ref=e416]:
+                  - term [ref=e417]: Reasoning
+                  - definition [ref=e418]: Claude · ChatGPT
+                - generic [ref=e419]:
+                  - term [ref=e420]: Build
+                  - definition [ref=e421]: Claude Code · Codex
+                - generic [ref=e422]:
+                  - term [ref=e423]: Context
+                  - definition [ref=e424]: Figma MCP · MCP workflows
+            - generic [ref=e425]:
+              - paragraph [ref=e426]: In practice
+              - paragraph [ref=e427]: Agent-readable design-system governance, reusable skills, Figma plugins, internal tools, and codebase audits. Shared context for designers, engineers, and agents.
+          - region "Product quality & evidence" [ref=e429]:
+            - heading "Product quality & evidence" [level=3] [ref=e430]
+            - generic [ref=e433]:
+              - paragraph [ref=e434]: Properties
+              - generic [ref=e436]:
+                - term [ref=e437]: stack
+                - definition [ref=e438]: Adobe Analytics · Adobe Target · A/B testing · Accessibility annotations
+            - generic [ref=e439]:
+              - paragraph [ref=e440]: In practice
+              - paragraph [ref=e441]: Accessibility, SEO-informed structure, state modeling, and edge-case coverage. Design-to-code reconciliation, implementation QA, and decisions grounded in feedback and data.
+        - navigation "Capabilities in practice" [ref=e443]:
+          - generic [ref=e444]: Used in 4 places
+          - list [ref=e445]:
+            - listitem [ref=e446]:
+              - link "React design system WheelRack" [ref=e447] [cursor=pointer]:
+                - /url: /work/wheelrack/
+                - text: React design system
+                - generic [ref=e448]: WheelRack ↗
+            - listitem [ref=e449]:
+              - link "React Native system PlayDraft" [ref=e450] [cursor=pointer]:
+                - /url: /work/playdraft/
+                - text: React Native system
+                - generic [ref=e451]: PlayDraft ↗
+            - listitem [ref=e452]:
+              - link "Agentic internal tooling Design Enablement" [ref=e453] [cursor=pointer]:
+                - /url: /work/design-enablement/
+                - text: Agentic internal tooling
+                - generic [ref=e454]: Design Enablement ↗
+            - listitem [ref=e455]:
+              - link "Enterprise component system AEM" [ref=e456] [cursor=pointer]:
+                - /url: /work/aem-component-system/
+                - text: Enterprise component system
+                - generic [ref=e457]: AEM ↗
+        - region [ref=e459]:
+          - generic [ref=e471]:
+            - paragraph [ref=e472]: A different way to explore
+            - heading "How these skills connect." [level=3] [ref=e473]
+            - paragraph [ref=e474]: I built the Forge to map the mix behind my work. Explore my talent tree, or build your own.
+          - link "Explore the Forge" [ref=e475] [cursor=pointer]:
+            - /url: /talent-tree/
+            - text: Explore the Forge
+            - generic [aria-hidden] [ref=e476]: ↗
+    - generic [ref=e479]:
+      - generic [ref=e480]:
+        - generic [ref=e481]: FAQ
+        - heading "Got questions?" [level=2] [ref=e482]:
+          - text: Got
+          - img [aria-hidden] [ref=e483]:
+            - generic [ref=e485]: "?"
+          - text: questions?
+        - paragraph [ref=e486]: The questions that usually come up before the work starts.
+      - generic [ref=e487]:
+        - generic [ref=e488]:
+          - heading [level=3] [ref=e489]:
+            - button "Do you work with developers or hand off files?" [ref=e490] [cursor=pointer]:
+              - generic [aria-hidden] [ref=e492]: +
+          - region "Do you work with developers or hand off files?":
+            - paragraph [ref=e493]: Both. I document tokens, states, and component behavior when engineering owns the build. On projects where I build with agents and stay in the code, the handoff may be a pull request instead of a file. At Tire Rack, I helped build and document the AEM templates and production styles the team now reuses.
+        - generic [ref=e494]:
+          - heading [level=3] [ref=e495]:
+            - button "Can you work within an existing design system?" [ref=e496] [cursor=pointer]:
+              - generic [aria-hidden] [ref=e498]: +
+          - region "Can you work within an existing design system?":
+            - paragraph [ref=e500]:
+              - text: "Yes. I have extended existing token and component systems, and I have built them from scratch when the product had no shared foundation. In either case, I start by learning which rules are doing useful work before I propose a new one. My bar is written up here:"
+              - link "a good design system makes better decisions easier" [ref=e501] [cursor=pointer]:
+                - /url: /notes/systems-that-make-better-decisions-easier
+              - text: .
+        - generic [ref=e502]:
+          - heading [level=3] [ref=e503]:
+            - button "How do you handle projects that need both brand and UX work?" [ref=e504] [cursor=pointer]:
+              - generic [aria-hidden] [ref=e506]: +
+          - region "How do you handle projects that need both brand and UX work?":
+            - paragraph [ref=e507]: I treat the identity and the interface as one system. The brand sets the visual and verbal rules; the product tests those rules against real tasks, states, and content. I scope them together when separating the work would create two different answers.
+        - generic [ref=e508]:
+          - heading [level=3] [ref=e509]:
+            - button "Do you take on freelance or contract work?" [ref=e510] [cursor=pointer]:
+              - generic [aria-hidden] [ref=e512]: +
+          - region "Do you take on freelance or contract work?":
+            - paragraph [ref=e514]:
+              - text: I am not taking on freelance work right now. You can still
+              - link "send me the idea" [ref=e515] [cursor=pointer]:
+                - /url: mailto:rdeboer180@gmail.com
+              - text: if a future fit is possible.
+        - generic [ref=e516]:
+          - heading [level=3] [ref=e517]:
+            - button "What drives you outside of design?" [ref=e518] [cursor=pointer]:
+              - generic [aria-hidden] [ref=e520]: +
+          - region "What drives you outside of design?":
+            - generic [ref=e521]:
+              - paragraph [ref=e522]: People first. I married my high school sweetheart Stephanie. We've now spent more than half our lives together, and our two kids are the center of everything. Weekends usually mean the park, the zoo, or wherever the next national park road trip takes us.
+              - paragraph [ref=e523]:
+                - text: "Outside of family, a lot of what I do for fun still involves building things. I manage my Type 1 diabetes using a custom-coded branch of the Loop app, a closed-loop insulin delivery system I've configured and maintained myself. It's equal parts health management and engineering hobby, and it eventually became a product:"
+                - link "LoopStack" [ref=e524] [cursor=pointer]:
+                  - /url: /work/loopstack/
+                - text: ", a pattern-review app built on my own data."
+              - paragraph [ref=e525]: Football Sundays are sacred. I've run a dynasty fantasy football league, the Grandville Gremlins, for about a decade, and every team has a custom mascot and logo I designed. It keeps a tight group of high school and college friends connected year-round. And like most people, I unwind with good TV and film. Always watching something.
+  - contentinfo [ref=e527]:
+    - generic [ref=e528]:
+      - generic [ref=e529]:
+        - generic [ref=e530]:
+          - generic [ref=e531]: Get in touch
+          - paragraph [ref=e532]: I’m open to remote product design, design systems, and design engineering roles in the US. If my work fits what your team needs, I would be glad to talk.
+        - generic [ref=e533]:
+          - link "Email me" [ref=e534] [cursor=pointer]:
+            - /url: mailto:rdeboer180@gmail.com
+          - link "Connect on LinkedIn (opens in a new tab)" [ref=e535] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/ryandeboerdesigns/
+            - text: Connect on LinkedIn
+            - generic [ref=e536]: (opens in a new tab)
+      - generic [ref=e537]:
+        - paragraph [ref=e538]: © 2026 Ryan DeBoer
+        - generic [ref=e539]:
+          - link "Notes" [ref=e540] [cursor=pointer]:
+            - /url: /notes
+          - link "The Forge" [ref=e541] [cursor=pointer]:
+            - /url: /talent-tree/
+          - link "Design system" [ref=e542] [cursor=pointer]:
+            - /url: /design-system
+          - link "Site index" [ref=e543] [cursor=pointer]:
+            - /url: /sitemap
+  - region "Author bar" [ref=e544]:
+    - group "Environment" [ref=e545]:
+      - button "Publisher" [pressed] [ref=e546] [cursor=pointer]
+      - button "Author" [ref=e547] [cursor=pointer]
+      - generic [aria-hidden] [ref=e548]: ⌘⇧M

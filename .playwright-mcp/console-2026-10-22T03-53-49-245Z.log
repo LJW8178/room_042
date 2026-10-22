@@ -1,0 +1,8 @@
+[    5287ms] [LOG] [Framer On-Page Editing] Unavailable because not on a `framer.app` subdomain and access status is no-auth @ https://app.framerstatic.com/editorbar.ORW3YYJC.mjs:0
+[   85973ms] [LOG] [Framer On-Page Editing] Unavailable because not on a `framer.app` subdomain and access status is no-auth @ https://app.framerstatic.com/editorbar.ORW3YYJC.mjs:0
+[   87809ms] [ERROR] Unable to preventDefault inside passive event listener invocation. @ https://framerusercontent.com/sites/6v7Scy5JHiOM6tRnMOC0Pb/react.DC3oLo7G.mjs:4
+[   87858ms] [ERROR] Unable to preventDefault inside passive event listener invocation. @ https://framerusercontent.com/sites/6v7Scy5JHiOM6tRnMOC0Pb/react.DC3oLo7G.mjs:4
+[   88242ms] [ERROR] Unable to preventDefault inside passive event listener invocation. @ https://framerusercontent.com/sites/6v7Scy5JHiOM6tRnMOC0Pb/react.DC3oLo7G.mjs:4
+[   88275ms] [ERROR] Unable to preventDefault inside passive event listener invocation. @ https://framerusercontent.com/sites/6v7Scy5JHiOM6tRnMOC0Pb/react.DC3oLo7G.mjs:4
+[   88292ms] [ERROR] Unable to preventDefault inside passive event listener invocation. @ https://framerusercontent.com/sites/6v7Scy5JHiOM6tRnMOC0Pb/react.DC3oLo7G.mjs:4
+[   88314ms] [ERROR] Unable to preventDefault inside passive event listener invocation. @ https://framerusercontent.com/sites/6v7Scy5JHiOM6tRnMOC0Pb/react.DC3oLo7G.mjs:4

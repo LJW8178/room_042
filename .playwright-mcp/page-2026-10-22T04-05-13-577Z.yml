@@ -1,0 +1,63 @@
+- generic [ref=e2]:
+  - banner:
+    - generic [ref=e3]:
+      - link "Skip to Content" [ref=e4] [cursor=pointer]:
+        - /url: "#page"
+      - generic [ref=e8]:
+        - link [ref=e11] [cursor=pointer]:
+          - /url: /
+          - img "Matt Reihing UX Portfolio" [ref=e13]
+        - navigation [ref=e16]:
+          - link "Work" [ref=e18] [cursor=pointer]:
+            - /url: /
+          - link "About" [ref=e20] [cursor=pointer]:
+            - /url: /about
+  - main [ref=e21]:
+    - article [ref=e22]:
+      - generic [ref=e23]:
+        - generic [ref=e34]:
+          - heading "Welcome to the internet’s best* UX portfolio" [level=2] [ref=e35]
+          - code [ref=e37]: "*ok, ok that’s just my opinion."
+        - generic [ref=e43]:
+          - heading "Case Studies" [level=1] [ref=e49]
+          - heading [level=3] [ref=e55]:
+            - link "Balto - Real-Time Guidance App" [ref=e56] [cursor=pointer]:
+              - /url: /balto
+          - code [ref=e63]: ux design, UX Writing
+          - link [ref=e71] [cursor=pointer]:
+            - /url: /balto
+          - paragraph [ref=e78]: I discovered that Balto’s users were using the app’s feedback feature to create a log of tech issues they experienced. I aggregated and analyzed this data to surface user pain points and designed a new workflow to save the Support team more than 200 hours annually.
+          - heading [level=3] [ref=e84]:
+            - link "User Experience and Choice in Hearing Aid Adoption - Research Project" [ref=e85] [cursor=pointer]:
+              - /url: /hearing-aid-adoption-ux
+          - code [ref=e92]: UX Research
+          - link [ref=e100] [cursor=pointer]:
+            - /url: /hearing-aid-adoption-ux
+          - generic [ref=e106]:
+            - paragraph [ref=e107]: Only about 20% of Americans who could benefit from hearing aids use them. I wanted to understand why hearing aid adoption rates are so low, and how UX could be leveraged to help.
+            - paragraph [ref=e108]: I conducted heuristic evaluations of informational hearing aid webpages and discovered they all had similar issues around consistency, navigation, and information hierarchy, which makes it difficult for users to access information needed to choose a hearing aid. My findings indicate that these webpages—and this sector more broadly—can implement UX best practices to make their information more accessible for the user, aiding the decision making process in choosing a hearing aid.
+          - heading [level=3] [ref=e114]:
+            - link "Joplin Public Library - Website" [ref=e115] [cursor=pointer]:
+              - /url: /joplinpubliclibrary
+          - code [ref=e122]: UX design, UX Writing, UX Research
+          - link [ref=e130] [cursor=pointer]:
+            - /url: /joplinpubliclibrary
+          - paragraph [ref=e137]: The website for the City of Joplin’s public library was difficult to navigate and use — to the point where users couldn’t carry out important tasks or find information on the library’s offerings. To solve this, I created and tested a new, successful information architecture for the site and designed improved layouts for the site’s most important landing pages.
+          - generic [ref=e144]:
+            - link:
+              - /url: /extra
+              - generic [ref=e145] [cursor=pointer]
+          - code [ref=e152]:
+            - link "Back to top" [ref=e153] [cursor=pointer]:
+              - /url: "#Top"
+  - contentinfo [ref=e154]:
+    - generic [ref=e160]:
+      - generic [ref=e165]:
+        - paragraph [ref=e166]:
+          - link "mattreihing@gmail.com" [ref=e167] [cursor=pointer]:
+            - /url: mailto:mattreihing@gmail.com
+        - paragraph [ref=e168]: © 2025
+      - generic [ref=e175]:
+        - link:
+          - /url: /work
+          - generic [ref=e176] [cursor=pointer]

@@ -1,0 +1,248 @@
+- generic [active] [ref=e1]:
+  - button "Switch to dark mode" [ref=e3] [cursor=pointer]
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e7]:
+        - img "Sai Anjan" [ref=e9]
+        - generic [ref=e10]:
+          - paragraph [ref=e11]: Sai Anjan
+          - paragraph [ref=e12]: Product Designer · AI + SaaS
+      - navigation "Main navigation" [ref=e13]:
+        - generic [ref=e14]:
+          - link "about" [ref=e15] [cursor=pointer]:
+            - /url: "#top"
+          - link "wip" [ref=e18] [cursor=pointer]:
+            - /url: "#wip"
+          - link "work" [ref=e20] [cursor=pointer]:
+            - /url: "#work"
+          - link "projects" [ref=e22] [cursor=pointer]:
+            - /url: "#projects"
+          - link "blog" [ref=e24] [cursor=pointer]:
+            - /url: "#blog"
+          - link "contact" [ref=e26] [cursor=pointer]:
+            - /url: "#contact"
+      - generic [ref=e28]:
+        - paragraph [ref=e29]: Hi, I'm Anjan.
+        - paragraph [ref=e30]: I design AI-driven product experiences for enterprise and SaaS teams. My work spans from product direction to production-ready interaction systems.
+        - paragraph [ref=e31]: "I care about practical outcomes: clarity in complex workflows, faster decision-making, and strong collaboration between product, design, and engineering."
+        - generic [ref=e32]:
+          - paragraph [ref=e33]: Currently building a portfolio-native GPT experience.
+          - generic [ref=e34]:
+            - link "View Resume" [ref=e35] [cursor=pointer]:
+              - /url: /resume
+            - link "Open GPT Mode" [ref=e36] [cursor=pointer]:
+              - /url: /gpt-mode
+      - region [ref=e37]:
+        - heading "Case Studies" [level=2] [ref=e38]
+        - generic [ref=e39]:
+          - link [ref=e40] [cursor=pointer]:
+            - /url: /projects/tulasi
+            - img "Designing a Conversational Railway Enquiry thumbnail" [ref=e42]
+            - generic [ref=e43]:
+              - paragraph [ref=e44]: Designing a Conversational Railway Enquiry
+              - paragraph [ref=e45]: A multilingual, multimodal railway enquiry shaped by real passenger-staff conversations at Mumbai CSMT.
+          - link [ref=e46] [cursor=pointer]:
+            - /url: /projects/teaching-strategies
+            - img "Teaching Unfamiliar Touch Interfaces to Blind Users thumbnail" [ref=e48]
+            - generic [ref=e49]:
+              - paragraph [ref=e50]: Teaching Unfamiliar Touch Interfaces to Blind Users
+              - paragraph [ref=e51]: Voice-guided strategies for helping blind TalkBack users learn unfamiliar Android date and time pickers.
+      - region [ref=e52]:
+        - heading "Principles" [level=2] [ref=e53]
+        - article [ref=e54]:
+          - generic [ref=e55]:
+            - link "AI design engineering Field notes" [ref=e56] [cursor=pointer]:
+              - /url: /principles
+              - text: AI design engineering
+              - generic [ref=e57]: Field notes
+            - generic [ref=e58]:
+              - button "Previous principle preview" [ref=e59] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e60]: ←
+              - button "Next principle preview" [ref=e61] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e62]: →
+          - blockquote [ref=e65]:
+            - text: “
+            - generic [ref=e66]: AI collapses the moat of “Can we build this at all?” Teams hiding behind that question will resist AI first and lose first, because the harder question is now “Why should this exist?”
+            - generic [aria-hidden] [ref=e67]:
+              - generic [ref=e68]:
+                - generic [ref=e69]: AI
+                - generic [ref=e70]: collapses
+                - generic [ref=e71]: the
+                - generic [ref=e72]: moat
+              - generic [ref=e73]:
+                - generic [ref=e74]: of
+                - generic [ref=e75]: “Can
+                - generic [ref=e76]: we
+                - generic [ref=e77]: build
+                - generic [ref=e78]: this
+                - generic [ref=e79]: at
+                - generic [ref=e80]: all?”
+              - generic [ref=e81]:
+                - generic [ref=e82]: Teams
+                - generic [ref=e83]: hiding
+                - generic [ref=e84]: behind
+                - generic [ref=e85]: that
+                - generic [ref=e86]: question
+              - generic [ref=e87]:
+                - generic [ref=e88]: will
+                - generic [ref=e89]: resist
+                - generic [ref=e90]: AI
+                - generic [ref=e91]: first
+                - generic [ref=e92]: and
+                - generic [ref=e93]: lose
+                - generic [ref=e94]: first,
+              - generic [ref=e95]:
+                - generic [ref=e96]: because
+                - generic [ref=e97]: the
+                - generic [ref=e98]: harder
+                - generic [ref=e99]: question
+                - generic [ref=e100]: is
+                - generic [ref=e101]: now
+              - generic [ref=e102]:
+                - generic [ref=e103]: “Why
+                - generic [ref=e104]: should
+                - generic [ref=e105]: this
+                - generic [ref=e106]: exist?”
+          - link "Open field notes" [ref=e107] [cursor=pointer]:
+            - /url: /principles
+            - text: Open field notes ↗
+      - generic [ref=e108]:
+        - heading "Work in progress" [level=2] [ref=e109]
+        - article [ref=e110]:
+          - generic [ref=e115]:
+            - generic [ref=e116]:
+              - paragraph [ref=e117]: BrewCircle
+              - generic [ref=e118]: Next.js
+              - generic [ref=e119]: In development
+            - paragraph [ref=e120]: India's social network and marketplace for home coffee brewers — share brews, discover gear, and connect with your local brewing community.
+          - generic [ref=e121]:
+            - link "Explore interactive prototype →" [ref=e122] [cursor=pointer]:
+              - /url: /wip/brewcircle
+            - link "View live MVP ↗" [ref=e123] [cursor=pointer]:
+              - /url: https://brew-circle.vercel.app
+            - generic [ref=e124]: Coffee DNA, marketplace, sessions & community Q&A
+      - generic [ref=e127]:
+        - button "Open work image 1" [ref=e128]:
+          - img "abusers access management 1x" [ref=e130]
+        - button "Open work image 2" [ref=e131]:
+          - img "eazysub about plan 1x" [ref=e133]
+        - button "Open work image 3" [ref=e134]:
+          - img "eazysub documentation website 1x" [ref=e136]
+        - button "Open work image 4" [ref=e137]:
+          - img "eazysub notifications 1x" [ref=e139]
+        - button "Open work image 5" [ref=e140]:
+          - img "eazysub plan timeline 1x" [ref=e142]
+        - button "Open work image 6" [ref=e143]
+        - button "Open work image 7" [ref=e146]:
+          - img "eazysub tables 1x" [ref=e148]
+        - button "Open work image 8" [ref=e149]
+        - button "Open work image 9" [ref=e153]:
+          - img "passenger flows 1x" [ref=e155]
+        - button "Open work image 10" [ref=e156]:
+          - img "ride confirmation 1x" [ref=e158]
+        - button "Open work image 11" [ref=e159]:
+          - img "users access empty state 1x" [ref=e161]
+      - generic [ref=e162]:
+        - heading "Projects" [level=2] [ref=e163]
+        - generic [ref=e164]:
+          - link [ref=e165] [cursor=pointer]:
+            - /url: /projects/edgesecure-iam
+            - img "Jio Edge Cloud Services thumbnail" [ref=e167]
+            - generic [ref=e168]:
+              - paragraph [ref=e169]: Jio Edge Cloud Services
+              - paragraph [ref=e170]: IAM, operations data visualisation, and product identity for an enterprise edge-cloud platform.
+          - link [ref=e171] [cursor=pointer]:
+            - /url: /projects/chargeit
+            - img "Jio ChargeIT thumbnail" [ref=e173]
+            - generic [ref=e174]:
+              - paragraph [ref=e175]: Jio ChargeIT
+              - paragraph [ref=e176]: Plan creation and flexible pricing for prepaid and postpaid subscription businesses.
+          - link [ref=e177] [cursor=pointer]:
+            - /url: /projects/gpay
+            - img "GPay + Wallet thumbnail" [ref=e179]
+            - generic [ref=e180]:
+              - paragraph [ref=e181]: GPay + Wallet
+              - paragraph [ref=e182]: An independent concept for savings pockets, round-ups, and lightweight budgeting inside familiar UPI flows.
+          - link [ref=e183] [cursor=pointer]:
+            - /url: /projects/mindhouse
+            - img "Mindhouse thumbnail" [ref=e185]
+            - generic [ref=e186]:
+              - paragraph [ref=e187]: Mindhouse
+              - paragraph [ref=e188]: Simplified class discovery for live meditation sessions.
+          - link [ref=e189] [cursor=pointer]:
+            - /url: /projects/mindhouse-filtering-review
+            - img "Mindhouse Filtering (Review) thumbnail" [ref=e191]
+            - generic [ref=e192]:
+              - paragraph [ref=e193]: Mindhouse Filtering (Review)
+              - paragraph [ref=e194]: Before/after walkthrough of the class filtering redesign.
+      - generic [ref=e195]:
+        - heading "Latest Writing" [level=2] [ref=e196]
+        - generic [ref=e197]:
+          - link [ref=e198] [cursor=pointer]:
+            - /url: /blog/running-late-teams-message
+            - generic [ref=e199]:
+              - generic [ref=e200]:
+                - generic [aria-hidden] [ref=e201]: SA
+                - text: portfolio
+              - paragraph [ref=e202]: March 12, 2026
+            - paragraph [ref=e203]: A Gentle "Running Late" Prompt for Microsoft Teams Meetings
+          - link [ref=e204] [cursor=pointer]:
+            - /url: https://medium.com/@saianjan.margani/wip-case-study-designing-a-household-as-a-service-platform-for-urban-flat-dwellers-b6cc4f49749d?source=rss-637fb68b557c------2
+            - generic [ref=e205]:
+              - generic [ref=e206]:
+                - img "Medium logo" [ref=e207]
+                - text: medium
+              - paragraph [ref=e208]: November 23, 2025
+            - paragraph [ref=e209]: "WIP Case Study: Designing a Household-as-a-Service Platform for Urban Flat Dwellers"
+          - link [ref=e210] [cursor=pointer]:
+            - /url: https://saianjan.substack.com/p/should-i-get-a-credit-card-or-not
+            - generic [ref=e211]:
+              - generic [ref=e212]:
+                - img "Substack logo" [ref=e213]
+                - text: substack
+              - paragraph [ref=e214]: October 22, 2024
+            - paragraph [ref=e215]: Should I get a credit card or not?
+          - link [ref=e216] [cursor=pointer]:
+            - /url: https://saianjan.substack.com/p/choosing-axiom-pt2
+            - generic [ref=e217]:
+              - generic [ref=e218]:
+                - img "Substack logo" [ref=e219]
+                - text: substack
+              - paragraph [ref=e220]: August 2, 2024
+            - paragraph [ref=e221]: Choosing axiom Pt2
+          - link [ref=e222] [cursor=pointer]:
+            - /url: https://saianjan.substack.com/p/choose-your-axiom-carefully
+            - generic [ref=e223]:
+              - generic [ref=e224]:
+                - img "Substack logo" [ref=e225]
+                - text: substack
+              - paragraph [ref=e226]: July 28, 2024
+            - paragraph [ref=e227]: Choose your axiom carefully!
+          - link [ref=e228] [cursor=pointer]:
+            - /url: https://saianjan.substack.com/p/law-of-parsimony
+            - generic [ref=e229]:
+              - generic [ref=e230]:
+                - img "Substack logo" [ref=e231]
+                - text: substack
+              - paragraph [ref=e232]: July 25, 2024
+            - paragraph [ref=e233]: Law of Parsimony
+          - link [ref=e234] [cursor=pointer]:
+            - /url: https://saianjan.substack.com/p/coming-soon
+            - generic [ref=e235]:
+              - generic [ref=e236]:
+                - img "Substack logo" [ref=e237]
+                - text: substack
+              - paragraph [ref=e238]: June 8, 2024
+            - paragraph [ref=e239]: Coming soon
+      - generic [ref=e240]:
+        - heading "Get in touch" [level=2] [ref=e241]
+        - generic [ref=e242]:
+          - link "Email" [ref=e243] [cursor=pointer]:
+            - /url: mailto:saianjan.margani@gmail.com
+          - link "Github" [ref=e247] [cursor=pointer]:
+            - /url: https://github.com/saianjan
+          - link "X / Twitter" [ref=e248] [cursor=pointer]:
+            - /url: https://x.com/Dhaathre
+          - link "LinkedIn" [ref=e249] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/saianjan/
+  - alert [ref=e250]

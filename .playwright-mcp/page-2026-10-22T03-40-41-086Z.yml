@@ -1,0 +1,506 @@
+- generic [ref=e2]:
+  - link [ref=e6] [cursor=pointer]:
+    - /url: /sub/inquery_project.asp
+  - generic [ref=e9]:
+    - generic [ref=e10]:
+      - link "GEWEB":
+        - /url: /main/index.asp
+        - img "GEWEB" [ref=e11] [cursor=pointer]
+    - generic [ref=e12]:
+      - generic [ref=e16]:
+        - textbox [ref=e17]
+        - link [ref=e19] [cursor=pointer]:
+          - /url: javascript:void(0);
+      - generic [ref=e21]:
+        - list [ref=e22]:
+          - listitem [ref=e23]:
+            - link "AWARDS 안내" [ref=e24] [cursor=pointer]:
+              - /url: /sub/about.asp
+          - listitem [ref=e25]:
+            - link "2026 수상작" [ref=e26] [cursor=pointer]:
+              - /url: /sub/list.asp
+          - listitem [ref=e27]:
+            - link "수상안내" [ref=e28] [cursor=pointer]:
+              - /url: /sub/mark.asp
+          - listitem [ref=e29]:
+            - link "문의하기" [ref=e30] [cursor=pointer]:
+              - /url: /sub/inquery.asp
+          - listitem [ref=e31]:
+            - link "심사등록" [ref=e32] [cursor=pointer]:
+              - /url: /mypage/business_nsite.asp
+        - generic [ref=e33]:
+          - definition [ref=e34]:
+            - link "디지털에이전시검색" [ref=e35] [cursor=pointer]:
+              - /url: /sub/recommend.asp
+          - definition [ref=e36]:
+            - link "에이전시 견적받기" [ref=e37] [cursor=pointer]:
+              - /url: /sub/inquery_project.asp
+          - definition [ref=e38]:
+            - link "디지털에이전시순위정보" [ref=e39] [cursor=pointer]:
+              - /url: /sub/agency.asp
+      - list [ref=e41]:
+        - listitem [ref=e42]:
+          - link "로그인" [ref=e43] [cursor=pointer]:
+            - /url: /member/login.asp?loc=%2Fsub%2Fview%2Easp%3Fdisplayrow%3D60%26Txt%5Fkey%3Dall%26Txt%5Fword%3D%26Txt%5Fagnumber%3D%26Txt%5Ffgbn%3D7%26Txt%5Fbcode1%3D%26Txt%5Fgbflag%3D%26Txt%5Fbcode2%3D%26Txt%5Fbcode3%3D%26Txt%5Fbcode4%3D%26Txt%5Fbcode5%3D%26Page%3D2%26str%5Fno%3D25379
+        - listitem [ref=e44]:
+          - text: /
+          - link "회원가입" [ref=e45] [cursor=pointer]:
+            - /url: /member/simple_join_1.asp
+  - generic [ref=e46]:
+    - generic [ref=e47]:
+      - generic [ref=e48]:
+        - generic [ref=e49]: 연도별 FINALIST
+        - combobox [ref=e51] [cursor=pointer]:
+          - option "연도별 선정작" [selected]
+          - option "2025년"
+          - option "2024년"
+          - option "2023년"
+          - option "2022년"
+          - option "2021년"
+          - option "2020년"
+          - option "2019년"
+          - option "2018년"
+          - option "2017년"
+          - option "2016년"
+      - generic [ref=e52]:
+        - list [ref=e53]:
+          - listitem [ref=e54]:
+            - link "GDWEB 선정작" [ref=e55] [cursor=pointer]:
+              - /url: /sub/list.asp
+          - listitem [ref=e56]:
+            - link "- WEB 부문" [ref=e57] [cursor=pointer]:
+              - /url: /sub/list.asp
+          - listitem [ref=e58]:
+            - link "- MOBILE 부문" [ref=e59] [cursor=pointer]:
+              - /url: /sub/list.asp?Txt_fgbn=7
+        - list [ref=e60]:
+          - listitem [ref=e61]:
+            - link "심사방법 및 절차" [ref=e62] [cursor=pointer]:
+              - /url: /sub/process.asp
+          - listitem [ref=e63]:
+            - link "심사위원" [ref=e64] [cursor=pointer]:
+              - /url: /sub/judge.asp
+          - listitem [ref=e65]:
+            - link "심사등록" [ref=e66] [cursor=pointer]:
+              - /url: /mypage/business_nsite.asp
+          - listitem [ref=e67]:
+            - link "수상 신청" [ref=e68] [cursor=pointer]:
+              - /url: /sub/mark.asp
+        - list [ref=e69]:
+          - listitem [ref=e70]:
+            - link "에이전시 검색" [ref=e71] [cursor=pointer]:
+              - /url: /sub/recommend.asp
+          - listitem [ref=e72]:
+            - link "에이전시 순위" [ref=e73] [cursor=pointer]:
+              - /url: /sub/agency.asp
+          - listitem [ref=e74]:
+            - link "채용뉴스" [ref=e75] [cursor=pointer]:
+              - /url: /boad/bd_free/2/egolist.asp?bd=2
+          - listitem [ref=e76]:
+            - link "무료이미지" [ref=e77] [cursor=pointer]:
+              - /url: /sharing/index.asp
+        - list [ref=e78]:
+          - listitem [ref=e79]:
+            - link "일본 웹사이트" [ref=e80] [cursor=pointer]:
+              - /url: /sub/list.asp?Txt_fgbn=23
+          - listitem [ref=e81]:
+            - link "해외 웹사이트" [ref=e82] [cursor=pointer]:
+              - /url: /sub/list.asp?Txt_fgbn=6
+        - list [ref=e83]:
+          - listitem [ref=e84]:
+            - link "GDWEB 이야기" [ref=e85] [cursor=pointer]:
+              - /url: /boad/bd_news/1/egoread.asp?bd=5&typ=0&val=0&itm=&txt=&pg=1&seq=976
+      - generic [ref=e86]:
+        - paragraph [ref=e87]: 문의
+        - paragraph [ref=e88]: TEL 031.994.1250
+        - paragraph [ref=e89]: contact@gdweb.co.kr
+        - paragraph [ref=e90]: 오전 10시 ~ 오후 6시
+    - generic [ref=e91]:
+      - generic [ref=e92]:
+        - generic [ref=e93]:
+          - generic [ref=e97]:
+            - generic [ref=e98]:
+              - paragraph [ref=e99]: CGV
+              - paragraph [ref=e100]:
+                - link "https://cgv.co.kr/ (사이트바로가기)" [ref=e101] [cursor=pointer]:
+                  - /url: https://cgv.co.kr/
+            - link [ref=e103] [cursor=pointer]:
+              - /url: http://pinterest.com/pin/create/bookmarklet/?media=http%3A%2F%2Fwww%2Egdweb%2Eco%2Ekr%2Fadmincenter%2Ffiles%2Fweb%2F2025%2F20252025072947468710155205%2Epng&url=http%3A%2F%2Fwww%2Egdweb%2Eco%2Ekr%2Fsub%2Fview%2Easp%3Fdisplayrow%3D60%26Txt%5Fkey%3Dall%26Txt%5Fword%3D%26Txt%5Fagnumber%3D%26Txt%5Ffgbn%3D7%26Txt%5Fbcode1%3D%26Txt%5Fgbflag%3D%26Txt%5Fbcode2%3D%26Txt%5Fbcode3%3D%26Txt%5Fbcode4%3D%26Txt%5Fbcode5%3D%26Page%3D2%26str%5Fno%3D25379&description=CGV
+              - paragraph [ref=e104]: 핀터레스트에 추가
+          - generic [ref=e112]:
+            - list [ref=e114]:
+              - listitem [ref=e115]: 제작사
+              - listitem [ref=e116]:
+                - paragraph [ref=e117]: 미등록
+            - generic [ref=e119]:
+              - heading "CGV" [level=2] [ref=e120]
+              - table [ref=e121]:
+                - rowgroup [ref=e122]:
+                  - row [ref=e123]:
+                    - rowheader "수상명" [ref=e124]
+                    - cell "GRAND PRIZE" [ref=e125]
+                  - row [ref=e127]:
+                    - rowheader "선정증서번호" [ref=e128]
+                    - cell [ref=e129]:
+                      - generic [ref=e130]:
+                        - text: "202507290002"
+                        - link "(수상신청)" [ref=e131] [cursor=pointer]:
+                          - /url: /sub/inquery.asp?int_gubun=4
+                  - row [ref=e132]:
+                    - rowheader "등록일" [ref=e133]
+                    - cell "2025년 07월 29일" [ref=e134]
+                  - row [ref=e135]:
+                    - rowheader "제작사" [ref=e136]
+                    - cell "미등록" [ref=e137]
+              - list [ref=e139]:
+                - listitem [ref=e140]:
+                  - link "원본 이미지 다운로드" [ref=e142] [cursor=pointer]:
+                    - /url: javascript:void(0);
+                - listitem [ref=e144]:
+                  - link "스크랩하기" [ref=e146] [cursor=pointer]:
+                    - /url: javascript:void(0);
+        - generic [ref=e149]:
+          - generic [ref=e151]:
+            - heading "CGV UX의 히스토리" [level=2] [ref=e152]
+            - list [ref=e155]:
+              - listitem [ref=e156]:
+                - generic [ref=e157]:
+                  - generic [ref=e158]:
+                    - link:
+                      - /url: ./view.asp?Txt_fgbn=7&str_no=16155
+                      - img [ref=e159] [cursor=pointer]
+                  - generic [ref=e160]:
+                    - paragraph [ref=e161]:
+                      - link "CGV" [ref=e162] [cursor=pointer]:
+                        - /url: ./view.asp?Txt_fgbn=7&str_no=16155
+                    - paragraph [ref=e163]: 21.12.27
+                  - generic [ref=e164]:
+                    - generic [ref=e166]:
+                      - term [ref=e167]:
+                        - link [ref=e168] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=e170]:
+                        - link [ref=e171] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                    - paragraph [ref=e173]: 23,767
+              - listitem [ref=e174]:
+                - generic [ref=e175]:
+                  - generic [ref=e176]:
+                    - link:
+                      - /url: ./view.asp?Txt_fgbn=7&str_no=7995
+                      - img [ref=e177] [cursor=pointer]
+                  - generic [ref=e178]:
+                    - paragraph [ref=e179]:
+                      - link "CGV" [ref=e180] [cursor=pointer]:
+                        - /url: ./view.asp?Txt_fgbn=7&str_no=7995
+                    - paragraph [ref=e181]: 16.03.10
+                  - generic [ref=e182]:
+                    - generic [ref=e184]:
+                      - term [ref=e185]:
+                        - link [ref=e186] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=e188]:
+                        - link [ref=e189] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                    - paragraph [ref=e191]: 13,210
+              - listitem [ref=e192]:
+                - generic [ref=e193]:
+                  - generic [ref=e194]:
+                    - link:
+                      - /url: ./view.asp?Txt_fgbn=7&str_no=6978
+                      - img [ref=e195] [cursor=pointer]
+                  - generic [ref=e196]:
+                    - paragraph [ref=e197]:
+                      - link "CGV" [ref=e198] [cursor=pointer]:
+                        - /url: ./view.asp?Txt_fgbn=7&str_no=6978
+                    - paragraph [ref=e199]: 14.09.01
+                  - generic [ref=e200]:
+                    - generic [ref=e202]:
+                      - term [ref=e203]:
+                        - link [ref=e204] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=e206]:
+                        - link [ref=e207] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                    - paragraph [ref=e209]: 7,800
+              - listitem [ref=e210]:
+                - generic [ref=e211]:
+                  - generic [ref=e212]:
+                    - link:
+                      - /url: ./view.asp?Txt_fgbn=7&str_no=2560
+                      - img [ref=e213] [cursor=pointer]
+                  - generic [ref=e214]:
+                    - paragraph [ref=e215]:
+                      - link "CGV" [ref=e216] [cursor=pointer]:
+                        - /url: ./view.asp?Txt_fgbn=7&str_no=2560
+                    - paragraph [ref=e217]: 11.03.02
+                  - generic [ref=e218]:
+                    - generic [ref=e220]:
+                      - term [ref=e221]:
+                        - link [ref=e222] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=e224]:
+                        - link [ref=e225] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                    - paragraph [ref=e227]: 6,095
+              - listitem [ref=e228]:
+                - generic [ref=e229]:
+                  - generic [ref=e230]:
+                    - link:
+                      - /url: ./view.asp?Txt_fgbn=7&str_no=2444
+                      - img [ref=e231] [cursor=pointer]
+                  - generic [ref=e232]:
+                    - paragraph [ref=e233]:
+                      - link "CGV" [ref=e234] [cursor=pointer]:
+                        - /url: ./view.asp?Txt_fgbn=7&str_no=2444
+                    - paragraph [ref=e235]: 11.02.27
+                  - generic [ref=e236]:
+                    - generic [ref=e238]:
+                      - term [ref=e239]:
+                        - link [ref=e240] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=e242]:
+                        - link [ref=e243] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                    - paragraph [ref=e245]: 7,519
+          - generic [ref=e247]:
+            - heading "CGV과 유사한 업종의 사이트들" [level=2] [ref=e248]
+            - list [ref=e251]:
+              - listitem [ref=e252]:
+                - generic [ref=e253]:
+                  - generic [ref=e254]:
+                    - link:
+                      - /url: ./view.asp?Txt_fgbn=7&str_no=23356
+                      - img [ref=e255] [cursor=pointer]
+                  - generic [ref=e256]:
+                    - paragraph [ref=e257]:
+                      - link "마이비" [ref=e258] [cursor=pointer]:
+                        - /url: ./view.asp?Txt_fgbn=7&str_no=23356
+                    - paragraph [ref=e259]: 24.10.21
+                  - generic [ref=e260]:
+                    - generic [ref=e262]:
+                      - term [ref=e263]:
+                        - link [ref=e264] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=e266]:
+                        - link [ref=e267] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                    - paragraph [ref=e269]: 25,844
+              - listitem [ref=e270]:
+                - generic [ref=e271]:
+                  - generic [ref=e272]:
+                    - link:
+                      - /url: ./view.asp?Txt_fgbn=7&str_no=26997
+                      - img [ref=e273] [cursor=pointer]
+                  - generic [ref=e274]:
+                    - paragraph [ref=e275]:
+                      - link "ORBYT" [ref=e276] [cursor=pointer]:
+                        - /url: ./view.asp?Txt_fgbn=7&str_no=26997
+                    - paragraph [ref=e277]: 26.05.11
+                  - generic [ref=e278]:
+                    - generic [ref=e280]:
+                      - term [ref=e281]:
+                        - link [ref=e282] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=e284]:
+                        - link [ref=e285] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                    - paragraph [ref=e287]: 7,476
+              - listitem [ref=e288]:
+                - generic [ref=e289]:
+                  - generic [ref=e290]:
+                    - link:
+                      - /url: ./view.asp?Txt_fgbn=7&str_no=25379
+                      - img [ref=e291] [cursor=pointer]
+                  - generic [ref=e292]:
+                    - paragraph [ref=e293]:
+                      - link "CGV" [ref=e294] [cursor=pointer]:
+                        - /url: ./view.asp?Txt_fgbn=7&str_no=25379
+                    - paragraph [ref=e295]: 25.07.29
+                  - generic [ref=e296]:
+                    - generic [ref=e298]:
+                      - term [ref=e299]:
+                        - link [ref=e300] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=e302]:
+                        - link [ref=e303] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                    - paragraph [ref=e305]: 22,223
+              - listitem [ref=e306]:
+                - generic [ref=e307]:
+                  - generic [ref=e308]:
+                    - link:
+                      - /url: ./view.asp?Txt_fgbn=7&str_no=23930
+                      - img [ref=e309] [cursor=pointer]
+                  - generic [ref=e310]:
+                    - paragraph [ref=e311]:
+                      - link "골프존" [ref=e312] [cursor=pointer]:
+                        - /url: ./view.asp?Txt_fgbn=7&str_no=23930
+                    - paragraph [ref=e313]: 25.01.15
+                  - generic [ref=e314]:
+                    - generic [ref=e316]:
+                      - term [ref=e317]:
+                        - link [ref=e318] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=e320]:
+                        - link [ref=e321] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                    - paragraph [ref=e323]: 13,197
+              - listitem [ref=e324]:
+                - generic [ref=e325]:
+                  - generic [ref=e326]:
+                    - link:
+                      - /url: ./view.asp?Txt_fgbn=7&str_no=23053
+                      - img [ref=e327] [cursor=pointer]
+                  - generic [ref=e328]:
+                    - paragraph [ref=e329]:
+                      - link "Spoon" [ref=e330] [cursor=pointer]:
+                        - /url: ./view.asp?Txt_fgbn=7&str_no=23053
+                    - paragraph [ref=e331]: 24.09.04
+                  - generic [ref=e332]:
+                    - generic [ref=e334]:
+                      - term [ref=e335]:
+                        - link [ref=e336] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=e338]:
+                        - link [ref=e339] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                    - paragraph [ref=e341]: 23,421
+              - listitem [ref=e342]:
+                - generic [ref=e343]:
+                  - generic [ref=e344]:
+                    - link:
+                      - /url: ./view.asp?Txt_fgbn=7&str_no=23338
+                      - img [ref=e345] [cursor=pointer]
+                  - generic [ref=e346]:
+                    - paragraph [ref=e347]:
+                      - link "프랜즈 스크린" [ref=e348] [cursor=pointer]:
+                        - /url: ./view.asp?Txt_fgbn=7&str_no=23338
+                    - paragraph [ref=e349]: 24.10.18
+                  - generic [ref=e350]:
+                    - generic [ref=e352]:
+                      - term [ref=e353]:
+                        - link [ref=e354] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=e356]:
+                        - link [ref=e357] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                    - paragraph [ref=e359]: 26,065
+              - listitem [ref=e360]:
+                - generic [ref=e361]:
+                  - generic [ref=e362]:
+                    - link:
+                      - /url: ./view.asp?Txt_fgbn=7&str_no=27790
+                      - img [ref=e363] [cursor=pointer]
+                  - generic [ref=e364]:
+                    - paragraph [ref=e365]:
+                      - link "NETFLIX 넷플릭스 코리아 10주년" [ref=e366] [cursor=pointer]:
+                        - /url: ./view.asp?Txt_fgbn=7&str_no=27790
+                    - paragraph [ref=e367]: 26.10.13
+                  - generic [ref=e368]:
+                    - generic [ref=e370]:
+                      - term [ref=e371]:
+                        - link [ref=e372] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=e374]:
+                        - link [ref=e375] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                    - paragraph [ref=e377]: 1,393
+              - listitem [ref=e378]:
+                - generic [ref=e379]:
+                  - generic [ref=e380]:
+                    - link:
+                      - /url: ./view.asp?Txt_fgbn=7&str_no=27191
+                      - img [ref=e381] [cursor=pointer]
+                  - generic [ref=e382]:
+                    - paragraph [ref=e383]:
+                      - link "대원미디어 팝콘D플레이" [ref=e384] [cursor=pointer]:
+                        - /url: ./view.asp?Txt_fgbn=7&str_no=27191
+                    - paragraph [ref=e385]: 26.06.28
+                  - generic [ref=e386]:
+                    - generic [ref=e388]:
+                      - term [ref=e389]:
+                        - link [ref=e390] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=e392]:
+                        - link [ref=e393] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                    - paragraph [ref=e395]: 9,513
+              - listitem [ref=e396]:
+                - generic [ref=e397]:
+                  - generic [ref=e398]:
+                    - link:
+                      - /url: ./view.asp?Txt_fgbn=7&str_no=25680
+                      - img [ref=e399] [cursor=pointer]
+                  - generic [ref=e400]:
+                    - paragraph [ref=e401]:
+                      - link "싱잇" [ref=e402] [cursor=pointer]:
+                        - /url: ./view.asp?Txt_fgbn=7&str_no=25680
+                    - paragraph [ref=e403]: 24.11.20
+                  - generic [ref=e404]:
+                    - generic [ref=e406]:
+                      - term [ref=e407]:
+                        - link [ref=e408] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=e410]:
+                        - link [ref=e411] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                    - paragraph [ref=e413]: 6,588
+              - listitem [ref=e414]:
+                - generic [ref=e415]:
+                  - generic [ref=e416]:
+                    - link:
+                      - /url: ./view.asp?Txt_fgbn=7&str_no=22442
+                      - img [ref=e417] [cursor=pointer]
+                  - generic [ref=e418]:
+                    - paragraph [ref=e419]:
+                      - link "캐시넥" [ref=e420] [cursor=pointer]:
+                        - /url: ./view.asp?Txt_fgbn=7&str_no=22442
+                    - paragraph [ref=e421]: 24.06.20
+                  - generic [ref=e422]:
+                    - generic [ref=e424]:
+                      - term [ref=e425]:
+                        - link [ref=e426] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                      - term [ref=e428]:
+                        - link [ref=e429] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                    - paragraph [ref=e431]: 37,192
+      - generic [ref=e433]:
+        - generic [ref=e434]:
+          - generic [ref=e435]:
+            - generic [ref=e436]: 공지사항
+            - list [ref=e437]:
+              - listitem [ref=e442]:
+                - link [ref=e444] [cursor=pointer]:
+                  - /url: /boad/bd_news/1/egoread.asp?bd=1&seq=1743
+                  - paragraph [ref=e445]: BEST 선정작 점수 변경 공지합니다.
+                - generic [ref=e446]: 2026.04.10
+          - list [ref=e448]:
+            - listitem [ref=e449]:
+              - link "배너문의" [ref=e450] [cursor=pointer]:
+                - /url: /sub/inquery.asp?int_gubun=2
+            - listitem [ref=e451]:
+              - link "제휴문의" [ref=e452] [cursor=pointer]:
+                - /url: /sub/inquery.asp?int_gubun=3
+        - generic [ref=e453]:
+          - generic [ref=e454]:
+            - list [ref=e455]:
+              - listitem [ref=e456]:
+                - link "제휴문의" [ref=e457] [cursor=pointer]:
+                  - /url: /sub/inquery.asp?int_gubun=3
+              - listitem [ref=e458]:
+                - link "이용약관" [ref=e459] [cursor=pointer]:
+                  - /url: /sub/agreement.asp
+              - listitem [ref=e460]:
+                - link "개인정보처리방침" [ref=e461] [cursor=pointer]:
+                  - /url: /sub/privacy.asp
+              - listitem [ref=e462]:
+                - link "공지사항" [ref=e463] [cursor=pointer]:
+                  - /url: /boad/bd_news/1/egolist.asp?bd=1
+            - generic [ref=e464]:
+              - paragraph [ref=e465]: 굿디자인웹(GDWEB) | contact@gdweb.co.kr | TEL.031-994-1250 | 등록번호 263-16-01300
+              - paragraph [ref=e466]: GDWEB All rights reserved
+          - link [ref=e468] [cursor=pointer]:
+            - /url: javascript:void(0);
+          - generic [ref=e470]: FAMILY SITE

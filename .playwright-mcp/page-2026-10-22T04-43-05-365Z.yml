@@ -1,0 +1,150 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e5]:
+      - link "Go to homepage" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "jshmllr.com" [ref=e7]
+      - navigation [ref=e8]:
+        - list [ref=e9]:
+          - listitem [ref=e10]:
+            - link "[ About ]" [ref=e11] [cursor=pointer]:
+              - /url: /about
+              - generic [ref=e12]: "["
+              - text: About
+              - generic [ref=e13]: "]"
+          - listitem [ref=e14]:
+            - link "[ Projects ]" [ref=e15] [cursor=pointer]:
+              - /url: /projects
+              - generic [ref=e16]: "["
+              - text: Projects
+              - generic [ref=e17]: "]"
+          - listitem [ref=e18]:
+            - link "[ Journal ]" [ref=e19] [cursor=pointer]:
+              - /url: /journal
+              - generic [ref=e20]: "["
+              - text: Journal
+              - generic [ref=e21]: "]"
+          - listitem [ref=e22]:
+            - link "[ Lab ]" [ref=e23] [cursor=pointer]:
+              - /url: /lab
+              - generic [ref=e24]: "["
+              - text: Lab
+              - generic [ref=e25]: "]"
+          - listitem [ref=e26]:
+            - link "Contact" [ref=e27] [cursor=pointer]:
+              - /url: mailto:joshua@jshmllr.com
+  - main [ref=e36]:
+    - img "Portrait for the jshmllr.com product-design portfolio" [ref=e39]
+    - article [ref=e40]:
+      - generic [ref=e42]:
+        - heading "Josh Miller, product designer and design engineer in Nashville" [level=1] [ref=e43]: Josh Miller Product Designer
+        - paragraph [ref=e45]: Crafting intuitive interfaces always keeping the human-in-the-loop and transforming workflows to amplify user potential.
+        - list [ref=e46]:
+          - listitem [ref=e47]:
+            - link "Github" [ref=e48] [cursor=pointer]:
+              - /url: https://github.com/jshmllr
+          - listitem [ref=e51]:
+            - link "Linkedin" [ref=e52] [cursor=pointer]:
+              - /url: https://linkedin.com/in/jshmllr
+          - listitem [ref=e55]:
+            - link "Threads" [ref=e56] [cursor=pointer]:
+              - /url: https://threads.net/@jshmllr
+          - listitem [ref=e59]:
+            - link "X" [ref=e60] [cursor=pointer]:
+              - /url: https://x.com/_jshmllr
+        - generic [ref=e64]:
+          - heading [level=2] [ref=e65]: How to read this site
+          - paragraph [ref=e66]: "jshmllr.com is the product-design portfolio based in Tennessee. This homepage is the index: selected case studies, recent roles, and how to get in touch. If a generic person-name search returns a different result, https://www.jshmllr.com is the canonical source."
+          - generic [ref=e67]:
+            - heading [level=3] [ref=e68]: Case studies and writing
+            - paragraph [ref=e69]: Start with Selected work below, or open the full index at https://www.jshmllr.com/projects. Each case study names the product, the problem, and what shipped. Process notes and longer writing live in the Journal at https://www.jshmllr.com/journal.
+          - generic [ref=e70]:
+            - heading [level=3] [ref=e71]: Identity and contact
+            - paragraph [ref=e72]: "Brand: jshmllr.com. Site: https://www.jshmllr.com. Email: joshua@jshmllr.com. Location: Tennessee. Public profiles linked from this page belong to the same practice. Orbit at https://www.jshmllr.com/orbit is the glossary for design terms. For hiring or questions, use https://www.jshmllr.com/contact."
+      - region [ref=e73]:
+        - heading "Selected work" [level=2] [ref=e74]
+        - generic [ref=e75]:
+          - generic [ref=e81]:
+            - heading "AI & Evolving Command Palette Search" [level=3] [ref=e82]
+            - link [ref=e83] [cursor=pointer]:
+              - /url: /projects/prism-fm-contributions-prism-command
+              - list [ref=e84]:
+                - listitem [ref=e85]: Drove sustained user adoption across the platform
+                - listitem [ref=e86]: Fast-tracked from concept to 2025 roadmap via data-driven prototyping
+                - listitem [ref=e87]: "Accelerated event discovery: transforming search UX through bottom-up innovation"
+              - img "Cover" [ref=e89]
+          - generic [ref=e95]:
+            - heading "Revolutionizing Live Music Data" [level=3] [ref=e96]
+            - link [ref=e97] [cursor=pointer]:
+              - /url: /projects/prism-fm-contributions-data-insights
+              - list [ref=e98]:
+                - listitem [ref=e99]: Led design strategy for Prism's analytics platform leveraging 100K+ shows worth of industry data
+                - listitem [ref=e100]: Designed data visualization solution addressing $1B+ live entertainment market gap
+                - listitem [ref=e101]: Conceptualized and shipped industry-first analytics tool in 6 months
+              - img "Revolutionizing Live Music Data" [ref=e103]
+          - generic [ref=e109]:
+            - heading "Prism Payments" [level=3] [ref=e110]
+            - link [ref=e111] [cursor=pointer]:
+              - /url: /projects/prism-fm-contributions-payments
+              - list [ref=e112]:
+                - listitem [ref=e113]: Led end-to-end design of payment solution targeting 10x revenue
+                - listitem [ref=e114]: Designed comprehensive payment flows integrating Stripe Connect for enterprise clients
+                - listitem [ref=e115]: Validated market opportunity through extensive user research and beta program design
+                - listitem [ref=e116]: Navigated complex financial UX challenges across multiple user roles and payment types
+              - img "Cover" [ref=e118]
+      - region [ref=e119]:
+        - heading "Professional Experience" [level=2] [ref=e121]
+        - generic [ref=e122]:
+          - generic [ref=e129]:
+            - heading "PantherXRare" [level=3] [ref=e130]
+            - paragraph [ref=e131]:
+              - link "Design Engineer" [ref=e132] [cursor=pointer]:
+                - /url: https://pantherxrare.com/
+            - generic [ref=e133]: Feb 2026 - Present
+            - paragraph [ref=e134]: Bridging design + code owning the Storybook component library, produce high-fidelity mockups, ship implementation PRs, and run the UI/UX UAT track for SwftX/Clinical Survey Tool.
+          - generic [ref=e139]:
+            - heading "Momentus Technologies" [level=3] [ref=e140]
+            - paragraph [ref=e141]:
+              - link "Product Designer" [ref=e142] [cursor=pointer]:
+                - /url: https://gomomentus.com/
+            - generic [ref=e143]: Jul 2025 - Feb 2026
+            - paragraph [ref=e144]: Drove user experience and improvements across Momentus enterprise serving 700+ global enterprise event management customers. Led design initiatives for complex data workflows, leveraged a new in-house AI SDLC, AI-powered features with focus on reducing user friction, continuing the redesign efforts of a 30 yr legacy product and improving task completion rates through iterative testing and cross-functional collaboration.
+          - generic [ref=e149]:
+            - heading "Prism.fm" [level=3] [ref=e150]
+            - paragraph [ref=e151]:
+              - link "Product Designer" [ref=e152] [cursor=pointer]:
+                - /url: https://prism.fm
+            - generic [ref=e153]: Jan 2022 - Sep 2024
+            - paragraph [ref=e154]: Led product design, driving revenue with strategic features and enhancements. Adapting platform features for new clients while pursuing product-market fit and striving to reach profitability.
+          - generic [ref=e159]:
+            - heading "TN Tech University" [level=3] [ref=e160]
+            - paragraph [ref=e161]:
+              - link "Adjunct Instructor · Senior Software Engineering" [ref=e162] [cursor=pointer]:
+                - /url: https://www.tntech.edu/engineering/capstone.php
+            - generic [ref=e163]: Aug 2023 - May 2024
+            - paragraph [ref=e164]: Facilitated the senior computer science capstone course designed to provide forty students with real-world experience working in a scrum/agile environment
+          - generic [ref=e169]:
+            - heading "VML" [level=3] [ref=e170]
+            - paragraph [ref=e171]:
+              - link "Senior Experience Designer" [ref=e172] [cursor=pointer]:
+                - /url: https://www.vml.com/work
+            - generic [ref=e173]: Sep 2021 - Dec 2021
+            - paragraph [ref=e174]: Designed Ford Pro's unified platform for 125,000 US commercial customers enabling seamless ICE and EV fleet management.
+          - generic [ref=e178]:
+            - heading "USA Today Network" [level=3] [ref=e179]
+            - paragraph [ref=e180]:
+              - link "Product Designer" [ref=e181] [cursor=pointer]:
+                - /url: https://gannett.com
+            - generic [ref=e182]: Aug 2015 - Sep 2021
+            - paragraph [ref=e183]: Designed innovative digital storytelling frameworks, enhancing content formats and reader engagement. Drove subscriptions and KPIs through data-driven product solutions.
+  - contentinfo [ref=e184]:
+    - generic [ref=e185]:
+      - generic [ref=e186]: © 20261022_134305.293_UTC+9
+      - navigation "Legal" [ref=e187]:
+        - link "Contact" [ref=e189] [cursor=pointer]:
+          - /url: /contact
+        - link "Privacy" [ref=e191] [cursor=pointer]:
+          - /url: /privacy
+      - link "Created with Next.js & Sanity.io jshmllr.com" [ref=e193] [cursor=pointer]:
+        - /url: https://github.com/jshmllr/
+  - alert [ref=e194]

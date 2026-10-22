@@ -1,0 +1,121 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - link "Home" [ref=e5] [cursor=pointer]:
+          - /url: /
+        - link "Projects" [ref=e6] [cursor=pointer]:
+          - /url: /projects
+        - link "Writing" [ref=e7] [cursor=pointer]:
+          - /url: /writing
+        - link "About" [ref=e8] [cursor=pointer]:
+          - /url: /about
+      - button [ref=e9]
+  - main [ref=e19]:
+    - generic [ref=e20]:
+      - img "Sunrise illustration" [ref=e22]
+      - generic [ref=e23]:
+        - heading "Marsha Teo" [level=1] [ref=e24]
+        - paragraph [ref=e25]: Curious about data, software and how things work
+        - link "Explore Projects" [ref=e26] [cursor=pointer]:
+          - /url: /projects
+    - generic [ref=e29]:
+      - heading "Featured Projects" [level=2] [ref=e30]
+      - paragraph [ref=e31]: Selected projects exploring data, software and how things work
+      - generic [ref=e32]:
+        - link "ft_transcendence — Real-Time Pong Platform ft_transcendence — Real-Time Pong Platform A full-stack, microservices-based Pong platform featuring real-time gameplay, AI opponents, tournaments, and player analytics. Tailwind TypeScript Node.js Fastify Docker SQLite Prisma Nginx WebSockets View project →" [ref=e33] [cursor=pointer]:
+          - /url: /projects/transcendence
+          - generic [ref=e34]:
+            - img "ft_transcendence — Real-Time Pong Platform" [ref=e36]
+            - generic [ref=e37]:
+              - heading "ft_transcendence — Real-Time Pong Platform" [level=3] [ref=e38]
+              - paragraph [ref=e39]: A full-stack, microservices-based Pong platform featuring real-time gameplay, AI opponents, tournaments, and player analytics.
+              - generic [ref=e40]:
+                - generic [ref=e41]: Tailwind
+                - generic [ref=e42]: TypeScript
+                - generic [ref=e43]: Node.js
+                - generic [ref=e44]: Fastify
+                - generic [ref=e45]: Docker
+                - generic [ref=e46]: SQLite
+                - generic [ref=e47]: Prisma
+                - generic [ref=e48]: Nginx
+                - generic [ref=e49]: WebSockets
+              - generic [ref=e50]: View project →
+        - link "Webserv — HTTP Server in C++ Webserv — HTTP Server in C++ Custom HTTP/1.1 server written in C++ implementing request parsing, routing, CGI execution, and concurrent client handling using an event-driven architecture Systems Programming C++ HTTP View project →" [ref=e51] [cursor=pointer]:
+          - /url: /projects/webserv
+          - generic [ref=e52]:
+            - img "Webserv — HTTP Server in C++" [ref=e54]
+            - generic [ref=e55]:
+              - heading "Webserv — HTTP Server in C++" [level=3] [ref=e56]
+              - paragraph [ref=e57]: Custom HTTP/1.1 server written in C++ implementing request parsing, routing, CGI execution, and concurrent client handling using an event-driven architecture
+              - generic [ref=e58]:
+                - generic [ref=e59]: Systems Programming
+                - generic [ref=e60]: C++
+                - generic [ref=e61]: HTTP
+              - generic [ref=e62]: View project →
+        - link "→ More Projects Explore all my work" [ref=e63] [cursor=pointer]:
+          - /url: /projects
+          - generic [ref=e64]:
+            - generic [ref=e65]: →
+            - generic [ref=e66]: More Projects
+            - paragraph [ref=e67]: Explore all my work
+    - generic [ref=e70]:
+      - heading "Current Focus" [level=2] [ref=e71]
+      - generic [ref=e72]:
+        - generic [ref=e73]:
+          - heading "AI & Machine Learning" [level=3] [ref=e74]
+          - paragraph [ref=e75]: Working on computer vision projects exploring how machines understand images, including experiments with visual datasets and art
+        - generic [ref=e76]:
+          - heading "Building Small Products" [level=3] [ref=e77]
+          - paragraph [ref=e78]: Experimenting with small applications and tools such as Chrome extensions and other productivity tools
+        - generic [ref=e79]:
+          - heading "Learning in Public" [level=3] [ref=e80]
+          - paragraph [ref=e81]: Deepening my understanding of JavaScript while writing articles that explain concepts like the event loop and debugging
+    - generic [ref=e84]:
+      - heading "About" [level=2] [ref=e85]
+      - paragraph [ref=e86]: I'm a programmer currently studying at 42 Abu Dhabi. Before programming, I worked as an economist in the Singapore government, where I focused on data analysis and public policy.
+      - paragraph [ref=e87]: Today I'm focused on building software systems, learning machine learning, and creating tools that turn ideas into real products.
+      - link "Read more →" [ref=e88] [cursor=pointer]:
+        - /url: /about
+    - generic [ref=e92]:
+      - heading "Get in Touch" [level=2] [ref=e93]
+      - paragraph [ref=e94]: If you'd like to collaborate, discuss a project, or just say hello
+      - button "marsha.teo@gmail.com" [ref=e95]
+      - paragraph [ref=e96]: Click to copy
+  - contentinfo [ref=e97]:
+    - generic [ref=e98]:
+      - generic [ref=e99]:
+        - paragraph [ref=e100]: Marsha Teo
+        - paragraph [ref=e101]: Curious about data, software and how things work
+      - generic [ref=e102]:
+        - paragraph [ref=e103]: Explore
+        - list [ref=e104]:
+          - listitem [ref=e105]:
+            - link "Home" [ref=e106] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e107]:
+            - link "Projects" [ref=e108] [cursor=pointer]:
+              - /url: /projects
+          - listitem [ref=e109]:
+            - link "Writing" [ref=e110] [cursor=pointer]:
+              - /url: /writing
+          - listitem [ref=e111]:
+            - link "About" [ref=e112] [cursor=pointer]:
+              - /url: /about
+      - generic [ref=e113]:
+        - paragraph [ref=e114]: Elsewhere
+        - list [ref=e115]:
+          - listitem [ref=e116]:
+            - link "GitHub" [ref=e117] [cursor=pointer]:
+              - /url: https://github.com/marsha-t
+          - listitem [ref=e118]:
+            - link "LinkedIn" [ref=e119] [cursor=pointer]:
+              - /url: https://linkedin.com/in/marshateo
+          - listitem [ref=e120]:
+            - link "Medium" [ref=e121] [cursor=pointer]:
+              - /url: https://medium.com/@marshateo
+          - listitem [ref=e122]:
+            - link "Dev.to" [ref=e123] [cursor=pointer]:
+              - /url: https://dev.to/marshateo
+    - generic [ref=e124]: © 2026 Marsha Teo
+  - alert [ref=e125]

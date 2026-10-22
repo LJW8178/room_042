@@ -1,0 +1,458 @@
+- generic [ref=e2]:
+  - navigation [ref=e3]:
+    - button "Navigate to home section" [pressed] [ref=e4] [cursor=pointer]:
+      - generic [ref=e7]: Home
+    - button "Navigate to experience section" [ref=e9] [cursor=pointer]:
+      - generic [ref=e12]: Experience
+    - button "Navigate to about page" [ref=e14] [cursor=pointer]:
+      - generic [ref=e18]: About
+    - button "Navigate to portfolio page" [ref=e20] [cursor=pointer]:
+      - generic [ref=e23]: Portfolio
+  - main [ref=e28]:
+    - generic [ref=e30]:
+      - generic [ref=e31]:
+        - generic [ref=e32]:
+          - heading "Good day" [level=6] [ref=e33]
+          - paragraph [ref=e40]: I'm Taylor J. Ferguson, a Sr Technical Product & Program Manager with 7+ years driving product strategy, cross-functional delivery, and technical execution across fintech, consultancy, and emerging tech — turning ambiguous mandates into shipped outcomes that move business metrics.
+        - generic [ref=e41]:
+          - link "linkedin profile" [ref=e42] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/taylor-jacob-ferguson/
+            - button "linkedin profile" [ref=e43]:
+              - generic [ref=e47]: Linkedin Profile
+          - link "github profile" [ref=e48] [cursor=pointer]:
+            - /url: https://github.com/TaylorJalpha
+            - button "github profile" [ref=e49]:
+              - img [ref=e50]:
+                - generic "github [#ffffff]" [ref=e51]
+              - generic [ref=e56]: GitHub Profile
+          - button "expand-contact-form" [ref=e57] [cursor=pointer]:
+            - generic [ref=e60]: Expand Contact Form
+      - generic:
+        - img "Taylor Ferguson profile photo"
+    - generic [ref=e62]:
+      - heading "About me" [level=2] [ref=e63]
+      - paragraph [ref=e64]: Strategy & Execution
+      - list [ref=e65]:
+        - listitem [ref=e66]: Product Strategy Focus
+        - listitem [ref=e67]: Product Discovery
+        - listitem [ref=e68]: Roadmapping
+        - listitem [ref=e69]: Pricing & GTM Strategy
+        - listitem [ref=e70]: Agile / Scrum
+        - listitem [ref=e71]: Stakeholder Alignment
+        - listitem [ref=e72]: Cross-functional Delivery
+        - listitem [ref=e73]: OKRs & Risk Mitigation
+        - listitem [ref=e74]: Capacity & Resource Planning
+        - listitem [ref=e75]: User Research & Analytics
+        - listitem [ref=e76]: Business Development
+      - paragraph [ref=e77]: Technical Fluency
+      - list [ref=e78]:
+        - listitem [ref=e79]: Web & Mobile Platforms
+        - listitem [ref=e80]: Cloud Infrastructure (AWS)
+        - listitem [ref=e81]: API & Data Architecture
+        - listitem [ref=e82]: AI/ML Pipelines
+        - listitem [ref=e83]: CI/CD & Release Management
+        - listitem [ref=e84]: DevOps & Infrastructure Planning
+      - link "Learn more about me" [ref=e85] [cursor=pointer]:
+        - /url: /about
+    - generic [ref=e89]:
+      - heading "Let's sync up!" [level=1] [ref=e91]
+      - generic [ref=e92]:
+        - heading "Contact" [level=2] [ref=e93]
+        - paragraph [ref=e94]: 📧 taylorjacobferguson@gmail.com
+        - paragraph [ref=e95]: 📍Los Angeles,CA
+      - generic [ref=e96]:
+        - heading "Social Network" [level=2] [ref=e97]
+        - list [ref=e98]:
+          - listitem [ref=e99]:
+            - link "LinkedIn" [ref=e100] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/taylor-jacob-ferguson/
+          - listitem [ref=e101]:
+            - link "GitHub" [ref=e102] [cursor=pointer]:
+              - /url: https://github.com/TaylorJalpha
+    - generic "Time zone" [ref=e103]:
+      - heading "Project Status" [level=2] [ref=e106]
+      - paragraph [ref=e110]:
+        - text: Building RevSec AI
+        - link:
+          - /url: https://formability.eu
+    - 'link "Featured Post Product Strategy Market Research Agile/Scrum Data Analytics KPI Optimization Feature Innovation API Design System Integration Platform Architecture Performance Metrics Security & Compliance Cloud Infrastructure RevSec AI: Bridging the Gap Between Strategy and Execution RevSec AI: Bridging the Gap Between Strategy and Execution Explore the featured post" [ref=e112] [cursor=pointer]':
+      - /url: /project/revsec-ai-bridging-the-gap-between-pricing-strategy-and-execution
+      - paragraph [ref=e114]: Featured Post
+      - generic [ref=e119]:
+        - generic [ref=e120]:
+          - generic [ref=e121]: Product Strategy
+          - generic [ref=e125]: Market Research
+          - generic [ref=e130]: Agile/Scrum
+          - generic [ref=e134]: Data Analytics
+          - generic [ref=e139]: KPI Optimization
+          - generic [ref=e145]: Feature Innovation
+        - generic [ref=e149]:
+          - generic [ref=e150]: API Design
+          - generic [ref=e155]: System Integration
+          - generic [ref=e160]: Platform Architecture
+          - generic [ref=e166]: Performance Metrics
+          - generic [ref=e170]: Security & Compliance
+          - generic [ref=e174]: Cloud Infrastructure
+      - generic [ref=e178]:
+        - 'heading "RevSec AI: Bridging the Gap Between Strategy and Execution" [level=2] [ref=e179]'
+        - generic: "RevSec AI: Bridging the Gap Between Strategy and Execution"
+      - generic [ref=e180]: Explore the featured post
+    - generic [ref=e184]:
+      - paragraph [ref=e186]:
+        - img "Weather Icon" [ref=e187]
+        - text: 65.8 °F | Los Angeles
+      - img "Picture of mountains in Los Angeles" [ref=e189]
+    - generic [ref=e191]:
+      - img "Ruby on Rails" [ref=e192]
+      - text: Backend powered by Ruby on Rails and PostgreSQL
+    - button "Replay terminal animation" [ref=e195] [cursor=pointer]:
+      - generic [ref=e196]: ↺
+  - region "My Professional Journey" [ref=e202]:
+    - generic [ref=e203]:
+      - generic [ref=e204]:
+        - heading "My Professional Journey" [level=2]
+      - paragraph [ref=e206]: Below is a timeline view of my experience as a Sr Technical Product & Program Manager
+    - list [ref=e211]:
+      - listitem [ref=e212]:
+        - generic [ref=e213]: 2025-Present
+        - generic [ref=e219]:
+          - generic [ref=e220]:
+            - heading "Technical Product Lead" [level=3] [ref=e221]
+            - paragraph [ref=e222]: RevSec AI — Agentic RevOps & Pricing Intelligence Platform · Los Angeles, CA
+          - paragraph [ref=e223]: Directed the delivery of an agentic RevOps and Pricing Intelligence platform with 10+ integrated product surfaces — pricing strategy engine, reporting engine, invoices, usage events and metering, customer management, entitlements and features, benchmark dashboard, plan management, CPQ, and hypothesis tracking — from 0→1 in 6 months, collapsing the typical 12-month development cycle (Nuxt 3, Rails 8, Go, AWS Bedrock, PostgreSQL). Owned product strategy, technical architecture, and end-to-end execution, orchestrating an AI-assisted, spec-driven development workflow.
+          - generic [ref=e224]:
+            - heading "Skills & Technologies" [level=4] [ref=e225]
+            - generic [ref=e226]:
+              - generic [ref=e227]: Product Strategy
+              - generic [ref=e230]: Nuxt 3
+              - generic [ref=e233]: Rails 8
+              - generic [ref=e236]: Go
+              - generic [ref=e239]: AWS Bedrock
+              - generic [ref=e242]: PostgreSQL
+              - generic [ref=e245]: Figma
+              - generic [ref=e248]: RAG Pipelines
+              - generic [ref=e251]: Python
+              - generic [ref=e254]: Data Warehousing
+              - generic [ref=e257]: Vector Search
+              - generic [ref=e260]: Web Scraping
+              - generic [ref=e263]: CPQ
+              - generic [ref=e266]: Pricing Strategy
+              - generic [ref=e269]: AWS Amplify
+              - generic [ref=e272]: Kiro CLI
+              - generic [ref=e275]: RevOps
+              - generic [ref=e278]: Competitive Intelligence
+              - generic [ref=e281]: AI/ML
+              - generic [ref=e284]: Full-stack Development
+              - generic [ref=e287]: Cloud Architecture
+          - generic [ref=e290]:
+            - heading "Key Achievements" [level=4] [ref=e291]
+            - list [ref=e292]:
+              - listitem [ref=e293]:
+                - generic [ref=e294]: ▸
+                - generic [ref=e295]: "Process Optimization: Architected a synchronous AI pipeline using Rails service layers and async job orchestration to transform fragmented market research into structured, validated discovery templates via AWS Bedrock prompt chains; drove a ~78% reduction in end-to-end strategy generation latency (from ~60s to ~13s) through prompt engineering and pipeline restructuring — all agentic features remain strictly scoped to private business data"
+              - listitem [ref=e296]:
+                - generic [ref=e297]: ▸
+                - generic [ref=e298]: "Technical Requirement Definition: Translated complex financial modeling, unit economics, competitive analysis, and success criteria requirements into 100+ validated and actionable technical specs across all platform surfaces"
+              - listitem [ref=e299]:
+                - generic [ref=e300]: ▸
+                - generic [ref=e301]: Designed a Python-based web scraper, data warehouse, and RAG vector search pipeline that automates competitive benchmarking and synthesizes unstructured market data into risk-scored pricing recommendations — LLMs present findings, never decide
+              - listitem [ref=e302]:
+                - generic [ref=e303]: ▸
+                - generic [ref=e304]: "Development Velocity: Established an AI-assisted, spec-driven development workflow using AWS Kiro CLI and deployed the full platform on AWS (EC2, RDS PostgreSQL, S3, Bedrock), cutting development and discovery costs by nearly 90%"
+              - listitem [ref=e305]:
+                - generic [ref=e306]: ▸
+                - generic [ref=e307]: Delivered a fully automated, production cloud deployment on AWS — the platform launched in open beta as of March 2026, with hosting, CI/CD, and Bedrock AI capabilities managed entirely through infrastructure-as-code
+      - listitem [ref=e308]:
+        - generic [ref=e309]: Jan 2025 - May 2025
+        - generic [ref=e315]:
+          - generic [ref=e316]:
+            - heading "Technical Product Manager (Part-time)" [level=3] [ref=e317]
+            - paragraph [ref=e318]: OneSynergee - Los Angeles, California, United States
+          - paragraph [ref=e319]: Part-time engagement assisting with technical strategy for an international agri-tech and climate-focused program while elevating agile delivery standards across product engineering pods.
+          - generic [ref=e320]:
+            - heading "Skills & Technologies" [level=4] [ref=e321]
+            - generic [ref=e322]:
+              - generic [ref=e323]: Technical Strategy
+              - generic [ref=e326]: Program Management
+              - generic [ref=e329]: Market Research
+              - generic [ref=e332]: Agile Coaching
+              - generic [ref=e335]: Backlog Management
+              - generic [ref=e338]: Sprint Planning
+              - generic [ref=e341]: Roadmapping
+              - generic [ref=e344]: Asana
+              - generic [ref=e347]: Product Discovery
+              - generic [ref=e350]: Cross-functional Leadership
+          - generic [ref=e353]:
+            - heading "Key Achievements" [level=4] [ref=e354]
+            - list [ref=e355]:
+              - listitem [ref=e356]:
+                - generic [ref=e357]: ▸
+                - generic [ref=e358]: Shaped technical strategy and delivery standards for an international, agri-tech and climate-focused initiative
+              - listitem [ref=e359]:
+                - generic [ref=e360]: ▸
+                - generic [ref=e361]: Assisted in building a tokenized marketplace (RWA) for farmers to access new markets and harness the power of a decentralized ledger
+              - listitem [ref=e362]:
+                - generic [ref=e363]: ▸
+                - generic [ref=e364]: Implemented structured agile workflows across pods; coached leads on backlog, sprints, roadmaps, and progress tracking (Jira/Asana/GitHub)
+              - listitem [ref=e365]:
+                - generic [ref=e366]: ▸
+                - generic [ref=e367]: Translated program goals into 0→1 technical work; facilitated discovery and problem-solving across Build and Scale teams; supported business-case validation
+      - listitem [ref=e368]:
+        - generic [ref=e369]: 2024-2025
+        - generic [ref=e375]:
+          - generic [ref=e376]:
+            - heading "Product Management Sabbatical" [level=3] [ref=e377]
+            - paragraph [ref=e378]: Consultant - Los Angeles, CA
+          - paragraph [ref=e379]: Took time off to reassess priorities and deepen skills across product strategy, software development, AI/ML, cloud engineering, business strategy, and sales/customer acquisition.
+          - generic [ref=e380]:
+            - heading "Skills & Technologies" [level=4] [ref=e381]
+            - generic [ref=e382]:
+              - generic [ref=e383]: Business Strategy
+              - generic [ref=e386]: User journey mapping
+              - generic [ref=e389]: Team development
+              - generic [ref=e392]: User research
+              - generic [ref=e395]: Rails API Development
+              - generic [ref=e398]: Vue.js
+              - generic [ref=e401]: AWS Certification
+              - generic [ref=e404]: Product Strategy
+              - generic [ref=e407]: UX Design
+              - generic [ref=e410]: Technical Discovery
+          - generic [ref=e413]:
+            - heading "Key Achievements" [level=4] [ref=e414]
+            - list [ref=e415]:
+              - listitem [ref=e416]:
+                - generic [ref=e417]: ▸
+                - generic [ref=e418]: Completed advanced training in Rails API development and Vue.js frameworks
+              - listitem [ref=e419]:
+                - generic [ref=e420]: ▸
+                - generic [ref=e421]: Led freelance consulting projects for early-stage teams
+              - listitem [ref=e422]:
+                - generic [ref=e423]: ▸
+                - generic [ref=e424]: Pursuing AWS certification for cloud engineering expertise
+              - listitem [ref=e425]:
+                - generic [ref=e426]: ▸
+                - generic [ref=e427]: Focused on deepening AI/ML and business strategy knowledge
+      - listitem [ref=e428]:
+        - generic [ref=e429]: 2022-2024
+        - generic [ref=e435]:
+          - generic [ref=e436]:
+            - heading "Product Manager, Technical" [level=3] [ref=e437]
+            - paragraph [ref=e438]: Consultant - Los Angeles, CA
+          - paragraph [ref=e439]: Led cross-functional teams on projects including personalization, customer acquisition, fiat-to-crypto onramp, role-based access control, Shopify re-build, UI/UX strategy, NFT marketplace optimization, and fintech API integrations.
+          - generic [ref=e440]:
+            - heading "Skills & Technologies" [level=4] [ref=e441]
+            - generic [ref=e442]:
+              - generic [ref=e443]: Cross-functional Leadership
+              - generic [ref=e446]: Product discovery
+              - generic [ref=e449]: Stripe & Plaid APIs
+              - generic [ref=e452]: DeFi Platforms
+              - generic [ref=e455]: Web3 Gaming
+              - generic [ref=e458]: UI/UX Strategy
+              - generic [ref=e461]: Web3 Development
+              - generic [ref=e464]: Role-based Access Control
+              - generic [ref=e467]: Search Optimization
+              - generic [ref=e470]: Shopify
+              - generic [ref=e473]: Agile Methodologies
+              - generic [ref=e476]: Product Roadmapping
+          - generic [ref=e479]:
+            - heading "Key Achievements" [level=4] [ref=e480]
+            - list [ref=e481]:
+              - listitem [ref=e482]:
+                - generic [ref=e483]: ▸
+                - generic [ref=e484]: Delivered 10% increase in transaction volume and 90%+ CSAT for 13+ months for a DeFi platform
+              - listitem [ref=e485]:
+                - generic [ref=e486]: ▸
+                - generic [ref=e487]: Launched Web3 gaming retention campaigns that reactivated dormant users by 4%
+              - listitem [ref=e488]:
+                - generic [ref=e489]: ▸
+                - generic [ref=e490]: Spearheaded full-stack B2B website redesign using Vue.js, Rails, AWS, and PostgreSQL
+              - listitem [ref=e491]:
+                - generic [ref=e492]: ▸
+                - generic [ref=e493]: Oversaw end-to-end product delivery including PRDs and business case validation
+      - listitem [ref=e494]:
+        - generic [ref=e495]: 2021-2022
+        - generic [ref=e501]:
+          - generic [ref=e502]:
+            - heading "Product Manager" [level=3] [ref=e503]
+            - paragraph [ref=e504]: GalacticWay - Los Angeles
+          - paragraph [ref=e505]: Led development of NEAR-based NFT marketplace and drove significant user growth through strategic GTM execution and user-focused roadmap development.
+          - generic [ref=e506]:
+            - heading "Skills & Technologies" [level=4] [ref=e507]
+            - generic [ref=e508]:
+              - generic [ref=e509]: GTM Strategy
+              - generic [ref=e512]: NEAR Blockchain
+              - generic [ref=e515]: React.js
+              - generic [ref=e518]: AWS
+              - generic [ref=e521]: Business Strategy
+              - generic [ref=e524]: User Onboarding
+              - generic [ref=e527]: Product Roadmapping
+              - generic [ref=e530]: Team Leadership
+              - generic [ref=e533]: Market Research
+              - generic [ref=e536]: User research
+              - generic [ref=e539]: Product Discovery
+          - generic [ref=e542]:
+            - heading "Key Achievements" [level=4] [ref=e543]
+            - list [ref=e544]:
+              - listitem [ref=e545]:
+                - generic [ref=e546]: ▸
+                - generic [ref=e547]: Drove 600% increase in user growth via GTM strategy and user-focused roadmap execution
+              - listitem [ref=e548]:
+                - generic [ref=e549]: ▸
+                - generic [ref=e550]: Achieved $293 LTV with onboarding automation for NEAR-based NFT marketplace
+              - listitem [ref=e551]:
+                - generic [ref=e552]: ▸
+                - generic [ref=e553]: Conducted market research and discovery resulting in successful codebase acquisition
+              - listitem [ref=e554]:
+                - generic [ref=e555]: ▸
+                - generic [ref=e556]: Led pitch development and strategic product positioning
+      - listitem [ref=e557]:
+        - generic [ref=e558]: "2021"
+        - generic [ref=e564]:
+          - generic [ref=e565]:
+            - heading "Product Manager, Consultant" [level=3] [ref=e566]
+            - paragraph [ref=e567]: Erupt - Los Angeles, US
+          - paragraph [ref=e568]: Implemented unified Engineering-Product-Design (EPD) processes and led process improvement initiatives to streamline team workflows across the organization.
+          - generic [ref=e569]:
+            - heading "Skills & Technologies" [level=4] [ref=e570]
+            - generic [ref=e571]:
+              - generic [ref=e572]: Process Improvement
+              - generic [ref=e575]: Scrum
+              - generic [ref=e578]: Agile Methodologies
+              - generic [ref=e581]: EPD Alignment
+              - generic [ref=e584]: Stakeholder Management
+              - generic [ref=e587]: Workshop Facilitation
+              - generic [ref=e590]: Team Leadership
+          - generic [ref=e593]:
+            - heading "Key Achievements" [level=4] [ref=e594]
+            - list [ref=e595]:
+              - listitem [ref=e596]:
+                - generic [ref=e597]: ▸
+                - generic [ref=e598]: Implemented unified Engineering-Product-Design (EPD) processes
+              - listitem [ref=e599]:
+                - generic [ref=e600]: ▸
+                - generic [ref=e601]: Secured buy-in from senior stakeholders to streamline team workflows
+              - listitem [ref=e602]:
+                - generic [ref=e603]: ▸
+                - generic [ref=e604]: Led workshops, presentations, and regular team check-ins for successful adoption
+              - listitem [ref=e605]:
+                - generic [ref=e606]: ▸
+                - generic [ref=e607]: Improved cross-functional collaboration across multiple teams
+      - listitem [ref=e608]:
+        - generic [ref=e609]: 2019-2020
+        - generic [ref=e615]:
+          - generic [ref=e616]:
+            - heading "Associate Product Manager, Admin" [level=3] [ref=e617]
+            - paragraph [ref=e618]: GoGuardian - Los Angeles
+          - paragraph [ref=e619]: Collaborated with data science teams to enhance machine learning models and drove significant revenue growth by solving critical customer pain points during the COVID-19 pandemic.
+          - generic [ref=e620]:
+            - heading "Skills & Technologies" [level=4] [ref=e621]
+            - generic [ref=e622]:
+              - generic [ref=e623]: Machine Learning
+              - generic [ref=e626]: Data Science
+              - generic [ref=e629]: Product Analytics
+              - generic [ref=e632]: User Research
+              - generic [ref=e635]: Statistical Analysis
+              - generic [ref=e638]: Customer Feedback Analysis
+          - generic [ref=e641]:
+            - heading "Key Achievements" [level=4] [ref=e642]
+            - list [ref=e643]:
+              - listitem [ref=e644]:
+                - generic [ref=e645]: ▸
+                - generic [ref=e646]: Played key role in driving multimillion-dollar increase in ARR/MRR during COVID-19
+              - listitem [ref=e647]:
+                - generic [ref=e648]: ▸
+                - generic [ref=e649]: Collaborated with data science teams to optimize ML models and platform performance
+              - listitem [ref=e650]:
+                - generic [ref=e651]: ▸
+                - generic [ref=e652]: Led multiple rounds of product discovery and user research initiatives
+              - listitem [ref=e653]:
+                - generic [ref=e654]: ▸
+                - generic [ref=e655]: Implemented comprehensive product analytics and statistical analysis frameworks
+      - listitem [ref=e656]:
+        - generic [ref=e657]: "2019"
+        - generic [ref=e663]:
+          - generic [ref=e664]:
+            - heading "Product & Project Manager" [level=3] [ref=e665]
+            - paragraph [ref=e666]: EatOS By POS Labs - Beverly Hills
+          - paragraph [ref=e667]: Led development of time and attendance application using Dart/Flutter, managing cross-functional teams and implementing prioritization frameworks for capacity planning.
+          - generic [ref=e668]:
+            - heading "Skills & Technologies" [level=4] [ref=e669]
+            - generic [ref=e670]:
+              - generic [ref=e671]: Dart/Flutter
+              - generic [ref=e674]: Cross-platform Development
+              - generic [ref=e677]: System Architecture
+              - generic [ref=e680]: UI/UX Development
+              - generic [ref=e683]: Team Management
+              - generic [ref=e686]: AirTable
+          - generic [ref=e689]:
+            - heading "Key Achievements" [level=4] [ref=e690]
+            - list [ref=e691]:
+              - listitem [ref=e692]:
+                - generic [ref=e693]: ▸
+                - generic [ref=e694]: Led development of cross-platform time and attendance application
+              - listitem [ref=e695]:
+                - generic [ref=e696]: ▸
+                - generic [ref=e697]: Directed 3 cross-functional teams across multiple time zones (25+ members)
+              - listitem [ref=e698]:
+                - generic [ref=e699]: ▸
+                - generic [ref=e700]: Created prioritization framework using AirTable for capacity and velocity planning
+              - listitem [ref=e701]:
+                - generic [ref=e702]: ▸
+                - generic [ref=e703]: Managed full product lifecycle from discovery to full-stack engineering
+      - paragraph [ref=e710]: Always learning, always growing — keep building. (Note to Self)
+  - contentinfo [ref=e711]:
+    - generic [ref=e714]:
+      - generic [ref=e715]:
+        - generic [ref=e716]:
+          - heading "Taylor J. Ferguson" [level=2] [ref=e721]
+          - paragraph [ref=e726]: Sr Technical Product & Program Manager — shipping outcomes that drive revenue, engagement, and customer satisfaction.
+        - generic [ref=e727]:
+          - generic [ref=e728]:
+            - heading "Let's Connect!" [level=3] [ref=e729]
+            - generic [ref=e730]:
+              - button "Contact Me" [ref=e731] [cursor=pointer]
+              - link "LinkedIn" [ref=e735] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/taylor-jacob-ferguson/
+              - link "GitHub" [ref=e736] [cursor=pointer]:
+                - /url: https://github.com/TaylorJalpha
+              - link "Discord (@blockedwu)" [ref=e737] [cursor=pointer]:
+                - /url: https://discord.com/users/884522616105349240
+          - generic [ref=e738]:
+            - heading "Navigation" [level=3] [ref=e739]
+            - generic [ref=e740]:
+              - button "Home" [ref=e741] [cursor=pointer]
+              - button "Experience" [ref=e742] [cursor=pointer]
+              - button "Portfolio" [ref=e743] [cursor=pointer]
+              - button "About" [ref=e744] [cursor=pointer]
+          - generic [ref=e745]:
+            - heading "Core skills" [level=3] [ref=e746]
+            - generic [ref=e747]:
+              - generic [ref=e748]: Product Strategy & Discovery
+              - generic [ref=e749]: Cross-Functional Delivery
+              - generic [ref=e750]: Pricing & GTM
+              - generic [ref=e751]: Technical Execution
+              - generic [ref=e752]: Data & Insights
+      - separator [ref=e753]
+      - generic [ref=e754]:
+        - generic [ref=e755]:
+          - generic [ref=e756]:
+            - text: Fork of
+            - link "Ladvace" [ref=e757] [cursor=pointer]:
+              - /url: https://github.com/Ladvace/astro-bento-portfolio
+            - text: Astro theme by
+            - link "apdev95" [ref=e758] [cursor=pointer]:
+              - /url: https://github.com/apdev95/bento-portfolio-nuxt
+            - text: – Created with
+            - link "Nuxt." [ref=e759] [cursor=pointer]:
+              - /url: https://nuxt.com/
+          - generic [ref=e760]:
+            - link "Taylor J. Ferguson.©" [ref=e761] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/taylor-jacob-ferguson/
+            - text: "2026"
+        - generic [ref=e762]:
+          - link "LinkedIn" [ref=e763] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/taylor-jacob-ferguson/
+          - link "GitHub" [ref=e766] [cursor=pointer]:
+            - /url: https://github.com/TaylorJalpha
+          - link "Email" [ref=e769] [cursor=pointer]:
+            - /url: mailto:taylor@example.com

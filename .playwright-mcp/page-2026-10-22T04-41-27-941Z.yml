@@ -1,0 +1,60 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e3]:
+    - link "Dario Castelli" [ref=e4] [cursor=pointer]:
+      - /url: /
+    - paragraph [ref=e5]: Architect, Milan
+    - button "Menu" [ref=e7]
+  - main [ref=e10]:
+    - generic [ref=e11]:
+      - img "A low concrete and larch house on the shore of Lake Como, with one large window facing the water" [ref=e12]
+      - generic [ref=e18]:
+        - generic [ref=e21]:
+          - generic [ref=e22]:
+            - heading "Casa Lario" [level=1] [ref=e23]:
+              - generic [aria-hidden] [ref=e25]: Casa Lario
+            - generic [ref=e26]:
+              - paragraph [ref=e28]: House, Lake Como, 2025
+              - link "View project" [ref=e29] [cursor=pointer]:
+                - /url: /projects/casa-lario
+          - list [ref=e30]:
+            - listitem [ref=e31]:
+              - button "01 Casa Lario 2025" [pressed] [ref=e32]:
+                - generic [ref=e33]: "01"
+                - generic [ref=e34]: Casa Lario
+                - generic [ref=e35]: "2025"
+            - listitem [ref=e37]:
+              - button "02 Corte Vigentina 2024" [ref=e38]:
+                - generic [ref=e39]: "02"
+                - generic [ref=e40]: Corte Vigentina
+                - generic [ref=e41]: "2024"
+            - listitem [ref=e42]:
+              - button "03 Biblioteca Olona 2023" [ref=e43]:
+                - generic [ref=e44]: "03"
+                - generic [ref=e45]: Biblioteca Olona
+                - generic [ref=e46]: "2023"
+            - listitem [ref=e47]:
+              - button "04 Padiglione Cervia 2022" [ref=e48]:
+                - generic [ref=e49]: "04"
+                - generic [ref=e50]: Padiglione Cervia
+                - generic [ref=e51]: "2022"
+        - generic [ref=e53]:
+          - paragraph [ref=e54]: © 2026 Dario Castelli
+          - paragraph [ref=e55]:
+            - text: Milan,
+            - time [ref=e56]: 06:41
+          - navigation "Legal" [ref=e57]:
+            - list [ref=e58]:
+              - listitem [ref=e59]:
+                - link "Terms" [ref=e60] [cursor=pointer]:
+                  - /url: /legal/terms
+              - listitem [ref=e61]:
+                - link "Privacy" [ref=e62] [cursor=pointer]:
+                  - /url: /legal/privacy
+              - listitem [ref=e63]:
+                - link "Cookies" [ref=e64] [cursor=pointer]:
+                  - /url: /legal/cookies
+              - listitem [ref=e65]:
+                - link "Overview" [ref=e66] [cursor=pointer]:
+                  - /url: /system/overview

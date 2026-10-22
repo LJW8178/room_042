@@ -1,0 +1,71 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - navigation [ref=e7]:
+      - generic [ref=e8]:
+        - generic [ref=e10]:
+          - link [ref=e11]:
+            - /url: ./
+          - generic [ref=e13]:
+            - generic [ref=e15]:
+              - generic [ref=e16]: 13:39
+              - generic [ref=e17]: TOKYO, JP
+            - paragraph [ref=e20]: PRIMARY PORTFOLIO
+        - paragraph [ref=e23]: • Booking projects for 2'26
+      - link "BOOK DISCOVERY CALL" [ref=e25]:
+        - /url: https://x.com/angevlh
+        - paragraph [ref=e29]: BOOK DISCOVERY CALL
+    - generic [ref=e32]:
+      - generic [ref=e33]:
+        - generic [ref=e35]:
+          - heading "•• MONAM is a design-driven" [level=1] [ref=e36]
+          - heading "Studio crafting bold digital experiences." [level=1] [ref=e37]
+          - heading [level=1] [ref=e38]:
+            - text: Led
+            - link "by Addan" [ref=e39]:
+              - /url: https://x.com/angevlh
+            - text: ", we shape distinctive visual"
+          - heading "identities and interfaces for brands that" [level=1] [ref=e40]
+          - heading "want to stand out, not blend in." [level=1] [ref=e41]
+        - 'heading "Worldwide Clients • Universal Design Expertise: Over 15 globally recognized web awards, 70+ projects delivered for 50+ clients." [level=2] [ref=e43]'
+      - generic [ref=e46]:
+        - heading "CREATIVE BRANDS WE'VE HELPED_" [level=2] [ref=e47]
+        - list [ref=e48]:
+          - listitem [ref=e49]:
+            - link "Maison Lune" [ref=e50]:
+              - /url: /projects/maison-lune
+              - generic [aria-hidden] [ref=e52]: ↗
+          - listitem [ref=e53]:
+            - link "Vividly" [ref=e54]:
+              - /url: /projects/vividly
+              - generic [aria-hidden] [ref=e56]: ↗
+          - listitem [ref=e57]:
+            - link "Bytecraft Systems" [ref=e58]:
+              - /url: /projects/bytecraft-systems
+              - generic [aria-hidden] [ref=e60]: ↗
+          - listitem [ref=e61]:
+            - link "Oak & Ember" [ref=e62]:
+              - /url: /projects/oak-ember
+              - generic [aria-hidden] [ref=e64]: ↗
+          - listitem [ref=e65]:
+            - link "Paperlane Journal" [ref=e66]:
+              - /url: /projects/paperlane-journal
+              - generic [aria-hidden] [ref=e68]: ↗
+          - listitem [ref=e69]:
+            - link "Urban Nest Realty" [ref=e70]:
+              - /url: /projects/urban-nest-realty
+              - generic [aria-hidden] [ref=e72]: ↗
+          - listitem [ref=e73]:
+            - link "Mono Studio" [ref=e74]:
+              - /url: /projects/mono-studio
+              - generic [aria-hidden] [ref=e76]: ↗
+          - listitem [ref=e77]:
+            - link "EDAII" [ref=e78]:
+              - /url: /projects/edaii
+              - generic [aria-hidden] [ref=e80]: ↗
+          - listitem [ref=e81]:
+            - link "Northera" [ref=e82]:
+              - /url: /projects/northera
+              - generic [aria-hidden] [ref=e84]: ↗
+  - link [ref=e85]:
+    - /url: https://www.framer.com
+    - paragraph [ref=e90]: Create a free website with Framer, the website builder loved by startups, designers and agencies.
