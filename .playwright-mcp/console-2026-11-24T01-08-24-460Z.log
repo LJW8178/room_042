@@ -1,0 +1,14 @@
+[   82738ms] [ERROR] Executing inline event handler violates the following Content Security Policy directive 'script-src 'nonce-XGg_7HT9U1QdnGBNP0JHZQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:'. Note that 'unsafe-inline' is ignored if either a hash or nonce value is present in the source list. The action has been blocked. @ https://www.google.com/search?q=unsplash&oq=unsp&gs_lcrp=EgZjaHJvbWUqDQgAEAAYgwEYsQMYgAQyDQgAEAAYgwEYsQMYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDINCAUQABiDARixAxiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTc2NDcyajBqMqgCALACAA&sourceid=chrome&ie=UTF-8&sei=1-MEa82nHvXuseMP2unRmAU:1
+[   85071ms] [LOG] %cmetric: color:gray {name: TTFB, entries: Array(1), value: 708.3000000007451, rating: good, delta: 708.3000000007451} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[   85071ms] [LOG] %cusr: color:gray {locale: ko-KR} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[   85071ms] [LOG] %croute_data: color:gray Home @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[  260453ms] [LOG] %cmetric: color:gray {name: LCP, entries: Array(1), value: 1096, rating: good, delta: 1096} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[  260453ms] [LOG] %cusr: color:gray {locale: ko-KR} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[  260453ms] [LOG] %croute_data: color:gray Topic @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 2801887ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://unsplash.com/nautocomplete/%EB%B9%9D:1
+[ 2815744ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://unsplash.com/nautocomplete/%E3%85%81:1
+[ 3061291ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://unsplash.com/nautocomplete/%EA%B0%95%E3%85%87%EC%9E%90:1
+[ 3061311ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://unsplash.com/nautocomplete/%EA%B0%95%E3%85%87:1
+[ 3062011ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://unsplash.com/nautocomplete/%EA%B0%95:1
+[ 3075599ms] [INFO] Powered by AMP ⚡ HTML – Version 2607210106000 https://unsplash.com/ko/t/architecture-interior @ https://cdn.ampproject.org/rtv/012607210106000/amp4ads-v0.mjs:2
+[ 4207538ms] [INFO] Powered by AMP ⚡ HTML – Version 2607210106000 https://unsplash.com/ko/t/architecture-interior @ https://cdn.ampproject.org/rtv/012607210106000/amp4ads-v0.mjs:2
