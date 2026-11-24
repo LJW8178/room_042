@@ -1,0 +1,797 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>개인 프로필 디자인 수업 통합 정리 — 키워드·모티브·레퍼런스·시안</title><meta name="data-notion-page-icon" content="📐"/><link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20100%20100%22%3E%3Ctext%20y%3D%22.9em%22%20font-size%3D%2290%22%3E%F0%9F%93%90%3C%2Ftext%3E%3C%2Fsvg%3E"/><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+/* Override strong tags inside headings to maintain consistent weight */
+h1 strong,
+h2 strong,
+h3 strong {
+	font-weight: 600;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 10px;
+	padding: 1rem;
+	/* Paint a complete callout box on every PDF page fragment. */
+	-webkit-box-decoration-break: clone;
+	box-decoration-break: clone;
+}
+
+/* For default-background callouts, render the border outline. */
+.callout.block-color-default_background {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+/*
+ * Toggles and callouts hold arbitrary content, so they can easily be taller
+ * than a page. They must stay breakable: avoiding breaks inside them makes
+ * Chromium push the whole block onto the next page, which leaves the previous
+ * page mostly empty before every long toggle.
+ */
+details,
+aside {
+	margin: 1.25em 0;
+}
+
+/* Keep a toggle's title on the same page as the start of its content. */
+summary {
+	page-break-after: avoid;
+	break-after: avoid;
+}
+
+/*
+ * Toggle headings render as <h1/h2/h3 style="display:inline-block"> inside
+ * <summary>. Without this reset, the heading's margin-top pushes it below the
+ * ::marker (▼), so the triangle and the title appear on separate lines.
+ */
+summary h1,
+summary h2,
+summary h3,
+summary h4 {
+	margin-top: 0;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+
+	table.collection-content {
+		width: 100%;
+		table-layout: fixed;
+	}
+
+	table.collection-content th,
+	table.collection-content td {
+		overflow-wrap: anywhere;
+	}
+
+	table.collection-content td > .user,
+	table.collection-content td > time {
+		white-space: pre-wrap;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content-wrapper {
+	overflow-x: auto;
+}
+
+@media only print {
+	.collection-content-wrapper {
+		overflow-x: visible;
+	}
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.collection-content td {
+	white-space: pre-wrap;
+	word-break: break-word;
+}
+
+.column-list {
+	display: flex;
+	gap: 46px;
+}
+
+.column {
+	min-width: 0;
+	overflow: hidden;
+}
+
+.column > *:first-child {
+	margin-top: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding-inline: 0.125rem;
+	padding-block: 0.375rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+table {
+	border-collapse: collapse;
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	padding-inline-start: 0;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol.numbered-list.numbered-list-digits-2 {
+	padding-inline-start: 2em;
+}
+
+ol.numbered-list.numbered-list-digits-3plus {
+	padding-inline-start: 2.4em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.page-description {
+	margin-bottom: 2em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+/*
+ * Render emoji icons using a ::before pseudo-element to keep the glyph
+ * out of the DOM textContent traversal. This avoids double-rendering icons
+ * in callouts and page titles.
+ * NOTE(slim/html-export-pseudo-icons): I can't tagref this because it will
+ * flag as a duplicate tag after codegen.
+ */
+.icon[data-emoji]::before {
+	content: attr(data-emoji);
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.callout img.notion-static-icon {
+	width: 1em;
+	height: 1em;
+}
+
+.callout p {
+	margin: 0;
+}
+
+.callout h1,
+.callout h2,
+.callout h3 {
+	margin: 0 0 0.6rem;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	margin-right: 0.4em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+blockquote.quote-large {
+	font-size: 1.25em;
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.tab {
+	margin: 1.25em 0;
+	padding-inline: 1rem;
+	border: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", "Noto Sans Arabic", "Noto Sans Hebrew", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", "Noto Sans Arabic", "Noto Sans Hebrew", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", "Noto Sans Arabic", "Noto Sans Hebrew", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", "Noto Sans Arabic", "Noto Sans Hebrew", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", "Noto Sans Arabic", "Noto Sans Hebrew", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(44, 44, 43, 1);
+}
+.highlight-gray {
+	color: rgba(125, 122, 117, 1);
+	fill: rgba(125, 122, 117, 1);
+}
+.highlight-brown {
+	color: rgba(159, 118, 90, 1);
+	fill: rgba(159, 118, 90, 1);
+}
+.highlight-orange {
+	color: rgba(210, 123, 45, 1);
+	fill: rgba(210, 123, 45, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 148, 52, 1);
+	fill: rgba(203, 148, 52, 1);
+}
+.highlight-teal {
+	color: rgba(80, 148, 110, 1);
+	fill: rgba(80, 148, 110, 1);
+}
+.highlight-blue {
+	color: rgba(56, 125, 201, 1);
+	fill: rgba(56, 125, 201, 1);
+}
+.highlight-purple {
+	color: rgba(154, 107, 180, 1);
+	fill: rgba(154, 107, 180, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(207, 81, 72, 1);
+	fill: rgba(207, 81, 72, 1);
+}
+.highlight-default_background {
+	color: rgba(44, 44, 43, 1);
+}
+.highlight-gray_background {
+	background: rgba(42, 28, 0, 0.07);
+}
+.highlight-brown_background {
+	background: rgba(139, 46, 0, 0.086);
+}
+.highlight-orange_background {
+	background: rgba(224, 101, 1, 0.129);
+}
+.highlight-yellow_background {
+	background: rgba(211, 168, 0, 0.137);
+}
+.highlight-teal_background {
+	background: rgba(0, 100, 45, 0.09);
+}
+.highlight-blue_background {
+	background: rgba(0, 124, 215, 0.094);
+}
+.highlight-purple_background {
+	background: rgba(102, 0, 178, 0.078);
+}
+.highlight-pink_background {
+	background: rgba(197, 0, 93, 0.086);
+}
+.highlight-red_background {
+	background: rgba(223, 22, 0, 0.094);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(125, 122, 117, 1);
+	fill: rgba(125, 122, 117, 1);
+}
+.block-color-brown {
+	color: rgba(159, 118, 90, 1);
+	fill: rgba(159, 118, 90, 1);
+}
+.block-color-orange {
+	color: rgba(210, 123, 45, 1);
+	fill: rgba(210, 123, 45, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 148, 52, 1);
+	fill: rgba(203, 148, 52, 1);
+}
+.block-color-teal {
+	color: rgba(80, 148, 110, 1);
+	fill: rgba(80, 148, 110, 1);
+}
+.block-color-blue {
+	color: rgba(56, 125, 201, 1);
+	fill: rgba(56, 125, 201, 1);
+}
+.block-color-purple {
+	color: rgba(154, 107, 180, 1);
+	fill: rgba(154, 107, 180, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(207, 81, 72, 1);
+	fill: rgba(207, 81, 72, 1);
+}
+.block-color-default_background {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray_background {
+	background: rgba(240, 239, 237, 1);
+}
+.block-color-brown_background {
+	background: rgba(245, 237, 233, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 235, 222, 1);
+}
+.block-color-yellow_background {
+	background: rgba(249, 243, 220, 1);
+}
+.block-color-teal_background {
+	background: rgba(232, 241, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(229, 242, 252, 1);
+}
+.block-color-purple_background {
+	background: rgba(243, 235, 249, 1);
+}
+.block-color-pink_background {
+	background: rgba(250, 233, 241, 1);
+}
+.block-color-red_background {
+	background: rgba(252, 233, 231, 1);
+}
+.select-value-color-default { background-color: rgba(42, 28, 0, 0.07); }
+.select-value-color-gray { background-color: rgba(28, 19, 1, 0.11); }
+.select-value-color-brown { background-color: rgba(127, 51, 0, 0.156); }
+.select-value-color-orange { background-color: rgba(196, 88, 0, 0.203); }
+.select-value-color-yellow { background-color: rgba(209, 156, 0, 0.282); }
+.select-value-color-green { background-color: rgba(0, 96, 38, 0.156); }
+.select-value-color-blue { background-color: rgba(0, 118, 217, 0.203); }
+.select-value-color-purple { background-color: rgba(92, 0, 163, 0.141); }
+.select-value-color-pink { background-color: rgba(183, 0, 78, 0.152); }
+.select-value-color-red { background-color: rgba(206, 24, 0, 0.164); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style><style>@import url('https://cdn.jsdelivr.net/npm/katex@0.16.25/dist/katex-swap.min.css')</style></head><body><article id="42210f5f-8497-81cb-9693-e5e55ee1b76c" class="page sans" data-notion-page-icon="📐"><header><div class="page-header-icon undefined"><span class="icon" data-emoji="📐"></span></div><h1 class="page-title" dir="auto">개인 프로필 디자인 수업 통합 정리 — 키워드·모티브·레퍼런스·시안</h1><p class="page-description" dir="auto"></p></header><div class="page-body"><blockquote id="42210f5f-8497-8119-bdc2-c006941448b2" class="" dir="auto"><strong>학습 목표</strong>: 나의 성향과 취향을 키워드로 정리하고, 이를 시각적 모티브·레퍼런스·개인 프로필 디자인으로 연결한다.<p id="42210f5f-8497-815c-b8b8-f7279d1976dd" class="" dir="auto"><strong>핵심 흐름</strong>: 첫인상·취향 파악 → 마인드맵 → 시각화 가능한 키워드 5개 → 텍스처·건축 모티브 → 디자인 레퍼런스 → 타이포그래피 우선 배치 → 시안 5개 → 컬러·로고 발전</p></blockquote><h2 id="42210f5f-8497-815e-aad0-f9ddcecc01f8" class="" dir="auto">1. 두 강의의 핵심 요약</h2><table id="42210f5f-8497-81d0-b97b-db0b1209fe83" class="simple-table" dir="ltr"><thead class="simple-table-header"><tr id="42210f5f-8497-81dd-b14d-fcc49f31522e" dir="ltr"><th id="&lt;&lt;T\" class="simple-table-header-color simple-table-header">단계</th><th id="c|Qk" class="simple-table-header-color simple-table-header">먼저 들은 수업</th><th id="\@lw" class="simple-table-header-color simple-table-header">이번 첨부 강의</th></tr></thead><tbody><tr id="42210f5f-8497-815a-8908-dd1697530e9e" dir="ltr"><td id="&lt;&lt;T\" class="">자기 분석</td><td id="c|Qk" class="">친구들이 보는 첫인상 확인, 좋아하는 것과 싫어하는 것 기록</td><td id="\@lw" class="">앞서 만든 메모·마인드맵을 디자인 탐색의 출발점으로 사용</td></tr><tr id="42210f5f-8497-81af-9869-d9ba9d3b6795" dir="ltr"><td id="&lt;&lt;T\" class="">키워드</td><td id="c|Qk" class="">이름 중심으로 마인드맵 작성, 이미지 검색 가능한 단어 5개 추출</td><td id="\@lw" class="">같은 키워드를 문자 그대로 찾지 않고 텍스처·건축 형태 등으로 바꿔 보기</td></tr><tr id="42210f5f-8497-8181-b737-f4f17bc74529" dir="ltr"><td id="&lt;&lt;T\" class="">이미지 조사</td><td id="c|Qk" class="">키워드별 모티브 이미지와 서로 다른 콘셉트의 레퍼런스 수집</td><td id="\@lw" class="">Unsplash에서 모티브 탐색 → Pinterest 추천 이미지를 따라 디자인 레퍼런스 확장</td></tr><tr id="42210f5f-8497-8160-beb7-d2c3d065725a" dir="ltr"><td id="&lt;&lt;T\" class="">디자인</td><td id="c|Qk" class="">AI로 배경과 요소를 따로 제작하여 Figma에 배치</td><td id="\@lw" class="">텍스트와 정보 위계 먼저 결정한 뒤, 남는 공간에 이미지·장식 요소 배치</td></tr><tr id="42210f5f-8497-81f7-a71c-cbb2f9fc5534" dir="ltr"><td id="&lt;&lt;T\" class="">후속 작업</td><td id="c|Qk" class="">색상의 의미를 조사하고 개인 정체성과 비교</td><td id="\@lw" class="">5개 시안 실습 후 컬러 적용, 쉬운 키워드 하나를 선택해 로고 발전</td></tr></tbody></table><h2 id="42210f5f-8497-8144-94c3-df8cd09e6c81" class="" dir="auto">2. 자기 분석과 키워드 추출</h2><h3 id="42210f5f-8497-8120-bf13-e194d4c7111b" class="" dir="auto">2-1. 첫인상은 참고 자료</h3><ul id="42210f5f-8497-8101-93cd-df40637b9dca" class="bulleted-list" dir="auto"><li style="list-style-type:disc">친구들이 본 나의 첫인상을 수집한다. 이것을 반드시 그대로 따라야 한다는 뜻은 아니다.</li></ul><ul id="42210f5f-8497-814b-a570-e9fd1de2b4a6" class="bulleted-list" dir="auto"><li style="list-style-type:disc">내가 표현하고 싶은 모습과 타인이 인식하는 모습의 공통점·차이를 확인한다.</li></ul><ul id="42210f5f-8497-8117-af45-c4e5237dbda7" class="bulleted-list" dir="auto"><li style="list-style-type:disc">디자인은 보는 사람에게 전달되는 결과물이므로, 개인 취향과 타인의 인식을 함께 검토한다.</li></ul><h3 id="42210f5f-8497-8128-9205-d8a7dce0f9a0" class="" dir="auto">2-2. 마인드맵 작성 방법</h3><ol type="1" id="42210f5f-8497-81c2-803e-c580b42054b8" class="numbered-list" start="1" dir="auto"><li>종이 가운데 자신의 이름을 쓴다.</li></ol><ol type="1" id="42210f5f-8497-8165-b8f1-efa243539d28" class="numbered-list" start="2" dir="auto"><li>왼쪽에는 싫어하는 것, 오른쪽에는 좋아하는 것을 작성한다.</li></ol><ol type="1" id="42210f5f-8497-81f8-b455-c9062f649fd9" class="numbered-list" start="3" dir="auto"><li>물건·장소·감정·사람·경험 등 단어 또는 문장을 자유롭게 적는다.</li></ol><ol type="1" id="42210f5f-8497-812f-98fe-cca4dfba2ce1" class="numbered-list" start="4" dir="auto"><li>작성한 마인드맵을 촬영해 개인 FigJam과 개인 프로필 Figma 작업 공간에 올린다.</li></ol><ol type="1" id="42210f5f-8497-817a-9362-fc728eb0e29b" class="numbered-list" start="5" dir="auto"><li>문장으로 적힌 내용은 이미지 검색에 적합한 단어로 바꾼다.</li></ol><ol type="1" id="42210f5f-8497-8182-b67a-e8f63d5857e9" class="numbered-list" start="6" dir="auto"><li><strong>실제로 시각화할 수 있는 키워드 5개</strong>를 고른다.</li></ol><p id="42210f5f-8497-814d-a7fd-d17f93762227" class="" dir="auto"><strong>선정 기준:</strong> 키워드를 검색했을 때 사진·형태·질감·공간 등 이미지로 연결할 수 있는가?</p><p id="42210f5f-8497-813a-ab78-c9d481658ec7" class="" dir="auto">수업에서 예시로 언급한 단어: 식물, 디저트, 강아지, 메탈릭, 산책, 유기적 질서, 포근함, 그래픽 디자인.</p><h2 id="42210f5f-8497-8125-b35e-d6a6bf0b1662" class="" dir="auto">3. 키워드를 시각적 모티브로 변환하기</h2><h3 id="42210f5f-8497-8107-a204-dc9a0e000d0f" class="" dir="auto">3-1. 모티브와 레퍼런스 구분</h3><table id="42210f5f-8497-81fc-8bca-c8e150ee5947" class="simple-table" dir="ltr"><thead class="simple-table-header"><tr id="42210f5f-8497-8121-a953-f8357dadb9af" dir="ltr"><th id="\M?B" class="simple-table-header-color simple-table-header">구분</th><th id="{`xq" class="simple-table-header-color simple-table-header">의미</th><th id="otCY" class="simple-table-header-color simple-table-header">예시</th></tr></thead><tbody><tr id="42210f5f-8497-81e1-8bf3-f9c888d9c718" dir="ltr"><td id="\M?B" class=""><strong>키워드</strong></td><td id="{`xq" class="">표현하고 싶은 개념·특성</td><td id="otCY" class="">강아지, 포근함</td></tr><tr id="42210f5f-8497-8176-b371-dd324a3f4e94" dir="ltr"><td id="\M?B" class=""><strong>모티브 이미지</strong></td><td id="{`xq" class="">그 개념을 시각적으로 떠올리게 하는 소재</td><td id="otCY" class="">털결의 질감, 부드러운 섬유, 어두운 공간의 빛</td></tr><tr id="42210f5f-8497-8162-9306-f7b2e7e89ff7" dir="ltr"><td id="\M?B" class=""><strong>디자인 레퍼런스</strong></td><td id="{`xq" class="">모티브를 실제 레이아웃·그래픽·포스터 등에 활용한 사례</td><td id="otCY" class="">유기적인 선, 부드러운 패턴을 사용한 편집 디자인</td></tr><tr id="42210f5f-8497-817e-bc84-f9f71a59d3ff" dir="ltr"><td id="\M?B" class=""><strong>내 디자인</strong></td><td id="{`xq" class="">모티브를 바탕으로 직접 결정한 구성과 표현</td><td id="otCY" class="">개인 프로필의 배경 질감, 선형 장식, 타이틀 처리</td></tr></tbody></table><h3 id="42210f5f-8497-812a-a6a2-f10a142ee594" class="" dir="auto">3-2. Unsplash에서 찾는 방법</h3><ul id="42210f5f-8497-8143-8997-f60151b321bc" class="bulleted-list" dir="auto"><li style="list-style-type:disc">키워드 이름을 그대로 검색하기보다 <strong>Texture(텍스처)</strong> 와 <strong>Architecture(건축)</strong> 카테고리를 활용한다.</li></ul><ul id="42210f5f-8497-81d3-9d3b-e4dbc4161395" class="bulleted-list" dir="auto"><li style="list-style-type:disc">예: ‘강아지’를 직접 찍은 사진이 아니라 털의 결, 말랑한 소재, 부드러운 곡선, 외로움을 연상시키는 빛과 공간 등을 찾는다.</li></ul><ul id="42210f5f-8497-81e1-89ab-fc268fb64ef1" class="bulleted-list" dir="auto"><li style="list-style-type:disc">찾은 이미지마다 <strong>왜 해당 키워드와 연결되는지</strong> 한두 문장으로 설명한다.</li></ul><ul id="42210f5f-8497-8100-a0c7-dffda7fccc2d" class="bulleted-list" dir="auto"><li style="list-style-type:disc">이미지가 모티브가 되는 이유는 개인의 관찰·해석으로 제시하고, 조사되지 않은 심리학적 사실처럼 포장하지 않는다.</li></ul><h3 id="42210f5f-8497-8118-9949-cfd940eb9bfa" class="" dir="auto">3-3. Pinterest에서 레퍼런스 확장</h3><ol type="1" id="42210f5f-8497-8181-b32e-d12ba73aee97" class="numbered-list" start="1" dir="auto"><li>모티브에서 형태·감정·구조와 연관된 새 검색어를 만든다.</li></ol><ol type="1" id="42210f5f-8497-816e-bc4b-e41528b273ad" class="numbered-list" start="2" dir="auto"><li>Pinterest에서 검색해 가장 가까운 이미지를 선택한다.</li></ol><ol type="1" id="42210f5f-8497-81de-9ed2-e465d6b987b5" class="numbered-list" start="3" dir="auto"><li>관련 이미지 추천을 따라가며 비슷한 조형 언어를 찾는다.</li></ol><ol type="1" id="42210f5f-8497-811f-80b7-cbf778debfc4" class="numbered-list" start="4" dir="auto"><li>원하는 방향과 멀어지면 이전 이미지로 돌아가 다시 분기한다.</li></ol><ol type="1" id="42210f5f-8497-8126-9632-d9fc13cbfba1" class="numbered-list" start="5" dir="auto"><li>나중에 재탐색할 수 있도록 마음에 든 핀을 저장한다.</li></ol><ol type="1" id="42210f5f-8497-8165-b159-e13398fe15ea" class="numbered-list" start="6" dir="auto"><li>최종적으로 <strong>각 키워드마다 다른 콘셉트의 레퍼런스 1개</strong>, 총 5개를 선정한다.</li></ol><p id="42210f5f-8497-81dc-b786-dd4af038e824" class="" dir="auto"><strong>중요:</strong> ‘개인 프로필’을 만드는 중이라고 개인 프로필 디자인만 검색하지 않는다. 건축, 사진, 포스터, 패키지, 브랜드 그래픽 등 다른 분야에서도 형태와 색감의 단서를 찾는다.</p><h2 id="42210f5f-8497-81f3-8695-ee624f651b11" class="" dir="auto">4. 개인 프로필 시안 제작 원칙</h2><h3 id="42210f5f-8497-8136-ad12-f9dc54c1ac40" class="" dir="auto">4-1. 먼저 텍스트, 나중에 이미지</h3><ul id="42210f5f-8497-8188-8c6e-c0298cc5e2c1" class="bulleted-list" dir="auto"><li style="list-style-type:disc">프로필에서 실제로 보여줄 정보와 문구를 먼저 배치한다.</li></ul><ul id="42210f5f-8497-81ce-993b-ceceb28aa9b7" class="bulleted-list" dir="auto"><li style="list-style-type:disc">대제목·소제목·본문·보조 정보의 <strong>타이포그래피 계층 구조</strong>를 먼저 정한다.</li></ul><ul id="42210f5f-8497-8121-9fcf-d3424293b4dc" class="bulleted-list" dir="auto"><li style="list-style-type:disc">이미지가 들어갈 자리가 부족하면 중요한 글자의 가독성을 희생하지 않고 이미지의 크기·위치·개수를 조정한다.</li></ul><ul id="42210f5f-8497-81a2-a6b6-e4bc227d8b11" class="bulleted-list" dir="auto"><li style="list-style-type:disc">이미지가 너무 강하면 투명도, 색상, 크기, 개수 등을 조정해 텍스트와 균형을 맞춘다.</li></ul><h3 id="42210f5f-8497-8134-9f37-cbec3dde9f72" class="" dir="auto">4-2. 모티브를 실제 디자인 요소로 바꾸기</h3><ul id="42210f5f-8497-8116-8933-dc66a4f59dd1" class="bulleted-list" dir="auto"><li style="list-style-type:disc">텍스처 → 배경의 미세한 질감, 종이·금속·섬유 느낌</li></ul><ul id="42210f5f-8497-810b-9e04-e009a91f0997" class="bulleted-list" dir="auto"><li style="list-style-type:disc">건축 이미지 → 그리드, 반복 구조, 선, 대칭·비대칭 레이아웃</li></ul><ul id="42210f5f-8497-813e-9c61-c94985b9cf2c" class="bulleted-list" dir="auto"><li style="list-style-type:disc">곡선·유기적 형태 → 작은 장식, 프레임 일부, 로고의 조형 언어</li></ul><ul id="42210f5f-8497-819e-a84e-f4479db8be2b" class="bulleted-list" dir="auto"><li style="list-style-type:disc">빛·그림자 → 명도 대비, 사진 톤, 배경 패턴</li></ul><ul id="42210f5f-8497-818c-b607-f3f04bccf475" class="bulleted-list" dir="auto"><li style="list-style-type:disc">선택한 레퍼런스의 타이틀 표현 → 별도로 타이포그래피 레퍼런스를 찾아 글꼴·두께·자간 등을 조합</li></ul><p id="42210f5f-8497-8157-ace8-e0d2fb32eb81" class="" dir="auto"><strong>강의 순서:</strong> FigJam에서 아이디어와 이미지 배치를 시험하고, 최종적인 타이포그래피·그리드·색상 작업은 Figma에서 진행한다.</p><h3 id="42210f5f-8497-81e7-815c-c56a88ca03e5" class="" dir="auto">4-3. 포트폴리오 표지</h3><ul id="42210f5f-8497-8151-b541-f516277990a4" class="bulleted-list" dir="auto"><li style="list-style-type:disc">표지는 모티브만 붙이는 수준을 넘어서, 그것이 적용된 <strong>포스터·배너·편집 디자인</strong> 등을 참고한다.</li></ul><ul id="42210f5f-8497-8112-9ab2-d5b80a1eb2d4" class="bulleted-list" dir="auto"><li style="list-style-type:disc">Behance 등에서 비슷한 형태·색감·분위기를 찾고, 타이틀 표현은 별도로 비교한다.</li></ul><ul id="42210f5f-8497-81c7-9284-f85b454b9ad8" class="bulleted-list" dir="auto"><li style="list-style-type:disc">레퍼런스를 그대로 복제하지 않고 내 키워드, 프로필 내용, 타이포그래피로 재구성한다.</li></ul><h2 id="42210f5f-8497-81c1-b466-e4fd9ec866d5" class="" dir="auto">5. 색상·로고는 그다음 단계</h2><ol type="1" id="42210f5f-8497-81e3-b5b8-f67ab434343f" class="numbered-list" start="1" dir="auto"><li>키워드와 이미지로 먼저 시안을 구성한다.</li></ol><ol type="1" id="42210f5f-8497-81fb-bf75-e0f7b80c828f" class="numbered-list" start="2" dir="auto"><li>초기에는 흑백·회색 등 무채색으로 작업하거나 AI가 제안한 색상을 시안 단계에서 비교한다.</li></ol><ol type="1" id="42210f5f-8497-81fe-9921-c222c817bc2e" class="numbered-list" start="3" dir="auto"><li>이후 메인 컬러와 보조 컬러를 선택한다.</li></ol><ol type="1" id="42210f5f-8497-81a2-98f0-fc5657fa8dce" class="numbered-list" start="4" dir="auto"><li>해당 컬러가 일반적으로 전달하는 인상과 나의 키워드가 어울리는지 검토한다.</li></ol><ol type="1" id="42210f5f-8497-814f-9d68-daa2966f792e" class="numbered-list" start="5" dir="auto"><li>5개 키워드 중 표현하기 쉽고 아이덴티티가 명확한 <strong>1개를 선택해 로고 제작 과정에 적용</strong>한다.</li></ol><p id="42210f5f-8497-81ad-8197-f2877c28b522" class="" dir="auto">색의 의미는 절대적인 법칙이 아니라 문화·맥락에 따라 달라질 수 있으므로, 실제 사용 화면에서 비교해 결정한다.</p><h2 id="42210f5f-8497-811e-8914-e53c9d2250c8" class="" dir="auto">6. 개인 프로필 프로젝트에 적용 — 분석 및 제안</h2><blockquote id="42210f5f-8497-81e0-b8fc-eca1fee1615a" class="" dir="auto">아래는 두 강의 내용과 현재 작업 상태를 연결한 <strong>실행 제안</strong>이며, 강의에서 직접 확정한 개인 디자인 콘셉트는 아니다.</blockquote><h3 id="42210f5f-8497-8123-9b0e-edc716ec699c" class="" dir="auto">현재까지 확보한 자료</h3><ul id="42210f5f-8497-8128-9d1b-d9dce1c44a28" class="bulleted-list" dir="auto"><li style="list-style-type:disc">친구들이 평가한 첫인상 자료: 무뚝뚝함, 과묵함, 차분함, 지적인 인상, 여유 있는 분위기 등.</li></ul><ul id="42210f5f-8497-8154-92e2-f3ddfe3a2a0c" class="bulleted-list" dir="auto"><li style="list-style-type:disc">선호 포트폴리오: 화이트 배경, 여백, 편집 디자인과 이미지 중심 구성.</li></ul><ul id="42210f5f-8497-8148-bfdc-e26ff49c3737" class="bulleted-list" dir="auto"><li style="list-style-type:disc">Figma 개인 프로필 2번: 글자 최소 14px부터 시작하는 흑백 3컬럼 정보 구조.</li></ul><h3 id="42210f5f-8497-819f-9da3-e161edc3e9c4" class="" dir="auto">시각화 키워드 후보 — 최종 선정 전</h3><table id="42210f5f-8497-8129-94cb-e3f0a90bc2da" class="simple-table" dir="ltr"><thead class="simple-table-header"><tr id="42210f5f-8497-8194-82fc-f2738137352f" dir="ltr"><th id="`Sm^" class="simple-table-header-color simple-table-header">첫인상에서 출발한 후보</th><th id="sg;:" class="simple-table-header-color simple-table-header">이미지 검색 방향</th><th id="Rvnj" class="simple-table-header-color simple-table-header">디자인 적용 아이디어</th></tr></thead><tbody><tr id="42210f5f-8497-81b7-8ee7-e96ca7c7e038" dir="ltr"><td id="`Sm^" class="">차분함</td><td id="sg;:" class="">정적인 건축, 낮은 채도, 부드러운 그림자</td><td id="Rvnj" class="">여백·저채도·정렬</td></tr><tr id="42210f5f-8497-81a8-9679-cef7d9b8efe9" dir="ltr"><td id="`Sm^" class="">정돈됨</td><td id="sg;:" class="">모듈 구조, 반복 프레임, 그리드</td><td id="Rvnj" class="">정규 그리드, 간결한 정보 배치</td></tr><tr id="42210f5f-8497-81af-99eb-ef4832acd885" dir="ltr"><td id="`Sm^" class="">지적인 인상</td><td id="sg;:" class="">활자, 서가, 편집물, 인덱스</td><td id="Rvnj" class="">선명한 위계·편집형 타이포그래피</td></tr><tr id="42210f5f-8497-8154-b30c-c8fb48ace63d" dir="ltr"><td id="`Sm^" class="">여유</td><td id="sg;:" class="">자연광, 넓은 실내, 느린 곡선</td><td id="Rvnj" class="">콘텐츠 사이 간격·여백</td></tr><tr id="42210f5f-8497-8129-96f9-cdd026374202" dir="ltr"><td id="`Sm^" class="">포근함</td><td id="sg;:" class="">섬유 조직, 무광 재질, 따뜻한 빛</td><td id="Rvnj" class="">미세한 배경 질감·완만한 모서리</td></tr></tbody></table><p id="42210f5f-8497-813c-ac1b-fca8a53ab667" class="" dir="auto">위 후보들은 <strong>내가 좋아하거나 싫어하는 것에 관한 마인드맵을 검토한 뒤 수정·교체</strong>한다. 친구들의 첫인상만으로 5개를 최종 확정하지 않는다.</p><h2 id="42210f5f-8497-8172-a1a5-f6972f180909" class="" dir="auto">7. 실습 체크리스트</h2><ul id="42210f5f-8497-817e-b6e4-ec8537c72e90" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">좋아하는 것 / 싫어하는 것 마인드맵 원본 작성 및 업로드</span><div class="indented"></div></li></ul><ul id="42210f5f-8497-8196-97e8-f91c33faabef" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">실제 이미지로 연결 가능한 키워드 5개 확정</span><div class="indented"></div></li></ul><ul id="42210f5f-8497-817e-843f-e2682e8bbbea" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">키워드별 텍스처 모티브 이미지 1개 조사</span><div class="indented"></div></li></ul><ul id="42210f5f-8497-8106-91ea-fdc479fd2e2b" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">키워드별 건축 모티브 이미지 1개 조사</span><div class="indented"></div></li></ul><ul id="42210f5f-8497-818b-b16e-ecfcd4a9edfd" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">각 이미지가 키워드와 이어지는 이유를 1~2문장으로 작성</span><div class="indented"></div></li></ul><ul id="42210f5f-8497-81de-836c-f90229ea87be" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">Pinterest·Behance에서 키워드별 디자인 레퍼런스 1개씩 선정</span><div class="indented"></div></li></ul><ul id="42210f5f-8497-8162-ad71-c1bee1376c74" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">FigJam에 키워드·모티브·레퍼런스·선정 이유 배치</span><div class="indented"></div></li></ul><ul id="42210f5f-8497-817c-a179-d2eb8c206bfe" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">프로필 정보의 제목·본문·보조 정보 계층 구조 검수</span><div class="indented"></div></li></ul><ul id="42210f5f-8497-8190-8c98-e9dce9a679b0" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">Figma에서 배경과 장식 요소를 분리하여 5가지 시안 제작</span><div class="indented"></div></li></ul><ul id="42210f5f-8497-8180-a66d-d30f7fc118eb" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">시안별 텍스트 가독성·차별성·콘셉트 일치 여부 비교</span><div class="indented"></div></li></ul><ul id="42210f5f-8497-816c-8941-e706e04c584f" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">메인·보조 색상과 그 의미 비교</span><div class="indented"></div></li></ul><ul id="42210f5f-8497-81e3-b56f-c4229276354c" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">적합한 키워드 하나로 로고 시안 제작</span><div class="indented"></div></li></ul><h2 id="42210f5f-8497-8127-8804-c257488b7a2a" class="" dir="auto">8. 작업 산출물과 검수 기준</h2><table id="42210f5f-8497-81b5-8a25-f1252432b2d4" class="simple-table" dir="ltr"><thead class="simple-table-header"><tr id="42210f5f-8497-810d-8cf4-dcd6bf6d3589" dir="ltr"><th id="Ay;B" class="simple-table-header-color simple-table-header">산출물</th><th id="g^[v" class="simple-table-header-color simple-table-header">필요한 내용</th><th id="&gt;@mC" class="simple-table-header-color simple-table-header">완료 판단</th></tr></thead><tbody><tr id="42210f5f-8497-8146-bd37-ed2d5394b3a3" dir="ltr"><td id="Ay;B" class="">마인드맵</td><td id="g^[v" class="">좋아함 / 싫어함 / 관련 경험</td><td id="&gt;@mC" class="">최소 5개의 시각화 후보 확인</td></tr><tr id="42210f5f-8497-81a4-bac9-e18f201f04d2" dir="ltr"><td id="Ay;B" class="">키워드 5개</td><td id="g^[v" class="">단어와 선정 이유</td><td id="&gt;@mC" class="">이미지 검색 가능</td></tr><tr id="42210f5f-8497-8112-a2e2-c0f7cb8a013d" dir="ltr"><td id="Ay;B" class="">모티브 보드</td><td id="g^[v" class="">텍스처·건축 이미지</td><td id="&gt;@mC" class="">키워드와의 연결 이유 설명 가능</td></tr><tr id="42210f5f-8497-8145-b7cc-c01735e9f77e" dir="ltr"><td id="Ay;B" class="">레퍼런스 보드</td><td id="g^[v" class="">실제 디자인 사례 5개</td><td id="&gt;@mC" class="">서로 다른 콘셉트, 모티브와 연결</td></tr><tr id="42210f5f-8497-818b-a2ef-c5e9651f523f" dir="ltr"><td id="Ay;B" class="">프로필 시안</td><td id="g^[v" class="">텍스트 위계 + 배경·요소 배치</td><td id="&gt;@mC" class="">글자 가독성 확보, 시각 요소 과잉 없음</td></tr><tr id="42210f5f-8497-81ca-a18e-f39bcb36847f" dir="ltr"><td id="Ay;B" class="">컬러·로고</td><td id="g^[v" class="">색상 선택 근거, 1개 로고 시안</td><td id="&gt;@mC" class="">전체 콘셉트와 조화</td></tr></tbody></table><h3 id="42210f5f-8497-814b-b369-d086233e7a20" class="" dir="auto">특히 주의할 점</h3><ul id="42210f5f-8497-8198-8157-dd2c987fa8a0" class="bulleted-list" dir="auto"><li style="list-style-type:disc"><strong>디자인이 먼저가 아니라 콘셉트가 먼저</strong>: 키워드와 연결되지 않는 장식은 줄인다.</li></ul><ul id="42210f5f-8497-81ff-b8bf-d25c7eeb8de5" class="bulleted-list" dir="auto"><li style="list-style-type:disc"><strong>‘다르게 보인다’와 ‘잘 작동한다’는 별도 기준</strong>: 차별화뿐 아니라 정보 전달도 확인한다.</li></ul><ul id="42210f5f-8497-81fe-ab38-de2fa68653e3" class="bulleted-list" dir="auto"><li style="list-style-type:disc"><strong>해석과 객관적 근거를 구분</strong>: 이미지가 어떤 인상을 준다는 나의 설명은 가능하지만, 근거 없는 보편적 사실로 표현하지 않는다.</li></ul><ul id="42210f5f-8497-81dd-9550-c245ac62e37c" class="bulleted-list" dir="auto"><li style="list-style-type:disc"><strong>AI는 재료 제작을 도와주는 수단</strong>: 개인 프로필의 선택 이유와 최종 디자인 판단은 직접 정리한다.</li></ul><hr id="42210f5f-8497-81b4-bbe5-d7cbc5ff665a" dir="auto"/><h2 id="42210f5f-8497-815c-833e-f980ee72b926" class="" dir="auto">9. 참고 자료 및 작업 링크</h2><ul id="42210f5f-8497-81c9-9550-fe7032a1c518" class="bulleted-list" dir="auto"><li style="list-style-type:disc">강의 내용 A: 이전 대화에 제공된 ‘마인드맵·키워드·콘셉트’ 수업 기록.</li></ul><ul id="42210f5f-8497-81d5-b2c0-c2bedb0952e2" class="bulleted-list" dir="auto"><li style="list-style-type:disc">강의 내용 B: 첨부 텍스트 ‘붙여넣은 텍스트(1)(1).txt’의 ‘모티브 이미지·레퍼런스·텍스트 계층 구조’ 수업 기록.</li></ul><ul id="42210f5f-8497-8105-9591-e1a6ae754c5f" class="bulleted-list" dir="auto"><li style="list-style-type:disc"><a href="https://www.figma.com/slides/O8LkWErsHlf6jcNIz3uAY5?node-id=194-50">Figma 개인 프로필 2번</a></li></ul><ul id="42210f5f-8497-81f9-9e21-cd2cd379b443" class="bulleted-list" dir="auto"><li style="list-style-type:disc"><a href="https://www.figma.com/board/iGBOOAoZMDW2McKUo7iyXs/?node-id=0-1">기존 FigJam 보드</a></li></ul><ul id="42210f5f-8497-8185-b8e3-d0dfac6508bd" class="bulleted-list" dir="auto"><li style="list-style-type:disc"><a href="https://unsplash.com/">Unsplash</a> / <a href="https://www.pinterest.com/">Pinterest</a> / <a href="https://www.behance.net/">Behance</a></li></ul><p id="42210f5f-8497-81f0-b676-f19518dd0240" class="" dir="auto"><strong>다음 실행 순서:</strong> 마인드맵 확인 → 최종 키워드 5개 선정 → 텍스처·건축 모티브 수집. 디자인 색상이나 로고 확정은 그다음에 진행한다.</p></div></article><span class="sans" style="font-size:14px;padding-top:2em"></span></body></html>

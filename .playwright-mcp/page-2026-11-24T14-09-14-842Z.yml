@@ -1,0 +1,114 @@
+- generic [active] [ref=f87e1]:
+  - generic [ref=f87e4]:
+    - generic:
+      - link "콘텐츠로 건너뛰기":
+        - /url: "#"
+    - navigation [ref=f87e9]:
+      - generic [ref=f87e11]:
+        - generic [ref=f87e12]:
+          - generic "홈" [ref=f87e16]:
+            - link "홈" [ref=f87e17] [cursor=pointer]:
+              - /url: /
+          - generic "홈" [ref=f87e24]:
+            - link "홈" [ref=f87e25] [cursor=pointer]:
+              - /url: /
+          - generic "내 보드" [ref=f87e32]:
+            - link "내 보드" [ref=f87e33] [cursor=pointer]:
+              - /url: /saoproject26/
+          - generic "만들기" [ref=f87e40]:
+            - button "만들기" [ref=f87e41] [cursor=pointer]
+          - generic "업데이트" [ref=f87e775]:
+            - 'button "업데이트: 1004개 알림" [ref=f87e776] [cursor=pointer]'
+          - generic "메시지" [ref=f87e53]:
+            - button "메시지" [ref=f87e54] [cursor=pointer]
+        - generic "설정 및 지원" [ref=f87e63]:
+          - button "설정 및 지원" [ref=f87e64] [cursor=pointer]
+    - generic:
+      - complementary "꼬리말 부동 버튼"
+    - generic [ref=f87e71]:
+      - banner [ref=f87e72]:
+        - generic [ref=f87e76]:
+          - button "뒤로" [ref=f87e783] [cursor=pointer]
+          - generic [ref=f87e79]:
+            - generic:
+              - img "검색 아이콘"
+            - combobox "검색" [ref=f87e81]
+            - generic "이미지 업로드" [ref=f87e93]:
+              - button "Pinterest 렌즈" [ref=f87e94] [cursor=pointer]
+          - generic [ref=f87e108]:
+            - link "내 프로필" [ref=f87e113] [cursor=pointer]:
+              - /url: /saoproject26/
+            - button "계정" [ref=f87e125] [cursor=pointer]
+      - main [ref=f87e130]:
+        - generic [ref=f87e1244]:
+          - generic [ref=f87e1245]: 관련 상품 결과를 불러오는 중
+          - list [ref=f87e1250]:
+            - listitem [ref=f87e1251]:
+              - group "Closeup content container" [ref=f87e1258]:
+                - generic [ref=f87e1263]:
+                  - region "핀 이미지 및 탐색할 항목" [ref=f87e1266]:
+                    - region "핀 이미지" [ref=f87e1271]:
+                      - generic [ref=f87e1279]:
+                        - button "더 크게 보기" [ref=f87e1282] [cursor=pointer]:
+                          - generic [ref=f87e1284]:
+                            - generic: 더 크게 보기
+                            - img "더 크게 보기" [ref=f87e1286]
+                        - button "이미지 검색" [ref=f87e1291] [cursor=pointer]:
+                          - generic [ref=f87e1293]:
+                            - generic: 이미지 검색
+                            - img "이미지 검색" [ref=f87e1295]
+                  - generic [ref=f87e1297]:
+                    - generic [ref=f87e1300]:
+                      - list [ref=f87e1301]:
+                        - generic [ref=f87e1302]:
+                          - listitem [ref=f87e1304]:
+                            - generic "반응" [ref=f87e1307]:
+                              - button "반응" [ref=f87e1308] [cursor=pointer]
+                            - generic [ref=f87e1313]: "169"
+                          - listitem [ref=f87e1315]:
+                            - generic "댓글" [ref=f87e1318]:
+                              - button "댓글" [ref=f87e1319] [cursor=pointer]
+                          - listitem [ref=f87e1325]:
+                            - generic "공유" [ref=f87e1329]:
+                              - button "이 핀 공유" [ref=f87e1331] [cursor=pointer]
+                          - listitem [ref=f87e1337]:
+                            - generic "추가 작업" [ref=f87e1342]:
+                              - button "추가 작업" [ref=f87e1344] [cursor=pointer]
+                      - generic [ref=f87e1354]:
+                        - 'button "저장할 보드 선택: 재미있는 gif" [ref=f87e1357] [cursor=pointer]':
+                          - generic "재미있는 gif" [ref=f87e1360]
+                        - button "저장" [ref=f87e1366] [cursor=pointer]
+                    - generic [ref=f87e1374]:
+                      - generic [ref=f87e1383]:
+                        - link [ref=f87e1385] [cursor=pointer]:
+                          - /url: /Tuxmen12/
+                          - img "Tux Man 아바타 링크" [ref=f87e1392]
+                        - link [ref=f87e1396] [cursor=pointer]:
+                          - /url: /Tuxmen12/
+                          - heading "Tux Man" [level=2] [ref=f87e1397]
+                      - button [ref=f87e1415] [cursor=pointer]:
+                        - heading "댓글 2개" [level=2] [ref=f87e1425]
+                        - generic [ref=f87e1446]:
+                          - text: Vishi Govi
+                          - generic [ref=f87e1447]: Amanzing
+                    - generic [ref=f87e1457]:
+                      - generic [ref=f87e1459]:
+                        - button [ref=f87e1461]
+                        - generic [ref=f87e1465]:
+                          - generic: 댓글 추가
+                          - combobox "댓글 추가" [ref=f87e1467]
+                      - generic [ref=f87e1476]:
+                        - button "이모티콘 선택" [ref=f87e1477] [cursor=pointer]
+                        - button "스티커 선택" [ref=f87e1482] [cursor=pointer]
+                        - button "사진을 선택합니다." [ref=f87e1488] [cursor=pointer]
+            - listitem [ref=f87e1493]
+            - listitem [ref=f87e1497]
+            - listitem [ref=f87e1501]
+            - listitem [ref=f87e1505]
+            - listitem [ref=f87e1509]
+            - listitem [ref=f87e1513]
+    - generic:
+      - contentinfo "꼬리말"
+  - generic:
+    - generic:
+      - region "Toast notification"

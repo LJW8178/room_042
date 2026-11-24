@@ -1,0 +1,138 @@
+- generic [ref=f29e4]:
+  - generic:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+  - navigation [ref=f29e9]:
+    - generic [ref=f29e11]:
+      - generic [ref=f29e12]:
+        - generic "홈" [ref=f29e16]:
+          - link "홈" [ref=f29e17] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f29e24]:
+          - link "홈" [ref=f29e25] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f29e32]:
+          - link "내 보드" [ref=f29e33] [cursor=pointer]:
+            - /url: /saoproject26/
+        - generic "만들기" [ref=f29e40]:
+          - button "만들기" [ref=f29e41] [cursor=pointer]
+        - generic "업데이트" [ref=f29e50]:
+          - 'button "업데이트: 1004개 알림" [ref=f29e51] [cursor=pointer]'
+        - generic "메시지" [ref=f29e60]:
+          - button "메시지" [ref=f29e61] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f29e70]:
+        - button "설정 및 지원" [ref=f29e71] [cursor=pointer]
+  - generic:
+    - complementary "꼬리말 부동 버튼"
+  - generic [ref=f29e78]:
+    - banner [ref=f29e79]:
+      - generic [ref=f29e83]:
+        - generic [ref=f29e85]:
+          - generic [ref=f29e86]:
+            - combobox "검색" [ref=f29e88]: perspective line ornament graphic
+            - generic [ref=f29e89]:
+              - button "검색 입력 삭제" [ref=f29e93] [cursor=pointer]
+              - generic "이미지 업로드" [ref=f29e100]:
+                - button "Pinterest 렌즈" [ref=f29e101] [cursor=pointer]
+          - button "모든 핀" [ref=f29e109] [cursor=pointer]
+        - generic [ref=f29e115]:
+          - link "내 프로필" [ref=f29e120] [cursor=pointer]:
+            - /url: /saoproject26/
+          - button "계정" [ref=f29e132] [cursor=pointer]
+    - main [ref=f29e137]:
+      - heading "검색 결과 페이지" [level=1] [ref=f29e139]
+      - region "필터 및 세분화 검색" [ref=f29e144]:
+        - button "필터 표시" [ref=f29e153] [cursor=pointer]
+      - generic [ref=f29e163]:
+        - generic [ref=f29e164]: perspective line ornament graphic 검색 결과를 추가로 불러오는 중
+        - list [ref=f29e169]:
+          - listitem [ref=f29e170]:
+            - group "핀 카드" [ref=f29e175]:
+              - generic [ref=f29e177]:
+                - link "제목 없음 핀 페이지" [ref=f29e179] [cursor=pointer]:
+                  - /url: /pin/1067845761653199030/
+                  - img "포함된 이미지:" [ref=f29e189]
+                - generic "추가 작업" [ref=f29e197]:
+                  - button "추가 작업" [ref=f29e198] [cursor=pointer]
+          - listitem [ref=f29e203]:
+            - group "핀 카드" [ref=f29e208]:
+              - generic [ref=f29e210]:
+                - link "제목 없음 핀 페이지" [ref=f29e212] [cursor=pointer]:
+                  - /url: /pin/1044553707298219144/
+                  - img "포함된 이미지:" [ref=f29e222]
+                - generic "추가 작업" [ref=f29e230]:
+                  - button "추가 작업" [ref=f29e231] [cursor=pointer]
+          - listitem [ref=f29e236]:
+            - group "핀 카드" [ref=f29e241]:
+              - generic [ref=f29e243]:
+                - link "Inside Kakao — Brenden 핀 페이지" [ref=f29e245] [cursor=pointer]:
+                  - /url: /pin/938437641130857438/
+                  - 'img "포함된 이미지: Inside Kakao — Brenden" [ref=f29e255]'
+                - generic "추가 작업" [ref=f29e263]:
+                  - button "추가 작업" [ref=f29e264] [cursor=pointer]
+          - listitem [ref=f29e269]:
+            - group "핀 카드" [ref=f29e274]:
+              - generic [ref=f29e276]:
+                - 'link "Figure: No.702 핀 페이지" [ref=f29e278] [cursor=pointer]':
+                  - /url: /pin/834503005987294898/
+                  - 'img "포함된 이미지: Figure: No.702" [ref=f29e288]'
+                - generic "추가 작업" [ref=f29e296]:
+                  - button "추가 작업" [ref=f29e297] [cursor=pointer]
+          - listitem [ref=f29e302]:
+            - group "핀 카드" [ref=f29e307]:
+              - generic [ref=f29e309]:
+                - link "제목 없음 핀 페이지" [ref=f29e311] [cursor=pointer]:
+                  - /url: /pin/1114570607751772899/
+                  - img "포함된 이미지:" [ref=f29e321]
+                - generic "추가 작업" [ref=f29e329]:
+                  - button "추가 작업" [ref=f29e330] [cursor=pointer]
+          - listitem [ref=f29e335]:
+            - group "핀 카드" [ref=f29e340]:
+              - generic [ref=f29e342]:
+                - link "b 핀 페이지" [ref=f29e344] [cursor=pointer]:
+                  - /url: /pin/455637687270563720/
+                  - img "포함된 이미지:" [ref=f29e354]
+                - generic "추가 작업" [ref=f29e362]:
+                  - button "추가 작업" [ref=f29e363] [cursor=pointer]
+          - listitem [ref=f29e368]:
+            - group "핀 카드" [ref=f29e373]:
+              - generic [ref=f29e375]:
+                - link "Тату 핀 페이지" [ref=f29e377] [cursor=pointer]:
+                  - /url: /pin/887772145284101392/
+                  - 'img "포함된 이미지: Тату" [ref=f29e387]'
+                - generic "추가 작업" [ref=f29e395]:
+                  - button "추가 작업" [ref=f29e396] [cursor=pointer]
+          - listitem [ref=f29e401]:
+            - group "핀 카드" [ref=f29e406]:
+              - generic [ref=f29e408]:
+                - 'link "#art #line 핀 페이지" [ref=f29e410] [cursor=pointer]':
+                  - /url: /pin/1104015296177633901/
+                  - img "포함된 이미지:" [ref=f29e420]
+                - generic "추가 작업" [ref=f29e428]:
+                  - button "추가 작업" [ref=f29e429] [cursor=pointer]
+          - listitem [ref=f29e434]:
+            - group "핀 카드" [ref=f29e439]:
+              - generic [ref=f29e441]:
+                - link "corridor logo 핀 페이지" [ref=f29e443] [cursor=pointer]:
+                  - /url: /pin/128071183122899484/
+                  - img "포함된 이미지:" [ref=f29e453]
+                - generic "추가 작업" [ref=f29e461]:
+                  - button "추가 작업" [ref=f29e462] [cursor=pointer]
+          - listitem [ref=f29e467]:
+            - group "핀 카드" [ref=f29e472]:
+              - generic [ref=f29e474]:
+                - link "제목 없음 핀 페이지" [ref=f29e476] [cursor=pointer]:
+                  - /url: /pin/490681321922675649/
+                  - img "포함된 이미지:" [ref=f29e486]
+                - generic "추가 작업" [ref=f29e494]:
+                  - button "추가 작업" [ref=f29e495] [cursor=pointer]
+          - listitem [ref=f29e500]:
+            - group "핀 카드" [ref=f29e505]:
+              - generic [ref=f29e507]:
+                - link "Фон 핀 페이지" [ref=f29e509] [cursor=pointer]:
+                  - /url: /pin/636485359873516747/
+                  - 'img "포함된 이미지: Фон" [ref=f29e519]'
+                - generic "추가 작업" [ref=f29e527]:
+                  - button "추가 작업" [ref=f29e528] [cursor=pointer]
+  - generic:
+    - contentinfo "꼬리말"

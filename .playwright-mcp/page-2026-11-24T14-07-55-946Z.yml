@@ -1,0 +1,906 @@
+- generic [ref=f6e4]:
+  - navigation [ref=f6e5]:
+    - generic [ref=f6e6]:
+      - generic [ref=f6e7]:
+        - link "Unsplash 홈" [ref=f6e1124] [cursor=pointer]:
+          - /url: /ko
+          - img "Unsplash 홈" [ref=f6e1125]
+        - link "사진" [ref=f6e1126] [cursor=pointer]:
+          - /url: /ko
+        - link "일러스트" [ref=f6e1127] [cursor=pointer]:
+          - /url: /ko/%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8
+      - generic [ref=f6e17]:
+        - button "탐색" [ref=f6e1128] [cursor=pointer]
+        - button "컬렉션" [ref=f6e1129] [cursor=pointer]
+        - button "다운로드 내역" [ref=f6e1130] [cursor=pointer]
+      - button "북마크" [ref=f6e1131] [cursor=pointer]
+    - generic [ref=f6e31]:
+      - link "로그인 / 가입" [ref=f6e1132] [cursor=pointer]:
+        - /url: /ko/%EB%A1%9C%EA%B7%B8%EC%9D%B8?referrer=%2Fko%2Ft%2Farchitecture-interior
+      - button "언어" [ref=f6e1133] [cursor=pointer]
+      - button "메뉴" [ref=f6e1134] [cursor=pointer]
+  - generic [ref=f6e41]:
+    - generic [ref=f6e42]:
+      - navigation [ref=f6e43]:
+        - search "사이트 전체에서 이미지 찾기" [ref=f6e1135]:
+          - button "Unsplash 검색" [ref=f6e1136] [cursor=pointer]
+          - combobox [ref=f6e49]:
+            - searchbox "Unsplash 검색" [ref=f6e1137]
+            - listbox
+          - button "시각적 검색" [ref=f6e1138] [cursor=pointer]
+        - generic [ref=f6e55]:
+          - link "Unsplash+ 구독" [ref=f6e1139] [cursor=pointer]:
+            - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4
+          - link "로그인" [ref=f6e1140] [cursor=pointer]:
+            - /url: /ko/%EB%A1%9C%EA%B7%B8%EC%9D%B8?referrer=%2Fko%2Ft%2Farchitecture-interior
+        - button "이미지 제출" [ref=f6e1141] [cursor=pointer]
+      - list [ref=f6e65]:
+        - listitem [ref=f6e66]:
+          - link "추천" [ref=f6e1142] [cursor=pointer]:
+            - /url: /ko
+        - listitem [ref=f6e67]:
+          - link "새로운 사항 가을에" [ref=f6e1143] [cursor=pointer]:
+            - /url: /ko/t/Fall
+            - generic [ref=f6e69]:
+              - generic [ref=f6e70]: 새로운 사항
+              - text: 가을에
+        - listitem [ref=f6e71]:
+          - link "배경 화면" [ref=f6e1144] [cursor=pointer]:
+            - /url: /ko/t/wallpapers
+        - listitem [ref=f6e73]:
+          - link "자연" [ref=f6e1145] [cursor=pointer]:
+            - /url: /ko/t/nature
+        - listitem [ref=f6e75]:
+          - link "3D 렌더링" [ref=f6e1146] [cursor=pointer]:
+            - /url: /ko/t/3d-renders
+        - listitem [ref=f6e77]:
+          - link "실험적인" [ref=f6e1147] [cursor=pointer]:
+            - /url: /ko/t/experimental
+        - listitem [ref=f6e79]:
+          - link "필름" [ref=f6e1148] [cursor=pointer]:
+            - /url: /ko/t/film
+        - listitem [ref=f6e81]:
+          - link "거리 사진" [ref=f6e1149] [cursor=pointer]:
+            - /url: /ko/t/street-photography
+        - listitem [ref=f6e83]:
+          - link "건축학" [active]:
+            - /url: /ko/t/architecture-interior
+        - listitem [ref=f6e85]:
+          - link "텍스처" [ref=f6e1150] [cursor=pointer]:
+            - /url: /ko/t/textures-patterns
+        - listitem [ref=f6e87]:
+          - link "여행" [ref=f6e1151] [cursor=pointer]:
+            - /url: /ko/t/travel
+        - listitem [ref=f6e89]:
+          - link "인류" [ref=f6e1152] [cursor=pointer]:
+            - /url: /ko/t/people
+      - generic [ref=f6e336]:
+        - generic [ref=f6e338]:
+          - generic [ref=f6e340]:
+            - banner [ref=f6e341]:
+              - heading "건축학" [level=1] [ref=f6e1462]
+              - generic [ref=f6e343]:
+                - link "Unsplash" [ref=f6e1296] [cursor=pointer]:
+                  - /url: /ko/@unsplash
+                - text: 에서 큐레이팅
+            - generic [ref=f6e345]: 공간의 예술성을 기념하는 이 카테고리는 건축과 인테리어의 놀라운 사진을 강조합니다.
+            - button [ref=f6e1463] [cursor=pointer]:
+              - strong [ref=f6e1299]: 건축학
+              - text: 에 제출
+          - generic [ref=f6e351]:
+            - heading "월간 상위 출품자" [level=3] [ref=f6e1156]
+            - generic [ref=f6e355]:
+              - link "Clay Banks 19개 이미지" [ref=f6e1464] [cursor=pointer]:
+                - /url: /ko/@claybanks
+                - generic [ref=f6e1466]:
+                  - generic [ref=f6e1467]: Clay Banks
+                  - generic [ref=f6e1468]: 19개 이미지
+              - link "Sebastian Schuster 17개 이미지" [ref=f6e1469] [cursor=pointer]:
+                - /url: /ko/@sschusterphotoart
+                - generic [ref=f6e1317]:
+                  - generic [ref=f6e1318]: Sebastian Schuster
+                  - generic [ref=f6e1319]: 17개 이미지
+              - link "Simone Hutsch 13개 이미지" [ref=f6e1470] [cursor=pointer]:
+                - /url: /ko/@heysupersimi
+                - generic [ref=f6e1472]:
+                  - generic [ref=f6e1473]: Simone Hutsch
+                  - generic [ref=f6e1474]: 13개 이미지
+              - link "Victoria Dokukina 8개 이미지" [ref=f6e1475] [cursor=pointer]:
+                - /url: /ko/@victoriadokukina
+                - generic [ref=f6e1477]:
+                  - generic [ref=f6e1478]: Victoria Dokukina
+                  - generic [ref=f6e1479]: 8개 이미지
+          - generic [ref=f6e381]:
+            - link "추천" [ref=f6e1321]:
+              - /url: /ko/%EC%82%AC%EC%A7%84/%EC%BD%94%ED%8E%9C%ED%95%98%EA%B2%90%EC%9D%98-%EB%B8%94%EB%9E%99-%EB%8B%A4%EC%9D%B4%EC%95%84%EB%AA%AC%EB%93%9C-%EB%8F%84%EC%84%9C%EA%B4%80-%EC%95%84%ED%8A%B8%EB%A6%AC%EC%9B%80-M9psubdS5aw
+            - link "Julia Taubitz" [ref=f6e1480] [cursor=pointer]:
+              - /url: /ko/@justmejuliee
+        - generic [ref=f6e1327]:
+          - generic [ref=f6e1328]:
+            - generic [ref=f6e1329]:
+              - contentinfo [ref=f6e1334]:
+                - generic [ref=f6e1335]: –– ––– ––– –– ––– – ––– ––– –––– – – –– ––– – – ––– –– –– –––– ––
+                - generic [ref=f6e1341] [cursor=pointer]
+              - iframe [ref=f6e1344]:
+                - generic [ref=f22e3]:
+                  - link [ref=f22e4] [cursor=pointer]:
+                    - /url: //discovery.popin.cc/home/privacy.html
+                  - link "‘실비보험’ 비교 안하면 손해! 보험료 차이 바로 확인 ‘실비보험’ 비교 안하면 손해! 보험료 차이 바로 확인 굿리치 [등록번호:제2006038313호]" [ref=f22e7] [cursor=pointer]:
+                    - /url: https://trace.popin.cc/ju/ic?tn=c92aad1999f497c1a6c2ff886123e07c&trackingid=56ddd2bc6bb8c5573f79858cb1f116b6&acid=1152&data=F7qkXG4UoRflElHX2H9q9nU-syJAxVxToD1mOb3doFvm65jf8xFc3iPVW295fUvIKT_HeTep068xv4cTFG8JDgq7yhw3af2hWJXJaOKpXjuxj-Y-TncMHV6jjexJp10Y4q73fl2OGEK_qLB3IhE5-RQzK5CpYWOjoPDKI3vU3cOcN8xSNJVO86v9OmtefghSEyH0qwE3vsPTJ8EnjGgDw3rzb6wT9AeAebyaV2M5cYwTpIlcPvDiKTtPSV1JTqSA172oL92Be2nWIwCKv_5ITXd3FcbrTUWZOdeQzkB-i4LeW44ub9YgRT5Q7bWe4x5ObYNPq8YBi5KZTM_-YPiOiQ597lwsgZVWY18JvH2xxE2-SnNDLg5oXc7JtoH2ckjfGNQRY0vTr1KqJ9a1TyIdUli8p_VsWFxzoN15ROBHzO8TCJjyEl507Qxemw7fEU6WMRUhEXw_qYuD2nNHjems5A_hx7jFY9Rpo5AwKVBFzHRK9xwt73kkT_lwjECfOr3pPf3fIvzLJUCxUxUNbnDWPBr4u-5d4lnAKAQP5_0SGIoXOnGCpSwXJJ3Z9BKkFzy9moyGvsUmyd2gK2RqbzgLlc2Zi9SdJgZZM9H6Kun8KRrD39L4GjDe0USGC_D6YOQqulUgA21SbxL3f2GFZ0vfYFO79A3P7ZhPXfAxRL60ObThTOfQjUCuPhRVdzXiEOT2NmNbAam9KzysfD31hts-4Qbdg-_xPVClVc-XB15w6L0j05mEWpi6GxSunS90F7jrw8nBwZfgwwsm9JdR8EVvrq3Q7SgAXVXvFBJgZ9hNvmoQ7azTQCeWkdhstYtQbFRiQoMpIDbjDQWXbiRf9yHG6rPk_v0ifAm3FWR_wZpWme7u7nKP-C7zHBxkcqGXYdlW7F2xeZaqVapTKcAdCyi1e-Lesa9XlypvIUc0lmkTGSLhFnR1yajJ_LltkCswEMe1qagEx8g5ZnZp4iYBOvQZNsG-5-eq_XzkcAQ8WZ_cfa9Qbq2u2kKkQyOfuaG5OJFWnIsW8e_huxI6DX87p0wEpgUHXCuWR7CkXcln9yPWlnwpQOoTlJAf7oYEsoSokCt0E7QGGiw2pHKiUFVe4aSol_KlQh2NV5JXb4eP-JnC3-SaaZ6pFVD1oKqdpJ7xqz-9KG7chRwlJB_YV3anRWE3u2K2Q8qzqzGu0uw9ZpHZlSW1_9bNfJg5l0f6xj3w1CNpGmvZynBK7jLPCESfGQttXXlpbQhv9DEuVER6XHlK4X1CTHT1eGgeOZ8vzG8n0bAq&ap=0.010001&tid=72&gprice=0FXmUXgTw4KopHnJtLH52I1bjKiZWOydNEr8MX44g7M&campaignid=5024112&c_sync=1&google_click_url=https://adclick.g.doubleclick.net/aclk%3Fsa%3DL%26ai%3DCOetQD5oFa6y7CpqV29gP2Y7GoArWy6qsbdLw7a35EMCNtwEQASCOpt-uAWCb24KPwCnIAQngAgCoAwHIAwKqBJsCT9A_uH7nzmvBB6SaMkvxA8ekFriC4Tti8SOnOAwczacLphAcsLRASVhfPItw0Ob7Dr86aMRpFxIzfpFCmyUoFPuhPiWaJjJDmjfWFyDbw2EnOPX4HdFDHWf2__ornJGgDJM1VIE4VA2JWQxCnB_UDrYkS0bXI5geG9Q7M-aQr837sLFWcJ6VlFKewZgS9C8peUu9fKyMcjQI1pGUW7sV62tzRI_CYxzsAt4EgnWo4mbf5PowdD4WT_rPR2f9ZzupJF_NbmNDcfOpXAvjDYWX_KKxEJuPslFBjuAZklFs7yJe3GULOYdg-4PkN-z4gZV3LHr8elaPc51SB5ReUVJSHqGENCBvnCotVETwEaHuqn-C9gcsSUK_idd3luAEAYAGvPb5-LOWiK0koAYhqAeT2LECqAeU2LECqAeV2LECqAep67ECqAemvhuoB5bYG6gHqpuxAqgH_56xAqgH35-xAqgH_uixAqgHrb6xAqgHv9OxAtgHANIIMAiAYRABMgiKgoCAgICACDoPgECAwICAgICogAKog4AYSL39wTpYhMiG0OOgmANgAPoLAggBgAwBqg0CS1LiDRMI34WH0OOgmAMVmsoWBR1ZhxGk6g0TCL_Vh9DjoJgDFZrKFgUdWYcRpIgO____________AdAVAYAXAbIXEBgMKgo4NTg0NjU5NDU2UAGqGBcJ43oUrgdAv0ASCjg1ODQ2NTk0NTYYAQ%26num%3D1%26sig%3DAOD64_3aUHvioWp-ZlrgdScqE-JIg8j91g%26adurl%3D
+                    - img "‘실비보험’ 비교 안하면 손해! 보험료 차이 바로 확인" [ref=f22e8]
+                    - heading "‘실비보험’ 비교 안하면 손해! 보험료 차이 바로 확인" [level=3] [ref=f22e9]
+                    - generic [ref=f22e10]: 굿리치 [등록번호:제2006038313호]
+            - figure [ref=f6e1481]:
+              - link [ref=f6e1484]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%82%98%EB%AC%B4-a%ED%94%84%EB%A0%88%EC%9E%84-%EC%B2%9C%EC%9E%A5%EC%9D%B4-%EC%9E%88%EB%8A%94-%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8-%EC%A3%BC%EB%B0%A9-3L5C9KCN8fc
+                - img "나무 A자 프레임 천장과 짙은 파란색 캐비닛이 있는 현대적인 주방" [ref=f6e1485]
+            - figure [ref=f6e1486]:
+              - link [ref=f6e1489]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B0%A9%EC%BD%95-%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%9D%BC%EC%9D%B8%EC%9D%98-%EB%B0%A9%EC%BD%95-%EC%9D%80%ED%96%89-%EA%B1%B4%EB%AC%BC-1cjfeEUZVpQ
+                - img "태국 방콕에 위치한 방콕 은행 건물과 주변 고층 빌딩의 항공 사진" [ref=f6e1490]
+            - figure [ref=f6e1491]:
+              - link [ref=f6e1494]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%BD%94%ED%8E%9C%ED%95%98%EA%B2%90%EC%9D%98-%EB%B8%94%EB%9E%99-%EB%8B%A4%EC%9D%B4%EC%95%84%EB%AA%AC%EB%93%9C-%EB%8F%84%EC%84%9C%EA%B4%80-%EC%95%84%ED%8A%B8%EB%A6%AC%EC%9B%80-M9psubdS5aw
+                - img "코펜하겐의 곡선형 목재 발코니가 있는 블랙 다이아몬드 도서관 아트리움의 위에서 내려다본 모습" [ref=f6e1495]
+            - figure [ref=f6e1496]:
+              - link [ref=f6e1499]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%91%90%EB%B0%94%EC%9D%B4%EC%9D%98-%EC%9C%A0%EB%A6%AC-%EB%B0%8F-%EA%B0%95%EC%B2%A0-%EB%A7%88%EC%B2%9C%EB%A3%A8-zRPY5N4g2Rs
+                - img "두바이의 흐릿한 하늘을 배경으로 유리와 강철 마천루들이 솟아오른다" [ref=f6e1500]
+            - figure [ref=f6e1501]:
+              - link [ref=f6e1504]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%8A%A4%ED%86%A1%ED%99%80%EB%A6%84-%EC%99%95%EA%B6%81%EC%9D%98-%EC%B0%BD%EB%AC%B8-DSPiOXBmdwg
+                - img "스톡홀름 왕궁의 높은 창문, 빛이 바닥에 그림자를 드리우는 모습" [ref=f6e1505]
+            - figure [ref=f6e1506]:
+              - link [ref=f6e1509]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B2%80%EC%9D%80-%EB%8C%80%EB%A6%AC%EC%84%9D%EA%B3%BC-%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84-%EB%B2%BD%EB%82%9C%EB%A1%9C-HlxkxVsy26c
+                - img "검은 대리석 둘러싸인 벽난로와 밝은 거실에 설치된 텔레비전이 있습니다" [ref=f6e1510]
+            - figure [ref=f6e1511]:
+              - generic [ref=f6e1513]:
+                - link [ref=f6e1514]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B0%80%EA%B5%AC%EC%99%80-%ED%99%94%EB%8D%95%EC%9C%BC%EB%A1%9C-%EA%B0%80%EB%93%9D%ED%95%9C-%EA%B1%B0%EC%8B%A4-3ttZRUvPI6U
+                  - img "가구와 화덕으로 가득한 거실" [ref=f6e1515]
+                - link [ref=f6e1516] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EA%25B0%2580%25EA%25B5%25AC%25EC%2599%2580-%25ED%2599%2594%25EB%258D%2595%25EC%259C%25BC%25EB%25A1%259C-%25EA%25B0%2580%25EB%2593%259D%25ED%2595%259C-%25EA%25B1%25B0%25EC%258B%25A4-3ttZRUvPI6U
+            - figure [ref=f6e1519]:
+              - link [ref=f6e1522]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%9D%90%EB%A6%B0-%ED%95%98%EB%8A%98%EC%9D%84-%EB%B0%B0%EA%B2%BD%EC%9C%BC%EB%A1%9C-%ED%95%9C-%EA%B8%B0%ED%95%98%ED%95%99%EC%A0%81-%EC%9C%A0%EB%A6%AC-%EA%B5%AC%EC%A1%B0-5FVvgWyqAXc
+                - img "창백한 흐린 하늘을 배경으로 서로 연결된 패널들이 있는 기하학적 유리 구조물" [ref=f6e1523]
+            - generic [ref=f6e1524]:
+              - contentinfo [ref=f6e1529]:
+                - generic [ref=f6e1530]: –– ––– ––– –– ––– – ––– ––– –––– – – –– ––– – – ––– –– –– –––– ––
+                - generic [ref=f6e1536] [cursor=pointer]
+              - iframe [ref=f6e1539]:
+                - link "Save up to 15% with a team plan. Get your team on Unsplash+" [ref=f25e3] [cursor=pointer]:
+                  - /url: https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjstHSikoAC60qpCjq6M1XhkakkPvAc_9YK8TIobeeOrxDEbB_vwKAauMAYzNenZ2RFzasA5027vwGl5GHfDEQUN1FoDWKHhcNevNBTr8o45nGGsWp0yLfh8cp4sXFzioSfyfEEZMZhgSJaFwya3uNtDClMAvnw-zt7j10PcVVskY9eUJnlgi96YXca2cSPg61InsCSRw_ibYMcG0dq0eLPMOjwGCGhLtUByoA9jdO9tRr4ONkuIiZd4OkTNegO3F6QRRT9s7llSN27vTlkhkZBp2i7t0s6vB7lfXT5pMbZ8OiOVWrZoJo8gX5mb4wyoKmAgKEfpYV9JyjlGck1z3LULNPdQQZoQ2LSTOoBo-FO7XSYWUL04GtfhGPMfAXkosJmAgxHQwEmwCNfp5UgI5UPW5esZXbLe-jTRH4ilO1XGlpn8&sai=AMfl-YSp2VoL5lDWgfKw_xQFFWEJFH1HnSCaq1Eap9OVzxwVL_QtkZz9n5YXK-TvXpg04Mqa31q1MB7tsx6Kp1OIpWS63UjUBOXxpEq3E6-GtClmn-7OtI_l_e1dal38VHOewmq-dwFBEAJccX655VVQ5tqIaf_UDmR4UQ3j6Gvh91hZM5_1RCWTbMPnjwdG1tjw1SEvKPhWKhGnoeQJgWKbdthcbfG_X6jiQBUlExrHIoqr9gcVCjL5gYeXo1aslm2Ztqh98mCxMHij2R5Yf14M482tuunTUyyS8eMNnxhkgi16p0-4FOrElMIqnE3k-M8h6PeBoIeqlTszepI29qPM8RXpkrRU4Sf1huiAMz9xo92f9AmitLykcBPilFqsERRUbxG1720q3pUVV3sf&sig=Cg0ArKJSzHsNP1vZlMtdEAE&fbs_aeid=%5Bgw_fbsaeid%5D&urlfix=1&adurl=
+                  - contentinfo [ref=f25e5]:
+                    - paragraph [ref=f25e7]: Save up to 15% with a team plan.
+                    - generic [ref=f25e8]: Get your team on Unsplash+
+            - figure [ref=f6e1540]:
+              - link [ref=f6e1543]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%A7%88%EC%B2%9C%EB%A3%A8%EC%97%90-%EB%B9%84%EC%B9%9C-%ED%99%A9%EA%B8%88%ED%83%91-%EB%B0%98%EC%82%AC%EB%AA%A8-0eJSas1Su2I
+                - img "현대 마천루의 유리 외관에 반사된 황금빛 파고다" [ref=f6e1544]
+            - figure [ref=f6e1545]:
+              - generic [ref=f6e1547]:
+                - link [ref=f6e1548]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%ED%9D%90%EB%A6%BF%ED%95%9C-%ED%95%98%EB%8A%98%EC%9D%84-%EB%B0%B0%EA%B2%BD%EC%9C%BC%EB%A1%9C-%EB%91%90-%EA%B0%9C%EC%9D%98-%EA%B3%A0%EC%B8%B5-%EB%B9%8C%EB%94%A9-bjw_uhARFRU
+                  - img "흐릿한 하늘을 배경으로 두 개의 고층 빌딩" [ref=f6e1549]
+                - link [ref=f6e1550] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25ED%259D%2590%25EB%25A6%25BF%25ED%2595%259C-%25ED%2595%2598%25EB%258A%2598%25EC%259D%2584-%25EB%25B0%25B0%25EA%25B2%25BD%25EC%259C%25BC%25EB%25A1%259C-%25EB%2591%2590-%25EA%25B0%259C%25EC%259D%2598-%25EA%25B3%25A0%25EC%25B8%25B5-%25EB%25B9%258C%25EB%2594%25A9-bjw_uhARFRU
+            - figure [ref=f6e1553]:
+              - link [ref=f6e1556]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%B6%A9%EC%B9%AD%EC%9D%98-%EC%A1%B0%EB%AA%85-%EA%B0%84%ED%8C%90%EC%9D%B4-%EC%9E%88%EB%8A%94-%EA%B3%A0%EC%B8%B5-%EB%B9%8C%EB%94%A9-7-I2ySOwcbs
+                - img "충칭의 밤에 조명이 켜진 표지판이 있는 고층 빌딩 아래에서 우산을 든 사람" [ref=f6e1557]
+            - figure [ref=f6e1558]:
+              - link [ref=f6e1561]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B9%9B%EB%82%98%EB%8A%94-%EC%B0%BD%EB%AC%B8%EC%9D%B4-%EC%9E%88%EB%8A%94-%EC%98%A4%ED%94%BC%EC%8A%A4-%EB%B9%8C%EB%94%A9-AzTmYuLASKw
+                - img "짙은 안개에 싸인 밤에는 빛나는 창문이 있는 현대적인 사무실 건물" [ref=f6e1562]
+            - figure [ref=f6e1563]:
+              - link [ref=f6e1566]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B2%BD%EC%97%90%EB%8A%94-%EA%B8%88%EC%83%89-%EC%95%A1%EC%9E%90%EA%B0%80-%EB%8B%AC%EB%A6%B0-%EB%91%90-%EC%A0%90%EC%9D%98-%EC%B6%94%EC%83%81%ED%99%94%EA%B0%80-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-5QkVyDGJTZk
+                - img "벽에는 금색 액자가 달린 두 점의 추상화가 있습니다" [ref=f6e1567]
+            - figure [ref=f6e1568]:
+              - generic [ref=f6e1570]:
+                - link [ref=f6e1571]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B1%B0%EC%8B%A4-%EC%B1%85-%EC%9C%84%EC%97%90-%EC%9E%88%EB%8A%94-%EC%9C%A0%EB%A6%AC-%EA%BD%83%EB%B3%91-axafrt7BzJI
+                  - img "흰 커피 테이블 위에 놓인 책 더미 위에 맨 가지가 꽂힌 유리 꽃병" [ref=f6e1572]
+                - link [ref=f6e1573] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EA%25B1%25B0%25EC%258B%25A4-%25EC%25B1%2585-%25EC%259C%2584%25EC%2597%2590-%25EC%259E%2588%25EB%258A%2594-%25EC%259C%25A0%25EB%25A6%25AC-%25EA%25BD%2583%25EB%25B3%2591-axafrt7BzJI
+            - figure [ref=f6e1576]:
+              - link [ref=f6e1579]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%9D%B4%EC%B8%B5-%EC%B9%A8%EB%8C%80%EC%99%80-%EB%85%B9%EC%83%89-%EC%9D%98%EC%9E%90%EA%B0%80-%EC%9E%88%EB%8A%94-%EB%B0%A9-tMPXRN6nXT4
+                - img "이층 침대와 녹색 의자가 있는 방" [ref=f6e1580]
+            - figure [ref=f6e1581]:
+              - link [ref=f6e1584]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%8C%8C%EB%9E%80-%EC%B9%A8%EB%8C%80-%EC%9C%84%EC%9D%98-%ED%98%B8%EB%9E%91%EC%9D%B4-%EB%B2%A0%EA%B0%9C-iiA8AUGSeWk
+                - img "어두운 침구가 깔린 침대 위에 주황색 호랑이 아플리케가 달린 파란 베개가 있었다" [ref=f6e1585]
+            - figure [ref=f6e1586]:
+              - link [ref=f6e1589]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%95%B4%EB%B0%94%EB%9D%BC%EA%B8%B0-%EB%B6%80%EC%A1%B0%EA%B0%80-%EC%9E%88%EB%8A%94-%EC%84%9D%EC%A1%B0-%EB%B2%BD-FdT6vNHtVT8
+                - img "따뜻한 빛 아래 조각된 해바라기 부조가 새겨진 아치형 돌담이 있는 벽" [ref=f6e1590]
+            - figure [ref=f6e1591]:
+              - link [ref=f6e1594]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%82%98%EB%AC%B4-%EC%BA%90%EB%B9%84%EB%8B%9B%EC%9D%B4-%EC%9E%88%EB%8A%94-%ED%98%84%EB%8C%80%EC%8B%9D-%EC%A3%BC%EB%B0%A9-xuq5LucyvNM
+                - img "나무 캐비닛, 흰색 아일랜드, 그리고 네 개의 나무 의자가 있는 현대적인 주방" [ref=f6e1595]
+            - figure [ref=f6e1596]:
+              - link [ref=f6e1599]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B2%BD%EB%8F%8C-%EB%B2%BD%EB%82%9C%EB%A1%9C%EA%B0%80-%EC%9E%88%EB%8A%94-%EC%95%84%EB%8A%91%ED%95%9C-%EA%B1%B0%EC%8B%A4-PN8bxi3zZ_4
+                - img "벽돌 벽난로, 나무 커피 테이블, 푹신한 의자가 있는 아늑한 거실이 있었다" [ref=f6e1600]
+            - figure [ref=f6e1601]:
+              - link [ref=f6e1604]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%B1%85%EC%83%81-%EC%9E%A5%EB%B9%84%EA%B0%80-%EC%9E%88%EB%8A%94-%ED%99%88-%EB%AE%A4%EC%A7%81-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-ldySpw0PySY
+                - img "노트북, 두 개의 키보드, 책상 위에 있는 스튜디오 모니터가 있는 홈 뮤직 스튜디오" [ref=f6e1605]
+            - figure [ref=f6e1606]:
+              - link [ref=f6e1609]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%8C%80%EC%98%81%EB%B0%95%EB%AC%BC%EA%B4%80%EC%9D%98-%EA%B7%B8%EB%A0%88%EC%9D%B4%ED%8A%B8-%EC%BD%94%ED%8A%B8-%EC%A7%80%EB%B6%95-qP9YD12Sha0
+                - img "런던 대영박물관의 그레이트 코트 유리 지붕과 신고전주의 건축 양식" [ref=f6e1610]
+            - figure [ref=f6e1611]:
+              - link [ref=f6e1614]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%82%98%EC%84%A0%ED%98%95-%EC%84%9D%EC%A1%B0-%EA%B1%B4%EB%AC%BC-%EC%99%B8%EA%B4%80-g1QyMUVBfI8
+                - img "나선형 현대 석조 건물 외관의 흑백 저각도 뷰" [ref=f6e1615]
+            - figure [ref=f6e1616]:
+              - link [ref=f6e1619]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%88%98%EC%A7%81-%EB%A3%A8%EB%B2%84%EA%B0%80-%EC%9E%88%EB%8A%94-%ED%98%84%EB%8C%80%EC%8B%9D-%EA%B1%B4%EB%AC%BC-%EC%99%B8%EA%B4%80-X2RTnM0D4jM
+                - img "반복되는 수직 흰색 루버와 어두운 매입된 층이 있는 현대식 건물 외관입니다" [ref=f6e1620]
+            - figure [ref=f6e1621]:
+              - generic [ref=f6e1623]:
+                - link [ref=f6e1624]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%A7%99%EC%9D%80-%ED%8C%8C%EB%9E%80%EC%83%89-%EC%9D%98%EC%9E%90-%EC%8B%A4%EB%A3%A8%EC%97%A3-L6XR-yUGfq4
+                  - img "밝은 배경 위에 키 큰 의자의 짙은 파란색 실루엣이 그려져 있다" [ref=f6e1625]
+                - link [ref=f6e1626] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EC%25A7%2599%25EC%259D%2580-%25ED%258C%258C%25EB%259E%2580%25EC%2583%2589-%25EC%259D%2598%25EC%259E%2590-%25EC%258B%25A4%25EB%25A3%25A8%25EC%2597%25A3-L6XR-yUGfq4
+            - figure [ref=f6e1629]:
+              - generic [ref=f6e1631]:
+                - link [ref=f6e1632]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%ED%94%8C%EB%A3%A8%ED%8A%B8-%EC%9C%A0%EB%A6%AC-%EB%92%A4%EC%97%90-%EC%9E%88%EB%8A%94-%EB%82%98%EB%AC%B4-%EC%9D%98%EC%9E%90-WdRhUiAqwD8
+                  - img "수직 홈 유리를 통해 바라보는 나무 의자가 왜곡된 효과를 만들어낸다" [ref=f6e1633]
+                - link [ref=f6e1634] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25ED%2594%258C%25EB%25A3%25A8%25ED%258A%25B8-%25EC%259C%25A0%25EB%25A6%25AC-%25EB%2592%25A4%25EC%2597%2590-%25EC%259E%2588%25EB%258A%2594-%25EB%2582%2598%25EB%25AC%25B4-%25EC%259D%2598%25EC%259E%2590-WdRhUiAqwD8
+            - figure [ref=f6e1637]:
+              - link [ref=f6e1640]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%99%A9%EA%B8%88%EB%B9%9B-%EC%9C%A0%EB%A6%AC-%EB%A7%88%EC%B2%9C%EB%A3%A8-%EC%82%AC%EC%9D%B4%EB%A5%BC-%EA%B1%B7%EB%8A%94-%EC%82%AC%EB%9E%8C-c2dsW76HIKw
+                - img "황금빛 반사 창문이 있는 두 개의 높은 유리 마천루 사이를 걷는 사람" [ref=f6e1641]
+            - figure [ref=f6e1642]:
+              - link [ref=f6e1645]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B8%B0%ED%95%98%ED%95%99%EC%A0%81-%EC%84%9D%EC%A1%B0-%EA%B1%B4%EB%AC%BC-%EC%99%B8%EA%B4%80%EC%9E%85%EB%8B%88%EB%8B%A4-9GHEp0W4wEQ
+                - img "날카로운 그림자가 드리운 현대 건물 외관 위의 기하학적 연회색 석조 패널" [ref=f6e1646]
+            - figure [ref=f6e1647]:
+              - link [ref=f6e1650]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B3%A0%EB%94%95-%EC%84%9D%EC%A1%B0-%EB%A6%AC%EB%B8%8C-%EB%B3%BC%ED%8A%B8-%EC%B2%9C%EC%9E%A5-rdOum0cd3gw
+                - img "고딕 양식의 대성당 천장에는 장식 트레이서리가 있는 복잡한 석조 리브 볼트" [ref=f6e1651]
+            - figure [ref=f6e1652]:
+              - generic [ref=f6e1654]:
+                - link [ref=f6e1655]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%86%8C%ED%8C%8C%EC%99%80-%EC%84%A0%EC%9D%B8%EC%9E%A5%EC%9D%B4-%EC%9E%88%EB%8A%94-%EA%B1%B0%EC%8B%A4%EB%A1%9C-%EC%9D%B4%EC%96%B4%EC%A7%80%EB%8A%94-%EC%95%84%EC%B9%98%ED%98%95-%ED%86%B5%EB%A1%9C-NTTyCjyVvVk
+                  - img "소파와 선인장이 있는 거실로 이어지는 아치형 통로" [ref=f6e1656]
+                - link [ref=f6e1657] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EC%2586%258C%25ED%258C%258C%25EC%2599%2580-%25EC%2584%25A0%25EC%259D%25B8%25EC%259E%25A5%25EC%259D%25B4-%25EC%259E%2588%25EB%258A%2594-%25EA%25B1%25B0%25EC%258B%25A4%25EB%25A1%259C-%25EC%259D%25B4%25EC%2596%25B4%25EC%25A7%2580%25EB%258A%2594-%25EC%2595%2584%25EC%25B9%2598%25ED%2598%2595-%25ED%2586%25B5%25EB%25A1%259C-NTTyCjyVvVk
+            - figure [ref=f6e1660]:
+              - link [ref=f6e1663]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%A0%95%EA%B5%90%ED%95%9C-%EC%A1%B0%EA%B0%81%EC%9D%B4-%EC%9E%88%EB%8A%94-%EC%84%9D%EC%A1%B0-%EC%82%AC%EC%9B%90-%ED%83%91-1mKpXr1KTes
+                - img "흐린 하늘을 배경으로 정교한 조각이 새겨진 돌로 된 사원 탑" [ref=f6e1664]
+            - figure [ref=f6e1665]:
+              - link [ref=f6e1668]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%97%AD%EC%82%AC%EC%A0%81%EC%9D%B8-%EA%B1%B4%EB%AC%BC%EC%9D%98-%ED%99%94%EB%A0%A4%ED%95%9C-%EC%95%84%EC%B9%98%ED%98%95-%EC%95%84%EC%B9%98%EC%99%80-%EB%8F%94%ED%98%95-%EC%B2%9C%EC%9E%A5-BmMpQbI5Srw
+                - img "역사적인 건물의 화려한 아치형 아치와 돔형 천장" [ref=f6e1669]
+            - figure [ref=f6e1670]:
+              - link [ref=f6e1673]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B9%84%EB%91%98%EA%B8%B0%EB%93%A4%EC%9D%B4-%EC%9E%88%EB%8A%94-%EC%84%9D%EC%A1%B0-%EC%82%AC%EC%9B%90-%ED%83%91-sJ4lQXQ3Dx8
+                - img "어두운 바위 틈을 통해 보이는 조각된 인물과 비둘기가 있는 석조 사원 탑" [ref=f6e1674]
+            - figure [ref=f6e1675]:
+              - link [ref=f6e1678]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%95%84%EC%9D%B4%EC%8A%AC%EB%9E%80%EB%93%9C-%EB%B6%80%EB%94%94%EB%A5%B4%EC%9D%98-%ED%9D%91%EC%9D%B8-%EA%B5%90%ED%9A%8C-WVGiXX4pt6c
+                - img "아이슬란드 부디르의 안개 낀 들판에 있는 흰 문이 있는 작은 검은 목조 교회" [ref=f6e1679]
+            - figure [ref=f6e1680]:
+              - link [ref=f6e1683]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B3%A1%EC%84%A0%ED%98%95-%ED%9D%B0%EC%83%89-%ED%83%80%EC%9D%BC-%ED%98%84%EB%8C%80%EC%8B%9D-%EA%B1%B4%EB%AC%BC-Ux-oOZzEZNU
+                - img "선전의 어두운 하늘을 배경으로 한 현대 건물의 곡선형 흰색 타일 벽" [ref=f6e1684]
+            - figure [ref=f6e1685]:
+              - link [ref=f6e1688]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%8C%80%EB%A6%AC%EC%84%9D-%EB%B2%BD%EB%82%9C%EB%A1%9C%EA%B0%80-%EC%9E%88%EB%8A%94-%EA%B1%B0%EC%8B%A4%EC%9E%85%EB%8B%88%EB%8B%A4-rbxEN33wzik
+                - img "검은 대리석 벽난로, 흰색 내장 선반, 회색 가죽 소파가 있는 거실이 있다" [ref=f6e1689]
+            - figure [ref=f6e1690]:
+              - generic [ref=f6e1692]:
+                - link [ref=f6e1693]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%97%AD%EC%82%AC%EC%A0%81%EC%9D%B8-%EA%B5%90%ED%9A%8C%EC%9D%98-%ED%99%94%EB%A0%A4%ED%95%9C-%EC%8A%A4%ED%88%AC%EC%BD%94-%EC%B2%9C%EC%9E%A5-rtVtsjRxqFM
+                  - img "역사적인 교회 내부의 화려한 흰색 스투코 천장과 아치형 창문" [ref=f6e1694]
+                - link [ref=f6e1695] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EC%2597%25AD%25EC%2582%25AC%25EC%25A0%2581%25EC%259D%25B8-%25EA%25B5%2590%25ED%259A%258C%25EC%259D%2598-%25ED%2599%2594%25EB%25A0%25A4%25ED%2595%259C-%25EC%258A%25A4%25ED%2588%25AC%25EC%25BD%2594-%25EC%25B2%259C%25EC%259E%25A5-rtVtsjRxqFM
+            - figure [ref=f6e1698]:
+              - link [ref=f6e1701]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%9C%A0%EB%A6%AC-%EB%82%9C%EA%B0%84%EC%9D%B4-%EC%9E%88%EB%8A%94-%ED%98%84%EB%8C%80%EC%8B%9D-%EA%B3%84%EB%8B%A8-XqMNbLf23TQ
+                - img "밝은 복도에 검은 계단과 유리 난간이 있는 현대적인 계단이 있습니다" [ref=f6e1702]
+            - figure [ref=f6e1703]:
+              - link [ref=f6e1706]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%8F%AD%ED%8F%AC-%EA%B7%B8%EB%A6%BC%EC%9D%B4-%EC%9E%88%EB%8A%94-%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8-%EC%8B%9D%EB%8B%B9%EC%9D%B4-%EA%B7%B8%EB%A0%A4%EC%A0%B8-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-0CQx_ytDW1E
+                - img "하얀 식탁과 천으로 된 의자, 그리고 벽에 걸린 폭포 그림이 있는 현대적인 식당입니다" [ref=f6e1707]
+            - figure [ref=f6e1708]:
+              - generic [ref=f6e1710]:
+                - link [ref=f6e1711]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B2%A9%EC%9E%90-%ED%8C%A8%ED%84%B4%EC%9D%84-%EA%B0%80%EC%A7%84-%EC%B2%9C%EA%B3%B5-%EA%B8%88%EC%86%8D-%ED%8C%A8%EB%84%90-igEgIJwv6mM
+                  - img "구멍 크기와 연한 파란색 톤이 있는 천공 금속 패널로 이루어진 격자" [ref=f6e1712]
+                - link [ref=f6e1713] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EA%25B2%25A9%25EC%259E%2590-%25ED%258C%25A8%25ED%2584%25B4%25EC%259D%2584-%25EA%25B0%2580%25EC%25A7%2584-%25EC%25B2%259C%25EA%25B3%25B5-%25EA%25B8%2588%25EC%2586%258D-%25ED%258C%25A8%25EB%2584%2590-igEgIJwv6mM
+            - figure [ref=f6e1716]:
+              - link [ref=f6e1719]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%82%98%EB%AC%B4-%EC%B2%9C%EC%9E%A5%EC%9D%B4-%EC%9E%88%EB%8A%94-%EC%A3%BC%EB%B0%A9%EA%B3%BC-%EC%8B%9D%EB%8B%B9%EC%9D%B4-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-ZDUVlOco4F4
+                - img "나무 천장이 있는 햇살이 가득한 주방, 하얀 캐비닛, 벤치가 놓인 식탁" [ref=f6e1720]
+            - figure [ref=f6e1721]:
+              - link [ref=f6e1724]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%98%84%EB%8C%80-%EC%95%84%ED%8C%8C%ED%8A%B8-%EA%B1%B4%EB%AC%BC-%EC%BD%94%EB%84%88-UloFISbnIzc
+                - img "흐린 하늘을 배경으로 한 현대적인 흰색 아파트 건물 모퉁이를 저각도로 바라본 모습" [ref=f6e1725]
+            - figure [ref=f6e1726]:
+              - link [ref=f6e1729]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%B2%9C%EC%9C%BC%EB%A1%9C-%EB%8D%AE%EC%9D%B8-%EC%B9%A8%EB%8C%80-%EB%A8%B8%EB%A6%AC%EB%A7%A1%EA%B3%BC-%EB%9E%A8%ED%94%84%EA%B0%80-%EC%9E%88%EB%8A%94-%EC%B9%A8%EC%8B%A4-YRmvFJagR3I
+                - img "중립적인 톤과 스타일리시한 조명이 있는 현대적인 침실입니다" [ref=f6e1730]
+            - figure [ref=f6e1731]:
+              - generic [ref=f6e1733]:
+                - link [ref=f6e1734]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B0%9D%EC%9D%80-%ED%8C%8C%EB%9E%80-%ED%95%98%EB%8A%98%EC%9D%84-%EA%B0%90%EC%8B%B8%EB%8A%94-%ED%95%98%EC%96%80-%EA%B3%A1%EC%84%A0-%EA%B8%B0%EB%91%A5%EB%93%A4-6nN55-3JnhI
+                  - img "밝은 파란 하늘을 감싸는 하얀 곡선 기둥들" [ref=f6e1735]
+                - link [ref=f6e1736] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%25B0%259D%25EC%259D%2580-%25ED%258C%258C%25EB%259E%2580-%25ED%2595%2598%25EB%258A%2598%25EC%259D%2584-%25EA%25B0%2590%25EC%258B%25B8%25EB%258A%2594-%25ED%2595%2598%25EC%2596%2580-%25EA%25B3%25A1%25EC%2584%25A0-%25EA%25B8%25B0%25EB%2591%25A5%25EB%2593%25A4-6nN55-3JnhI
+            - figure [ref=f6e1739]:
+              - link [ref=f6e1742]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%82%98%EB%AC%B4-%EC%8B%9D%ED%83%81-%EC%9C%84%EC%9D%98-%EC%B2%9C%EC%9C%BC%EB%A1%9C-%EB%90%9C-%EC%8B%9D%ED%83%81-Y4Tt6c0XVSY
+                - img "나무 다리가 달린 천으로 된 식탁 의자가 햇빛이 비치는 방 안의 어두운 나무 테이블 주위에 놓여 있다" [ref=f6e1743]
+            - figure [ref=f6e1744]:
+              - link [ref=f6e1747]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%95%84%ED%8C%8C%ED%8A%B8-%EA%B1%B4%EB%AC%BC%EC%9D%98-%EC%98%A5%EC%83%81-%EA%B4%91%EA%B3%A0%ED%8C%90-QVJBOwjAMKI
+                - img "주거용 아파트 건물 위에 일본어 글씨와 다이키 로고가 있는 옥상 광고판" [ref=f6e1748]
+            - figure [ref=f6e1749]:
+              - link [ref=f6e1752]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B2%BD%EC%97%90-%EC%B1%85%EC%9E%A5%EC%9D%B4-%EB%8B%AC%EB%A6%B0-%EA%B0%88%EC%83%89-%EA%B0%80%EC%A3%BD-%EC%86%8C%ED%8C%8C-L8GK2s358eA
+                - img "아홉 개의 나무 벽 선반 아래 갈색 가죽 소파가 있고, 그 격자에는 책들이 가득하다" [ref=f6e1753]
+            - figure [ref=f6e1754]:
+              - generic [ref=f6e1756]:
+                - link [ref=f6e1757]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%ED%99%88%EC%9D%B4-%EC%9E%88%EB%8A%94-%EC%9C%A0%EB%A6%AC-%ED%8C%A8%EB%84%90%EA%B3%BC-%EC%B4%88%EB%A1%9D%EC%83%89-%EC%9D%98%EC%9E%90-pT2INNoamzg
+                  - img "전경에는 올리브색 의자를 가리는 홈이 있는 유리 조각이 있다" [ref=f6e1758]
+                - link [ref=f6e1759] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25ED%2599%2588%25EC%259D%25B4-%25EC%259E%2588%25EB%258A%2594-%25EC%259C%25A0%25EB%25A6%25AC-%25ED%258C%25A8%25EB%2584%2590%25EA%25B3%25BC-%25EC%25B4%2588%25EB%25A1%259D%25EC%2583%2589-%25EC%259D%2598%25EC%259E%2590-pT2INNoamzg
+            - figure [ref=f6e1762]:
+              - generic [ref=f6e1764]:
+                - link [ref=f6e1765]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%A1%9C%EB%A7%88%EC%9D%98-%EB%85%B8%EB%9E%80-%EC%95%84%ED%8C%8C%ED%8A%B8-%EA%B1%B4%EB%AC%BC--bHJU0L22kc
+                  - img "로마의 노란색 아파트 건물, 어두운 셔터와 야자수 그림자가 드리워져 있다" [ref=f6e1766]
+                - link [ref=f6e1767] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%25A1%259C%25EB%25A7%2588%25EC%259D%2598-%25EB%2585%25B8%25EB%259E%2580-%25EC%2595%2584%25ED%258C%258C%25ED%258A%25B8-%25EA%25B1%25B4%25EB%25AC%25BC--bHJU0L22kc
+            - figure [ref=f6e1770]:
+              - link [ref=f6e1773]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%B6%94%EC%83%81%ED%99%94%EC%99%80-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EA%B1%B7%EB%8A%94-%EB%8B%A4%EC%B1%84%EB%A1%9C%EC%9A%B4-%ED%98%84%EB%8C%80%EC%8B%9D-%EA%B1%B4%EB%AC%BC-ekn9Q9DXTVo
+                - img "추상화와 사람들이 걷는 다채로운 현대식 건물" [ref=f6e1774]
+            - figure [ref=f6e1775]:
+              - link [ref=f6e1778]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%83%9D%EB%8F%99%EA%B0%90-%EB%84%98%EC%B9%98%EB%8A%94-%EC%A3%BC%ED%99%A9%EC%83%89-%EC%9D%BC%EB%AA%B0%EC%9D%84-%EB%B0%B0%EA%B2%BD%EC%9C%BC%EB%A1%9C-%EB%8F%84%EC%8B%9C%EC%9D%98-%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%9D%BC%EC%9D%B8%EC%9D%B4-%EC%8B%A4%EB%A3%A8%EC%97%A3%EC%9D%84-%EC%9D%B4%EB%A3%A8%EA%B3%A0-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-e1I59gncHCU
+                - img "생동감 넘치는 주황색 일몰을 배경으로 도시의 스카이라인이 실루엣을 이루고 있습니다" [ref=f6e1779]
+            - figure [ref=f6e1780]:
+              - link [ref=f6e1783]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%9A%B0%EB%9A%9D-%EC%86%9F%EC%9D%80-%EC%B1%85%EC%9E%A5%EA%B3%BC-%EC%97%AC%EC%84%B1%EC%9D%B4-%EC%9E%88%EB%8A%94-%ED%98%84%EB%8C%80%EC%8B%9D-%EB%8F%84%EC%84%9C%EA%B4%80-g2impkHzPgs
+                - img "우뚝 솟은 책장과 여성이 있는 현대식 도서관" [ref=f6e1784]
+            - figure [ref=f6e1785]:
+              - generic [ref=f6e1787]:
+                - link [ref=f6e1788]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B7%B8%EB%A6%BC%EC%9E%90%EA%B0%80-%EB%93%9C%EB%A6%AC%EC%9A%B4-%EB%B6%89%EC%9D%80-%EA%B1%B4%EB%AC%BC-%EC%99%B8%EA%B4%80-tGWo3FByOFE
+                  - img "날카로운 그림자와 어두운 패널이 있는 기하학적 붉은 건물 외관입니다" [ref=f6e1789]
+                - link [ref=f6e1790] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EA%25B7%25B8%25EB%25A6%25BC%25EC%259E%2590%25EA%25B0%2580-%25EB%2593%259C%25EB%25A6%25AC%25EC%259A%25B4-%25EB%25B6%2589%25EC%259D%2580-%25EA%25B1%25B4%25EB%25AC%25BC-%25EC%2599%25B8%25EA%25B4%2580-tGWo3FByOFE
+          - generic [ref=f6e1378]:
+            - figure [ref=f6e1793]:
+              - generic [ref=f6e1795]:
+                - link [ref=f6e1796]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B0%95-%EA%B1%B4%EB%84%88%ED%8E%B8-%EC%9D%BC%EB%AA%B0-%EC%83%81%ED%95%98%EC%9D%B4-%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%9D%BC%EC%9D%B8--k0GZnyHvBE
+                  - img "강 건너편 상하이 스카이라인, 선명한 주황색 노을을 바라보는 모습" [ref=f6e1797]
+                - link [ref=f6e1798] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EA%25B0%2595-%25EA%25B1%25B4%25EB%2584%2588%25ED%258E%25B8-%25EC%259D%25BC%25EB%25AA%25B0-%25EC%2583%2581%25ED%2595%2598%25EC%259D%25B4-%25EC%258A%25A4%25EC%25B9%25B4%25EC%259D%25B4%25EB%259D%25BC%25EC%259D%25B8--k0GZnyHvBE
+            - figure [ref=f6e1801]:
+              - link [ref=f6e1804]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B2%BD%EB%82%9C%EB%A1%9C%EC%99%80-%EB%B9%94%EC%9D%B4-%EC%9E%88%EB%8A%94-%EA%B1%B0%EC%8B%A4-HCzMheZCyyQ
+                - img "벽난로, 나무 기둥, 그리고 따뜻한 빛 아래 초록색 섹셔널 소파가 있는 거실이 있다" [ref=f6e1805]
+            - figure [ref=f6e1806]:
+              - link [ref=f6e1809]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%AC%B4%EC%8A%A4%EC%B9%B4%ED%8A%B8-%EC%84%9D%EC%A1%B0-%EB%B3%B5%EB%8F%84%EC%9D%98-%EB%BE%B0%EC%A1%B1%ED%95%9C-%EC%95%84%EC%B9%98-_8OZEXJLSGM
+                - img "오만 무스카트의 돌 복도에 반복되는 뾰족한 아치들" [ref=f6e1810]
+            - figure [ref=f6e1811]:
+              - link [ref=f6e1814]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%8C%8C%EB%9E%80%EC%83%89-%EB%B0%94%EB%8B%A5%EC%9D%B4-%EC%9E%88%EB%8A%94-%EC%BD%98%ED%81%AC%EB%A6%AC%ED%8A%B8-%EA%B1%B4%EB%AC%BC-%EC%95%88%EB%9C%B0-hGDF5uGEAFA
+                - img "파란색 기하학적 바닥이 있는 콘크리트 건물 안뜰을 내려다본 항공 뷰" [ref=f6e1815]
+            - figure [ref=f6e1816]:
+              - link [ref=f6e1819]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%9D%90%EB%A6%B0-%ED%95%98%EB%8A%98%EC%9D%84-%EB%B0%B0%EA%B2%BD%EC%9C%BC%EB%A1%9C-%ED%8E%84%EB%9F%AD%EC%9D%B4%EB%8A%94-%EB%AF%B8%EA%B5%AD-%EA%B5%AD%EA%B8%B0-5vFIccaHr0A
+                - img "흐린 하늘을 배경으로 펄럭이는 미국 국기" [ref=f6e1820]
+            - figure [ref=f6e1821]:
+              - link [ref=f6e1824]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B3%A1%EC%84%A0%ED%98%95-%ED%8C%8C%EB%9E%80%EC%83%89-%EA%B1%B4%EC%B6%95-%ED%8C%A8%EB%84%90-%EA%B2%A9%EC%9E%90-WCL1Ra0pkUw
+                - img "어두운 배경 위에 격자 무늬가 있는 곡선형 파란색 건축 패널 구조물입니다" [ref=f6e1825]
+            - figure [ref=f6e1826]:
+              - link [ref=f6e1829]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%88%B2%EC%9D%B4-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EB%8B%A4%EB%8B%A4%EB%AF%B8-%EB%B0%A9-hdIHBHS_qI4
+                - img "다다미 위에 놓인 낮은 나무 탁자와 의자, 숲이 내려다보이는 큰 창문 앞" [ref=f6e1830]
+            - figure [ref=f6e1831]:
+              - link [ref=f6e1834]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B0%A9%EC%BD%95%EC%9D%98-%ED%99%94%EB%A0%A4%ED%95%9C-%EC%82%AC%EC%9B%90-%EB%8B%B4%EC%9E%A5-HEnrJgBeMaQ
+                - img "태국 방콕의 하얀 사원 벽에 장식된 화려한 도자기 꽃무늬" [ref=f6e1835]
+            - figure [ref=f6e1836]:
+              - link [ref=f6e1839]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%98%A4%ED%94%88-%ED%94%8C%EB%9E%9C-%EA%B1%B0%EC%8B%A4-%EB%B0%8F-%EB%8B%A4%EC%9D%B4%EB%8B%9D%EB%A3%B8-MkNaa7tk5Gs
+                - img "파란색 소파와 나무 가구가 있는 오픈 플랜 거실과 다이닝룸" [ref=f6e1840]
+            - figure [ref=f6e1841]:
+              - link [ref=f6e1844]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%8E%9C%EB%8D%98%ED%8A%B8-%EC%A1%B0%EB%AA%85%EC%9D%B4-%EB%8B%AC%EB%A6%B0-%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8-%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91-%EB%82%B4%EB%B6%80-mtdMdQISn-E
+                - img "유리 지붕 아래 매달린 펜던트 조명과 테이블이 있는 현대적인 레스토랑 내부입니다" [ref=f6e1845]
+            - figure [ref=f6e1846]:
+              - link [ref=f6e1849]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B9%9B%EB%82%98%EB%8A%94-%EB%93%B1%EB%B6%88%EC%9D%B4-%EC%9E%88%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%8B%9D%EB%8B%B9-%EA%B1%B4%EB%AC%BC-vhfai5TRcIo
+                - img "나무 벽이 따뜻한 노란 등불 줄지어 빛나는 일본 식당 건물" [ref=f6e1850]
+            - figure [ref=f6e1851]:
+              - generic [ref=f6e1853]:
+                - link [ref=f6e1854]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%ED%81%AC%EB%A1%AC-%ED%94%84%EB%A0%88%EC%9E%84%EC%9D%98-%EB%B9%A8%EA%B0%84-%EA%B0%80%EC%A3%BD-%EC%9D%98%EC%9E%90-Bbwi09-NrXo
+                  - img "짙은 녹색 배경에 크롬 프레임이 달린 빨간 가죽 의자가 있었다" [ref=f6e1855]
+                - link [ref=f6e1856] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25ED%2581%25AC%25EB%25A1%25AC-%25ED%2594%2584%25EB%25A0%2588%25EC%259E%2584%25EC%259D%2598-%25EB%25B9%25A8%25EA%25B0%2584-%25EA%25B0%2580%25EC%25A3%25BD-%25EC%259D%2598%25EC%259E%2590-Bbwi09-NrXo
+            - figure [ref=f6e1859]:
+              - link [ref=f6e1862]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B8%88%EC%86%8D-%EC%84%A0%EA%B0%93%EC%9D%B4-%EC%9E%88%EB%8A%94-%ED%98%84%EB%8C%80%EC%8B%9D-%EA%B1%B4%EB%AC%BC-%EC%99%B8%EA%B4%80-DU5o9S69xRk
+                - img "푸른 금속 선갓과 따뜻한 황금빛 아래 붉은 장식이 들어간 현대적인 건물 외관입니다" [ref=f6e1863]
+            - figure [ref=f6e1864]:
+              - link [ref=f6e1867]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%95%88%EA%B0%9C-%EC%86%8D%EC%97%90-%EB%B9%9B%EB%82%98%EB%8A%94-%EC%B0%BD%EB%AC%B8%EC%9D%B4-%EC%9E%88%EB%8A%94-%EA%B3%A0%EC%B8%B5-%EB%B9%8C%EB%94%A9-9_guGJhSk6Q
+                - img "짙은 흰 안개에 부분적으로 가려진 빛나는 창문이 있는 높은 마천루" [ref=f6e1868]
+            - figure [ref=f6e1869]:
+              - generic [ref=f6e1871]:
+                - link [ref=f6e1872]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B1%B4%EB%AC%BC%EC%9D%98-%EC%B0%BD%EB%AC%B8%EC%9D%84-%ED%86%B5%ED%95%B4-%EB%B9%9B%EC%9D%B4-%EB%B9%84%EC%B9%A9%EB%8B%88%EB%8B%A4-hn935hTw2gQ
+                  - img "건물의 창문을 통해 빛이 비칩니다" [ref=f6e1873]
+                - link [ref=f6e1874] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EA%25B1%25B4%25EB%25AC%25BC%25EC%259D%2598-%25EC%25B0%25BD%25EB%25AC%25B8%25EC%259D%2584-%25ED%2586%25B5%25ED%2595%25B4-%25EB%25B9%259B%25EC%259D%25B4-%25EB%25B9%2584%25EC%25B9%25A9%25EB%258B%2588%25EB%258B%25A4-hn935hTw2gQ
+            - figure [ref=f6e1877]:
+              - generic [ref=f6e1879]:
+                - link [ref=f6e1880]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%8F%84%EC%BF%84-ntt-%EB%8F%84%EC%BD%94%EB%AA%A8-%EC%9A%94%EC%9A%94%EA%B8%B0-%EB%B9%8C%EB%94%A9-NTxeAXUj-Qg
+                  - img "도쿄의 두 현대식 고층 빌딩 사이에 시계탑이 있는 NTT 도코모 요요기 빌딩" [ref=f6e1881]
+                - link [ref=f6e1882] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%258F%2584%25EC%25BF%2584-ntt-%25EB%258F%2584%25EC%25BD%2594%25EB%25AA%25A8-%25EC%259A%2594%25EC%259A%2594%25EA%25B8%25B0-%25EB%25B9%258C%25EB%2594%25A9-NTxeAXUj-Qg
+            - figure [ref=f6e1885]:
+              - link [ref=f6e1888]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%9A%8C%EC%83%89-%ED%95%98%EB%8A%98%EC%9D%84-%EB%B0%B0%EA%B2%BD%EC%9C%BC%EB%A1%9C-%EA%B8%88%EC%86%8D-%EB%82%9C%EA%B0%84%EC%9D%B4-%EC%9E%88%EB%8A%94-%EC%BD%98%ED%81%AC%EB%A6%AC%ED%8A%B8-%EB%82%98%EC%84%A0%ED%98%95-%EA%B3%84%EB%8B%A8-iwnzgmABg14
+                - img "회색 하늘을 배경으로 금속 난간이 있는 콘크리트 나선형 계단" [ref=f6e1889]
+            - figure [ref=f6e1890]:
+              - link [ref=f6e1893]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%98%A4%EC%8A%AC%EB%A1%9C%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%9E%88%EB%A7%8C-%EB%B7%94%EB%A5%B4%EB%B9%84%EC%B9%B4-%EB%8F%84%EC%84%9C%EA%B4%80-%EB%82%B4%EB%B6%80-dLjA3-6ML_8
+                - img "오슬로의 데이히만 뷔르비카 도서관의 다층 내부, 책장과 천창 사이에서 사람들이 독서하는 모습" [ref=f6e1894]
+            - figure [ref=f6e1895]:
+              - link [ref=f6e1898]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%B0%BD%EA%B0%80%EC%97%90-%EA%B7%B8%EB%A6%BC%EC%9E%90%EA%B0%80-%EC%9E%88%EB%8A%94-%ED%94%8C%EB%A1%9C%EC%96%B4-%EB%9E%A8%ED%94%84-5aYLpPEnXNw
+                - img "긴 그림자가 있는 창문 옆에 구형 유리 블라인드가 달린 플로어 램프" [ref=f6e1899]
+            - figure [ref=f6e1900]:
+              - link [ref=f6e1903]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B3%A8%EB%93%A0-%EC%95%84%EC%9B%8C%EC%9D%98-%EB%A7%A8%ED%95%B4%ED%8A%BC-%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%9D%BC%EC%9D%B8-JcGL2TLfhfI
+                - img "골든 아워에 맨해튼 스카이라인과 원 월드 트레이드 센터가 보입니다" [ref=f6e1904]
+            - figure [ref=f6e1905]:
+              - link [ref=f6e1908]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%95%84%EC%B9%98%ED%98%95-%EC%BD%98%ED%81%AC%EB%A6%AC%ED%8A%B8-%EA%B8%B0%EB%91%A5%EC%9D%B4-%EC%9E%88%EB%8A%94-%ED%9D%B0%EC%83%89-%EA%B1%B4%EB%AC%BC-kr7wuYH68OQ
+                - img "아치형 콘크리트 기둥과 발코니에 녹지가 있는 하얀 건물" [ref=f6e1909]
+            - figure [ref=f6e1910]:
+              - generic [ref=f6e1912]:
+                - link [ref=f6e1913]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%B9%A8%EB%8C%80-%EC%96%91%EC%AA%BD%EC%97%90-%EC%B9%A8%EB%8C%80%EC%99%80-%EB%9E%A8%ED%94%84-2%EA%B0%9C%EA%B0%80-%EC%9E%88%EB%8A%94-%EC%B9%A8%EC%8B%A4-ODoVUWbvE6c
+                  - img "침대 양쪽에 침대와 램프 2개가 있는 침실" [ref=f6e1914]
+                - link [ref=f6e1915] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EC%25B9%25A8%25EB%258C%2580-%25EC%2596%2591%25EC%25AA%25BD%25EC%2597%2590-%25EC%25B9%25A8%25EB%258C%2580%25EC%2599%2580-%25EB%259E%25A8%25ED%2594%2584-2%25EA%25B0%259C%25EA%25B0%2580-%25EC%259E%2588%25EB%258A%2594-%25EC%25B9%25A8%25EC%258B%25A4-ODoVUWbvE6c
+            - figure [ref=f6e1918]:
+              - link [ref=f6e1921]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B5%AC%ED%98%95-%EC%9E%A5%EC%8B%9D%EC%9D%B4-%EC%9E%88%EB%8A%94-%EB%B3%B4%EB%9D%BC%EC%83%89-%EA%B1%B4%EB%AC%BC-%EC%99%B8%EA%B4%80%EC%9E%85%EB%8B%88%EB%8B%A4-S76ghGESgNA
+                - img "금속 막대에 달린 수많은 작은 흑백 구형 장식으로 덮인 짙은 보라색 건물 외관입니다" [ref=f6e1922]
+            - figure [ref=f6e1923]:
+              - link [ref=f6e1926]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%A7%99%EC%9D%80-%EC%95%88%EA%B0%9C-%EC%86%8D%EC%9D%98-%EC%9C%A0%EB%A6%AC-%EB%A7%88%EC%B2%9C%EB%A3%A8%EB%93%A4-GMryDEOKFpE
+                - img "짙은 회색 안개 속으로 솟아오르는 현대 유리 마천루들의 저각도 모습" [ref=f6e1927]
+            - figure [ref=f6e1928]:
+              - link [ref=f6e1931]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%98%84%EB%8C%80-%EA%B1%B4%EB%AC%BC%EC%9D%98-%EC%9B%90%ED%98%95-%EA%B0%84%ED%8C%90-TmUM54wnt6s
+                - img "검은색과 흰색으로 된 수직 패널이 있는 현대 건물 가장자리에 있는 원형 간판" [ref=f6e1932]
+            - figure [ref=f6e1933]:
+              - link [ref=f6e1936]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%97%90%EC%96%B4%EC%BB%A8%EC%9D%B4-%EC%84%A4%EC%B9%98%EB%90%9C-%EC%BD%98%ED%81%AC%EB%A6%AC%ED%8A%B8-%EC%82%AC%EB%AC%B4%EC%9A%A9-%EA%B1%B4%EB%AC%BC-wQ7N6wigWC8
+                - img "창문이 많고 외부 에어컨이 있는 높은 콘크리트 사무실 건물" [ref=f6e1937]
+            - figure [ref=f6e1938]:
+              - link [ref=f6e1941]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B2%A9%EC%9E%90%EC%B0%BD%EC%9D%B4-%EC%9E%88%EB%8A%94-%EA%B3%A1%EC%84%A0-%EA%B1%B4%EC%B6%95-%EB%B2%BD-gFJmG1v5En4
+                - img "검은색과 흰색으로 격자창이 있는 곡선형 흰색 건축 벽" [ref=f6e1942]
+            - figure [ref=f6e1943]:
+              - link [ref=f6e1946]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B1%B0%EC%8B%A4-%EB%82%98%EB%AC%B4-%EC%BD%98%EC%86%94-%EC%9C%84-%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84-v6OAIQOeus8
+                - img "미니멀리스트 거실의 나무 콘솔 위에 벽걸이 텔레비전을 3D 렌더링한 모습" [ref=f6e1947]
+            - figure [ref=f6e1948]:
+              - generic [ref=f6e1950]:
+                - link [ref=f6e1951]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B2%80%EC%9D%80-%EA%B7%B8%EB%A6%87%EC%97%90-%EC%9E%88%EB%8A%94-%EC%96%B4%EB%91%90%EC%9A%B4-%EC%B9%BC%EB%9D%BC-%EB%B0%B1%ED%95%A9-G__AdIRNaCk
+                  - img "얕은 검은 그릇에 담긴 짙은 칼라 백합 한 송이, 갈색 가죽 소파 옆에 놓여 있다" [ref=f6e1952]
+                - link [ref=f6e1953] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EA%25B2%2580%25EC%259D%2580-%25EA%25B7%25B8%25EB%25A6%2587%25EC%2597%2590-%25EC%259E%2588%25EB%258A%2594-%25EC%2596%25B4%25EB%2591%2590%25EC%259A%25B4-%25EC%25B9%25BC%25EB%259D%25BC-%25EB%25B0%25B1%25ED%2595%25A9-G__AdIRNaCk
+            - figure [ref=f6e1956]:
+              - link [ref=f6e1959]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B2%A9%EC%9E%90%ED%98%95-%EC%B0%BD%EB%AC%B8%EC%9D%B4-%EC%9E%88%EB%8A%94-%EB%A7%88%EC%B2%9C%EB%A3%A8-TNqmMxTkxaM
+                - img "창문 격자로 이루어진 현대 마천루의 저각도 모습" [ref=f6e1960]
+            - figure [ref=f6e1961]:
+              - link [ref=f6e1964]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%99%94%EB%A0%A4%ED%95%9C-%EA%B8%B0%EB%91%A5%EB%A8%B8%EB%A6%AC%EA%B0%80-%EC%9E%88%EB%8A%94-%EC%84%9D%EC%A1%B0-%EA%B8%B0%EB%91%A5-Cy-iXLfNyK0
+                - img "맑고 푸른 하늘을 배경으로 화려한 기둥머리가 있는 돌기둥" [ref=f6e1965]
+            - figure [ref=f6e1966]:
+              - link [ref=f6e1969]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B3%A1%EC%84%A0-%EC%86%8C%ED%8C%8C%EC%99%80-%EC%9E%A5%EC%8B%9D%EC%9A%A9-%EB%B2%BD-%ED%8C%A8%EB%84%90%EC%9D%B4-%EC%9E%88%EB%8A%94-%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8-%EA%B1%B0%EC%8B%A4-n9msQzsRuiI
+                - img "곡선 소파와 장식용 벽 패널이 있는 현대적인 거실" [ref=f6e1970]
+            - figure [ref=f6e1971]:
+              - generic [ref=f6e1973]:
+                - link [ref=f6e1974]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%82%98%EB%AC%B4-%EA%B0%80%EA%B5%AC%EC%99%80-%EC%9A%B0%EC%82%B0%EC%9D%B4-%EC%9E%88%EB%8A%94-%ED%96%87%EB%B3%95-%EA%B0%80%EB%93%9D%ED%95%9C-%EC%95%BC%EC%99%B8-%ED%8C%8C%ED%8B%B0%EC%98%A4-3BYhp7ZyV-I
+                  - img "나무 가구와 우산이 있는 햇볕 가득한 야외 파티오" [ref=f6e1975]
+                - link [ref=f6e1976] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%2582%2598%25EB%25AC%25B4-%25EA%25B0%2580%25EA%25B5%25AC%25EC%2599%2580-%25EC%259A%25B0%25EC%2582%25B0%25EC%259D%25B4-%25EC%259E%2588%25EB%258A%2594-%25ED%2596%2587%25EB%25B3%2595-%25EA%25B0%2580%25EB%2593%259D%25ED%2595%259C-%25EC%2595%25BC%25EC%2599%25B8-%25ED%258C%258C%25ED%258B%25B0%25EC%2598%25A4-3BYhp7ZyV-I
+            - figure [ref=f6e1979]:
+              - link [ref=f6e1982]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B3%A1%EC%84%A0-%EC%A7%80%EB%B6%95%EC%9D%B4-%EC%9E%88%EB%8A%94-%EB%82%98%EC%84%A0%ED%98%95-%EA%B3%84%EB%8B%A8-MbuayoiJRA0
+                - img "맑고 푸른 하늘을 배경으로 곡선형 지붕이 있는 나선형 계단" [ref=f6e1983]
+            - figure [ref=f6e1984]:
+              - link [ref=f6e1987]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%9D%90%EB%A6%B0-%ED%95%98%EB%8A%98-%EC%95%84%EB%9E%98-%EA%B3%A1%EC%84%A0%ED%98%95-%EC%82%AC%EB%AC%B4%EC%8B%A4-%EA%B1%B4%EB%AC%BC-ndb9xjS0TgU
+                - img "흐린 하늘 아래 매끄러운 외관을 가진 높고 곡선형 사무실 건물" [ref=f6e1988]
+            - figure [ref=f6e1989]:
+              - generic [ref=f6e1991]:
+                - link [ref=f6e1992]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%95%84%ED%8C%8C%ED%8A%B8-%EB%B8%94%EB%A1%9D%EC%9D%84-%EB%8B%AB%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%82%AC%EC%A7%84-%EC%A1%B0%EC%A7%80-%EB%A7%88%ED%81%AC%EC%8A%A4%EB%A0%88%ED%8A%B8%EB%A1%9C%ED%8C%8C%EC%9D%BC%EA%B2%8C%ED%8B%B0-%EC%9D%B4%EB%AF%B8%EC%A7%80-Akf_VV3zt9Q
+                  - 'img "아파트 블록을 닫습니다. (사진: 조지 마크스/레트로파일/게티 이미지)" [ref=f6e1993]'
+                - link [ref=f6e1994] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EC%2595%2584%25ED%258C%258C%25ED%258A%25B8-%25EB%25B8%2594%25EB%25A1%259D%25EC%259D%2584-%25EB%258B%25AB%25EC%258A%25B5%25EB%258B%2588%25EB%258B%25A4-%25EC%2582%25AC%25EC%25A7%2584-%25EC%25A1%25B0%25EC%25A7%2580-%25EB%25A7%2588%25ED%2581%25AC%25EC%258A%25A4%25EB%25A0%2588%25ED%258A%25B8%25EB%25A1%259C%25ED%258C%258C%25EC%259D%25BC%25EA%25B2%258C%25ED%258B%25B0-%25EC%259D%25B4%25EB%25AF%25B8%25EC%25A7%2580-Akf_VV3zt9Q
+            - figure [ref=f6e1997]:
+              - generic [ref=f6e1999]:
+                - link [ref=f6e2000]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B3%A0%EC%B8%B5-%EA%B1%B4%EB%AC%BC%EC%9D%98-%ED%9D%91%EB%B0%B1-%EC%82%AC%EC%A7%84-wHzYP56dITU
+                  - img "고층 건물의 흑백 사진" [ref=f6e2001]
+                - link [ref=f6e2002] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EA%25B3%25A0%25EC%25B8%25B5-%25EA%25B1%25B4%25EB%25AC%25BC%25EC%259D%2598-%25ED%259D%2591%25EB%25B0%25B1-%25EC%2582%25AC%25EC%25A7%2584-wHzYP56dITU
+            - figure [ref=f6e2005]:
+              - link [ref=f6e2008]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%89%B4%EC%9A%95%EC%8B%9C%EC%9D%98-%ED%94%8C%EB%9E%AB%EC%95%84%EC%9D%B4%EC%96%B8-%EB%B9%8C%EB%94%A9-tWY9AZ63iVY
+                - img "밝은 햇빛과 깊은 그림자 아래 뉴욕시의 플랫아이언 빌딩" [ref=f6e2009]
+            - figure [ref=f6e2010]:
+              - link [ref=f6e2013]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%96%87%EC%82%B4%EC%9D%B4-%EA%B0%80%EB%93%9D%ED%95%9C-%ED%98%B8%EC%88%AB%EA%B0%80-%EB%B0%A9%EC%9D%98-%EA%B0%80%EC%A3%BD-%EC%95%88%EB%9D%BD%EC%9D%98%EC%9E%90-_E5vVhe6eK8
+                - img "두 개의 가죽 안락의자가 미닫이 유리문을 마주보고 있으며, 따뜻한 빛 아래 호수를 내려다보고 있다" [ref=f6e2014]
+            - figure [ref=f6e2015]:
+              - link [ref=f6e2018]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%9C%84%ED%8A%B8%EB%A0%88%ED%9D%90%ED%8A%B8-%EC%A4%91%EC%95%99%EB%8F%84%EC%84%9C%EA%B4%80-%EB%82%B4%EB%B6%80-%EC%95%84%EC%B9%98%ED%98%95-zTeWvsh3GFY
+                - img "위트레흐트 중앙 도서관 내부는 높은 벽돌 아치와 큰 원형 펜던트 조명으로 이루어져 있습니다" [ref=f6e2019]
+            - figure [ref=f6e2020]:
+              - link [ref=f6e2023]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B1%B0%EC%8B%A4%EC%97%90-%EC%9E%88%EB%8A%94-%ED%99%94%EB%B6%84-%EB%AC%B4%ED%99%94%EA%B3%BC%EB%82%98%EB%AC%B4-7g3g7JosAr4
+                - img "가죽 소파와 금색 액자 옆에 짠 바구니에 담긴 화분에 담긴 무화과나무 식물" [ref=f6e2024]
+            - figure [ref=f6e2025]:
+              - link [ref=f6e2028]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B2%BD%EB%8F%8C%EC%9D%B4-%EC%9E%88%EB%8A%94-%EA%B3%A1%EC%84%A0%ED%98%95-%ED%98%84%EB%8C%80-%EA%B1%B4%EC%B6%95-TnyEb8oPdsk
+                - img "연한 회색 벽돌과 날카로운 대각선 그림자가 특징인 곡선형 현대 건축 양식" [ref=f6e2029]
+            - figure [ref=f6e2030]:
+              - link [ref=f6e2033]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%B2%B4%ED%81%AC%EB%AC%B4%EB%8A%AC-%EC%B9%A8%EA%B5%AC%EA%B0%80-%EC%9E%88%EB%8A%94-%EC%95%84%EB%8A%91%ED%95%9C-%EC%B9%A8%EC%8B%A4-uvwiUdkYoCU
+                - img "초록색 체크무늬 이불과 나무 서랍장이 놓인 아늑한 침실" [ref=f6e2034]
+            - figure [ref=f6e2035]:
+              - generic [ref=f6e2037]:
+                - link [ref=f6e2038]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%BD%98%ED%81%AC%EB%A6%AC%ED%8A%B8-%ED%95%80-%EC%82%AC%EC%9D%B4-%ED%86%B5%EB%A1%9C%EC%97%90-%EC%9E%88%EB%8A%94-%EC%82%AC%EB%9E%8C-8nrF5fQgRFY
+                  - img "큰 콘크리트 지느러미와 계단 사이 보도에 서 있는 사람의 3D 렌더링" [ref=f6e2039]
+                - link [ref=f6e2040] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EC%25BD%2598%25ED%2581%25AC%25EB%25A6%25AC%25ED%258A%25B8-%25ED%2595%2580-%25EC%2582%25AC%25EC%259D%25B4-%25ED%2586%25B5%25EB%25A1%259C%25EC%2597%2590-%25EC%259E%2588%25EB%258A%2594-%25EC%2582%25AC%25EB%259E%258C-8nrF5fQgRFY
+            - figure [ref=f6e2043]:
+              - link [ref=f6e2046]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B3%A1%EC%84%A0%ED%98%95-%EC%B1%85%EC%9E%A5%EC%9D%B4-%EC%9E%88%EB%8A%94-%ED%98%84%EB%8C%80%EC%8B%9D-%EB%8F%84%EC%84%9C%EA%B4%80-_-nl0_k11wM
+                - img "현대 도서관의 곡선 선반 옆에 있는 크고 하얀 구형 구조물이 있었다. 책들로 가득 찬 책들로 가득 찬 곳" [ref=f6e2047]
+            - figure [ref=f6e2048]:
+              - link [ref=f6e2051]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B2%A0%EB%A5%BC%EB%A6%B0%EC%9D%98-tv-%ED%83%80%EC%9B%8C-%ED%95%B4%EC%A7%88-%EB%AC%B4%EB%A0%B5-kDfszc_Xqs0
+                - img "베를린의 TV 타워가 흐린 하늘과 낮은 해를 배경으로 실루엣을 드러냈다" [ref=f6e2052]
+            - figure [ref=f6e2053]:
+              - generic [ref=f6e2055]:
+                - link [ref=f6e2056]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%B9%A8%EC%8B%A4-%EC%B9%A8%EB%8C%80-%EC%9C%84-%ED%8E%9C%EB%8D%98%ED%8A%B8-%EC%A1%B0%EB%AA%85-DGFlMSt6qbo
+                  - img "어두운 나무 벽에 흰색 베개가 놓인 침대 위에 세 개의 빛나는 펜던트 조명이 걸려 있었다" [ref=f6e2057]
+                - link [ref=f6e2058] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EC%25B9%25A8%25EC%258B%25A4-%25EC%25B9%25A8%25EB%258C%2580-%25EC%259C%2584-%25ED%258E%259C%25EB%258D%2598%25ED%258A%25B8-%25EC%25A1%25B0%25EB%25AA%2585-DGFlMSt6qbo
+            - figure [ref=f6e2061]:
+              - generic [ref=f6e2063]:
+                - link [ref=f6e2064]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B8%88%EC%86%8D-%EA%B3%A8%EC%A1%B0%EA%B0%80-%EC%9E%88%EB%8A%94-%EC%82%BC%EA%B0%81%ED%98%95-%EC%9C%A0%EB%A6%AC-%EB%A7%88%EC%B2%9C%EB%A3%A8-0wdQkvlqw3E
+                  - img "창백한 하늘을 배경으로 기하학적 금속 프레임이 있는 삼각형 유리 마천루" [ref=f6e2065]
+                - link [ref=f6e2066] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EA%25B8%2588%25EC%2586%258D-%25EA%25B3%25A8%25EC%25A1%25B0%25EA%25B0%2580-%25EC%259E%2588%25EB%258A%2594-%25EC%2582%25BC%25EA%25B0%2581%25ED%2598%2595-%25EC%259C%25A0%25EB%25A6%25AC-%25EB%25A7%2588%25EC%25B2%259C%25EB%25A3%25A8-0wdQkvlqw3E
+            - figure [ref=f6e2069]:
+              - link [ref=f6e2072]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%9C%A0%EB%A6%AC%EB%B2%BD%EC%9D%B4-%EC%9E%88%EB%8A%94-%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8-%ED%98%B8%ED%85%94-%EB%A1%9C%EB%B9%84-7saxkxcsC2o
+                - img "유리벽, 매입형 조명, 미니멀한 라운지 공간이 있는 현대적인 호텔 로비" [ref=f6e2073]
+            - figure [ref=f6e2074]:
+              - link [ref=f6e2077]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%9D%B0%EC%83%89-%ED%85%8C%EB%91%90%EB%A6%AC%EA%B0%80-%EC%9E%88%EB%8A%94-%EB%85%B8%EB%9E%80%EC%83%89-%EA%B1%B4%EB%AC%BC-%EB%AA%A8%EC%84%9C%EB%A6%AC-ZuLTGqtGMc4
+                - img "어두운 회색 하늘을 배경으로 하얀 테두리가 있는 노란색 건물 모서리" [ref=f6e2078]
+            - figure [ref=f6e2079]:
+              - link [ref=f6e2082]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%95%99%EA%B5%90-%EC%8A%A4%ED%8F%AC%EC%B8%A0-%EC%BD%94%ED%8A%B8%EC%97%90%EC%84%9C-%EB%85%B8%EB%8A%94-%EC%95%84%EC%9D%B4%EB%93%A4-L5Ka9di_hTA
+                - img "학교 마당의 다채로운 야외 스포츠 코트에서 노는 아이들" [ref=f6e2083]
+            - figure [ref=f6e2084]:
+              - generic [ref=f6e2086]:
+                - link [ref=f6e2087]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%87%BC%EC%A7%80-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%9D%B4-%EC%9E%88%EB%8A%94-%EB%82%98%EB%AC%B4-%EC%B1%85%EC%83%81-hZoviqJZAls
+                  - img "쇼지 스크린과 따뜻한 펜던트 라이트가 있는 방에 클립보드가 놓인 나무 책상이 있었다" [ref=f6e2088]
+                - link [ref=f6e2089] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EC%2587%25BC%25EC%25A7%2580-%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%259D%25B4-%25EC%259E%2588%25EB%258A%2594-%25EB%2582%2598%25EB%25AC%25B4-%25EC%25B1%2585%25EC%2583%2581-hZoviqJZAls
+            - figure [ref=f6e2092]:
+              - link [ref=f6e2095]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%82%A8%EC%9E%90%EA%B0%80-%EB%8C%80%ED%98%95-%EC%97%AD%EC%82%AC-%EB%B2%BD%ED%99%94-%EC%95%84%EB%9E%98%EC%97%90%EC%84%9C-%EA%B3%84%EB%8B%A8%EC%9D%84-%EB%82%B4%EB%A0%A4%EA%B0%80%EA%B3%A0-%EC%9E%88%EB%8B%A4-jSoV7LuWjI8
+                - img "남자가 대형 역사 벽화 아래에서 계단을 내려가고 있다" [ref=f6e2096]
+            - figure [ref=f6e2097]:
+              - link [ref=f6e2100]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%A6%9D%EA%B8%B0%EA%B0%80-%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B4%EB%8A%94-%EB%B2%BD%EB%8F%8C-%EA%B1%B4%EB%AC%BC%EB%93%A4-3HfgNhjZbUc
+                - img "밝은 하늘을 배경으로 김이 피어오르는 벽돌 건물의 낮은 각도" [ref=f6e2101]
+          - generic [ref=f6e1423]:
+            - figure [ref=f6e2102]:
+              - link [ref=f6e2105]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%89%B4%EC%9A%95%EC%8B%9C%EC%9D%98-%EC%97%A0%ED%8C%8C%EC%9D%B4%EC%96%B4-%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8-%EB%B9%8C%EB%94%A9-7zCClMREeHQ
+                - img "뉴욕시 위로 짙은 주황빛 하늘을 배경으로 밝혀진 엠파이어 스테이트 빌딩이 빛나고 있다" [ref=f6e2106]
+            - figure [ref=f6e2107]:
+              - generic [ref=f6e2109]:
+                - link [ref=f6e2110]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%ED%99%A9%EA%B8%88%EB%B9%9B-%EC%95%84%EB%9E%98-%ED%99%94%EB%A0%A4%ED%95%9C-%EC%84%9D%EC%A1%B0-%EA%B1%B4%EB%AC%BC-iLV6ryBydhA
+                  - img "따뜻한 황금빛 아래 고전 건축 양식의 화려한 석조 건물" [ref=f6e2111]
+                - link [ref=f6e2112] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25ED%2599%25A9%25EA%25B8%2588%25EB%25B9%259B-%25EC%2595%2584%25EB%259E%2598-%25ED%2599%2594%25EB%25A0%25A4%25ED%2595%259C-%25EC%2584%259D%25EC%25A1%25B0-%25EA%25B1%25B4%25EB%25AC%25BC-iLV6ryBydhA
+            - figure [ref=f6e2115]:
+              - generic [ref=f6e2117]:
+                - link [ref=f6e2118]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B0%9C%EC%BD%94%EB%8B%88%EC%99%80-%EB%B0%9C%EC%BD%94%EB%8B%88%EA%B0%80%EC%9E%88%EB%8A%94-%EA%B3%A0%EC%B8%B5-%EA%B1%B4%EB%AC%BC-PnKhXksESgg
+                  - img "발코니와 발코니가있는 고층 건물" [ref=f6e2119]
+                - link [ref=f6e2120] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%25B0%259C%25EC%25BD%2594%25EB%258B%2588%25EC%2599%2580-%25EB%25B0%259C%25EC%25BD%2594%25EB%258B%2588%25EA%25B0%2580%25EC%259E%2588%25EB%258A%2594-%25EA%25B3%25A0%25EC%25B8%25B5-%25EA%25B1%25B4%25EB%25AC%25BC-PnKhXksESgg
+            - figure [ref=f6e2123]:
+              - generic [ref=f6e2125]:
+                - link [ref=f6e2126]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%86%92%EC%9D%80-%EC%B0%BD%EB%AC%B8%EC%97%90%EC%84%9C-%EB%B3%B8-%EB%8F%84%EC%8B%9C-%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%9D%BC%EC%9D%B8-ryGOLKWJ6Ig
+                  - img "어두운 내부 창문 멀리언으로 둘러싸인 광활한 도시 스카이라인의 흐릿한 항공 사진입니다" [ref=f6e2127]
+                - link [ref=f6e2128] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%2586%2592%25EC%259D%2580-%25EC%25B0%25BD%25EB%25AC%25B8%25EC%2597%2590%25EC%2584%259C-%25EB%25B3%25B8-%25EB%258F%2584%25EC%258B%259C-%25EC%258A%25A4%25EC%25B9%25B4%25EC%259D%25B4%25EB%259D%25BC%25EC%259D%25B8-ryGOLKWJ6Ig
+            - figure [ref=f6e2131]:
+              - link [ref=f6e2134]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%98%84%EB%8C%80-%EA%B1%B4%EB%AC%BC%EC%9D%98-%EB%82%98%EC%84%A0%ED%98%95-%EC%BD%98%ED%81%AC%EB%A6%AC%ED%8A%B8-%EA%B3%84%EB%8B%A8-3GbiZg8xKxE
+                - img "현대식 건물 내 어두운 계단과 금속 난간이 있는 나선형 콘크리트 계단." [ref=f6e2135]
+            - figure [ref=f6e2136]:
+              - generic [ref=f6e2138]:
+                - link [ref=f6e2139]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%8C%80%EB%A6%AC%EC%84%9D-%EC%B9%B4%EC%9A%B4%ED%84%B0%EC%99%80-%ED%98%B8%ED%99%94%EB%A1%9C%EC%9A%B4-%EC%A2%8C%EC%84%9D%EC%9D%B4-%EC%9E%88%EB%8A%94-%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8-%EB%B0%94%EC%9E%85%EB%8B%88%EB%8B%A4-AFqywRJbX9k
+                  - img "대리석 카운터와 호화로운 좌석이 있는 현대적인 바입니다" [ref=f6e2140]
+                - link [ref=f6e2141] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%258C%2580%25EB%25A6%25AC%25EC%2584%259D-%25EC%25B9%25B4%25EC%259A%25B4%25ED%2584%25B0%25EC%2599%2580-%25ED%2598%25B8%25ED%2599%2594%25EB%25A1%259C%25EC%259A%25B4-%25EC%25A2%258C%25EC%2584%259D%25EC%259D%25B4-%25EC%259E%2588%25EB%258A%2594-%25ED%2598%2584%25EB%258C%2580%25EC%25A0%2581%25EC%259D%25B8-%25EB%25B0%2594%25EC%259E%2585%25EB%258B%2588%25EB%258B%25A4-AFqywRJbX9k
+            - figure [ref=f6e2144]:
+              - link [ref=f6e2147]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%85%B8%EB%9E%80%EC%83%89-%EC%BD%94%EB%93%80%EB%A1%9C%EC%9D%B4-%EC%86%8C%ED%8C%8C-%EC%9C%84-%EA%B7%B8%EB%A6%BC-THK9jDii__Y
+                - img "노란색 코듀로이 소파 위에 놓인 음식 위 테이블의 그림이었다" [ref=f6e2148]
+            - figure [ref=f6e2149]:
+              - generic [ref=f6e2151]:
+                - link [ref=f6e2152]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%8B%A4%EC%B1%84%EB%A1%9C%EC%9A%B4-%EC%95%84%ED%8C%8C%ED%8A%B8-%EA%B1%B4%EB%AC%BC-%EC%99%B8%EA%B4%80-isSRjjSi11M
+                  - img "반복되는 창문과 에어컨이 있는 다채로운 아파트 건물 외관의 수직 전경" [ref=f6e2153]
+                - link [ref=f6e2154] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%258B%25A4%25EC%25B1%2584%25EB%25A1%259C%25EC%259A%25B4-%25EC%2595%2584%25ED%258C%258C%25ED%258A%25B8-%25EA%25B1%25B4%25EB%25AC%25BC-%25EC%2599%25B8%25EA%25B4%2580-isSRjjSi11M
+            - figure [ref=f6e2157]:
+              - link [ref=f6e2160]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%9D%BC%EB%AA%B0-%EB%95%8C-%EC%82%AC%EB%AC%B4%EC%8B%A4-%EA%B1%B4%EB%AC%BC-%EC%95%88%EC%9D%98-%EC%82%AC%EB%9E%8C%EB%93%A4-jM11MrNrkk4
+                - img "따뜻한 노을을 반사하는 현대식 오피스 빌딩 창문을 통해 보이는 사람들" [ref=f6e2161]
+            - figure [ref=f6e2162]:
+              - link [ref=f6e2165]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%85%B9%EC%83%89-%EC%9D%98%EC%9E%90%EC%99%80-%EB%8B%A4%EC%B1%84%EB%A1%9C%EC%9A%B4-%EB%B2%BD-%EC%95%84%ED%8A%B8%EA%B0%80-%EC%9E%88%EB%8A%94-%EB%B3%B5%EA%B3%A0%ED%92%8D-%EC%BA%90%EB%B9%84%EB%8B%9B-qCSkw0MR2g0
+                - img "녹색 의자와 다채로운 벽 아트가 있는 복고풍 캐비닛" [ref=f6e2166]
+            - figure [ref=f6e2167]:
+              - link [ref=f6e2170]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%94%8C%EB%A1%9C%EC%96%B4-%EB%9E%A8%ED%94%84%EC%99%80-%ED%99%A9%EA%B0%88%EC%83%89-%EA%B0%80%EC%A3%BD-%EC%95%88%EB%9D%BD%EC%9D%98%EC%9E%90-Um_dxFm30Ro
+                - img "주름진 선양이 달린 곡선 바닥 램프와 황갈색 가죽 안락의자 옆에" [ref=f6e2171]
+            - figure [ref=f6e2172]:
+              - link [ref=f6e2175]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%B0%BD%EA%B0%80%EC%97%90-%EC%9E%88%EB%8A%94-%EB%82%98%EB%AC%B4-%EC%9D%98%EC%9E%90%EC%99%80-%ED%83%81%EC%9E%90-fta5pzyM0T8
+                - img "두 개의 나무 의자와 쇼지 스크린이 있는 창문 앞의 작은 탁자" [ref=f6e2176]
+            - figure [ref=f6e2177]:
+              - link [ref=f6e2180]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%A7%99%EC%9D%80-%EB%85%B9%EC%83%89-%EB%B0%A4%EC%95%88%EA%B0%9C-%EC%86%8D%EC%9D%98-%EB%A7%88%EC%B2%9C%EB%A3%A8-heZEiSE6ubI
+                - img "밤에는 짙은 녹색 안개에 싸인 빛나는 창문으로 밝혀진 높은 마천루" [ref=f6e2181]
+            - figure [ref=f6e2182]:
+              - link [ref=f6e2185]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%89%B4%EC%9A%95%EC%8B%9C%EC%9D%98-%EB%A7%88%EC%B2%9C%EB%A3%A8-OyrkYg9JwPA
+                - img "뉴욕시의 밀집된 고층 빌딩과 사무실 건물의 항공 촬영" [ref=f6e2186]
+            - figure [ref=f6e2187]:
+              - link [ref=f6e2190]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%8F%84%ED%95%98-%EC%9D%B4%EC%8A%AC%EB%9E%8C-%EB%AF%B8%EC%88%A0%EA%B4%80-54FnogH5O2w
+                - img "도하의 이슬람 미술관, 황혼 무렵의 기하학적 석조 건축 양식" [ref=f6e2191]
+            - figure [ref=f6e2192]:
+              - generic [ref=f6e2194]:
+                - link [ref=f6e2195]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%ED%96%87%EC%82%B4%EC%9D%B4-%EB%B9%84%EC%B9%98%EB%8A%94-%EC%A0%95%EC%9B%90-%EB%B0%A9%EC%9D%98-%EC%8B%9D%ED%83%81-1f1vh4s7Fsw
+                  - img "햇살이 비치는 방 안의 나무 식탁, 큰 창문이 울창하게 늘어진 덩굴을 내려다보고 있었다" [ref=f6e2196]
+                - link [ref=f6e2197] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25ED%2596%2587%25EC%2582%25B4%25EC%259D%25B4-%25EB%25B9%2584%25EC%25B9%2598%25EB%258A%2594-%25EC%25A0%2595%25EC%259B%2590-%25EB%25B0%25A9%25EC%259D%2598-%25EC%258B%259D%25ED%2583%2581-1f1vh4s7Fsw
+            - figure [ref=f6e2200]:
+              - generic [ref=f6e2202]:
+                - link [ref=f6e2203]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%B9%A8%EC%8B%A4-%EC%B9%A8%EB%8C%80-%EC%9C%84%EC%97%90-%EC%9C%A0%EB%A6%AC-%ED%8E%9C%EB%8D%98%ED%8A%B8-%EB%9D%BC%EC%9D%B4%ED%8A%B8-F1le0xPhjr8
+                  - img "나무가 내려다보이는 갈색 베개가 놓인 침대 위에 빛나는 유리 펜던트 라이트가 빛난다" [ref=f6e2204]
+                - link [ref=f6e2205] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EC%25B9%25A8%25EC%258B%25A4-%25EC%25B9%25A8%25EB%258C%2580-%25EC%259C%2584%25EC%2597%2590-%25EC%259C%25A0%25EB%25A6%25AC-%25ED%258E%259C%25EB%258D%2598%25ED%258A%25B8-%25EB%259D%25BC%25EC%259D%25B4%25ED%258A%25B8-F1le0xPhjr8
+            - figure [ref=f6e2208]:
+              - link [ref=f6e2211]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%BA%94%ED%8B%B8%EB%A0%88%EB%B2%84-%EB%B0%9C%EC%BD%94%EB%8B%88%EA%B0%80-%EC%9E%88%EB%8A%94-%ED%98%84%EB%8C%80%EC%8B%9D-%EC%95%84%ED%8C%8C%ED%8A%B8-%EA%B1%B4%EB%AC%BC-JEFUw7oJ30E
+                - img "황금빛 시간에 맑고 푸른 하늘 아래 캔틸레버 발코니가 있는 현대적인 아파트 건물" [ref=f6e2212]
+            - figure [ref=f6e2213]:
+              - link [ref=f6e2216]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B2%BD%EB%8F%8C-%EB%B2%BD%EB%82%9C%EB%A1%9C%EA%B0%80-%EC%9E%88%EB%8A%94-%EC%95%84%EB%8A%91%ED%95%9C-%EA%B1%B0%EC%8B%A4-fVztFISaYzQ
+                - img "벽돌 벽난로, 나무 커피 테이블, 푹신한 소파가 있는 아늑한 거실이 있었다" [ref=f6e2217]
+            - figure [ref=f6e2218]:
+              - generic [ref=f6e2220]:
+                - link [ref=f6e2221]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%82%A0%EC%B9%B4%EB%A1%9C%EC%9A%B4-%EA%B7%B8%EB%A6%BC%EC%9E%90%EA%B0%80-%EB%93%9C%EB%A6%AC%EC%9A%B4-%ED%95%98%EC%96%80-%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94-%EA%B3%84%EB%8B%A8%EB%93%A4-hJCK1-VKF3I
+                  - img "하얀 떠다니는 계단이 평범한 흰 벽에 날카로운 그림자를 드리우는 3D 렌더링" [ref=f6e2222]
+                - link [ref=f6e2223] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%2582%25A0%25EC%25B9%25B4%25EB%25A1%259C%25EC%259A%25B4-%25EA%25B7%25B8%25EB%25A6%25BC%25EC%259E%2590%25EA%25B0%2580-%25EB%2593%259C%25EB%25A6%25AC%25EC%259A%25B4-%25ED%2595%2598%25EC%2596%2580-%25EB%2596%25A0%25EB%258B%25A4%25EB%258B%2588%25EB%258A%2594-%25EA%25B3%2584%25EB%258B%25A8%25EB%2593%25A4-hJCK1-VKF3I
+            - figure [ref=f6e2226]:
+              - link [ref=f6e2229]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%95%84%EC%B9%98%ED%98%95-%EC%B2%9C%EC%9E%A5%EC%9D%B4-%EC%9E%88%EB%8A%94-%EA%B3%A0%EC%A0%84%EC%A0%81%EC%9D%B8-%EA%B1%B4%EB%AC%BC-%EB%82%B4%EB%B6%80-Nb9-5IITM5s
+                - img "아치형 천장과 화려한 기둥이 있는 고전 건물의 흑백 내부 모습" [ref=f6e2230]
+            - figure [ref=f6e2231]:
+              - generic [ref=f6e2233]:
+                - link [ref=f6e2234]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%ED%95%98%EC%96%80-%EC%84%A0%EB%B0%98-%EC%9C%84%EC%97%90-%EC%95%89%EC%95%84%EC%9E%88%EB%8A%94-%ED%95%98%EC%96%80-%EA%BD%83%EB%B3%91-e8d102T-eHY
+                  - img "하얀 선반 위에 앉아있는 하얀 꽃병" [ref=f6e2235]
+                - link [ref=f6e2236] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25ED%2595%2598%25EC%2596%2580-%25EC%2584%25A0%25EB%25B0%2598-%25EC%259C%2584%25EC%2597%2590-%25EC%2595%2589%25EC%2595%2584%25EC%259E%2588%25EB%258A%2594-%25ED%2595%2598%25EC%2596%2580-%25EA%25BD%2583%25EB%25B3%2591-e8d102T-eHY
+            - figure [ref=f6e2239]:
+              - generic [ref=f6e2241]:
+                - link [ref=f6e2242]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%ED%8C%8C%EB%9E%80-%EB%B0%B0%EA%B2%BD%EC%97%90-%ED%98%84%EB%8C%80-%EC%9D%98%EC%9E%90-%EC%8B%A4%EB%A3%A8%EC%97%A3-cowLW3MqRbs
+                  - img "밝은 연한 파란색 배경에 현대적인 의자의 어두운 실루엣이 그려져 있었다" [ref=f6e2243]
+                - link [ref=f6e2244] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25ED%258C%258C%25EB%259E%2580-%25EB%25B0%25B0%25EA%25B2%25BD%25EC%2597%2590-%25ED%2598%2584%25EB%258C%2580-%25EC%259D%2598%25EC%259E%2590-%25EC%258B%25A4%25EB%25A3%25A8%25EC%2597%25A3-cowLW3MqRbs
+            - figure [ref=f6e2247]:
+              - link [ref=f6e2250]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%A7%99%EC%9D%80-%EC%95%88%EA%B0%9C-%EC%86%8D%EC%9D%98-%EC%9C%A0%EB%A6%AC-%EB%A7%88%EC%B2%9C%EB%A3%A8%EB%93%A4-9P74HRhViKc
+                - img "현대의 유리 마천루들이 짙은 아침 안개층 속으로 솟아오르고 있다" [ref=f6e2251]
+            - figure [ref=f6e2252]:
+              - link [ref=f6e2255]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%99%A9%ED%98%BC-%EB%AC%B4%EB%A0%B5-%EB%9F%B0%EB%8D%98%EC%9D%98-%ED%83%80%EC%9B%8C-%EB%B8%8C%EB%A6%AC%EC%A7%80-eb4f7uqeb3U
+                - img "황혼 무렵 런던의 타워 브리지" [ref=f6e2256]
+            - figure [ref=f6e2257]:
+              - link [ref=f6e2260]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%99%A9%EA%B8%88%EB%B9%9B-%EC%95%84%EB%9E%98-%EB%B8%8C%EB%A3%A8%ED%83%88%EB%A6%AC%EC%A6%98-%EB%A7%88%EC%B2%9C%EB%A3%A8-VGfW8ffVDHY
+                - img "따뜻한 황금빛 시간의 빛으로 빛나는 창문 격자형 고원형 고천루" [ref=f6e2261]
+            - figure [ref=f6e2262]:
+              - link [ref=f6e2265]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B8%8C%EB%9D%BC%EC%9D%B4%ED%8A%B8-%EB%A1%9C%EB%B9%84%EC%9D%98-%EB%8C%80%EA%B3%84%EB%8B%A8-bjjJlAp_yDE
+                - img "밝은 로비에 짙은 녹색 카펫과 나무 난간이 있는 웅장한 계단이 있다" [ref=f6e2266]
+            - figure [ref=f6e2267]:
+              - link [ref=f6e2270]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B3%A1%EC%84%A0-%ED%84%B0%EB%84%90-%EB%82%B4-%EB%B9%88-%EC%97%90%EC%8A%A4%EC%BB%AC%EB%A0%88%EC%9D%B4%ED%84%B0-j8FIQ6N_hjQ
+                - img "곡선이 있는 흰색 금속 리브가 있는 긴 터널 안의 빈 에스컬레이터" [ref=f6e2271]
+            - figure [ref=f6e2272]:
+              - generic [ref=f6e2274]:
+                - link [ref=f6e2275]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B3%A1%EC%84%A0%ED%98%95-%EC%BD%98%ED%81%AC%EB%A6%AC%ED%8A%B8-%EB%B2%BD%EC%9D%84-%EC%A7%80%EB%82%98%EA%B0%80%EB%8A%94-%EC%82%AC%EB%9E%8C-uHL3F6flX9Y
+                  - img "곡선형 콘크리트 벽과 직사각형 수영장 근처를 걷는 사람이" [ref=f6e2276]
+                - link [ref=f6e2277] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EA%25B3%25A1%25EC%2584%25A0%25ED%2598%2595-%25EC%25BD%2598%25ED%2581%25AC%25EB%25A6%25AC%25ED%258A%25B8-%25EB%25B2%25BD%25EC%259D%2584-%25EC%25A7%2580%25EB%2582%2598%25EA%25B0%2580%25EB%258A%2594-%25EC%2582%25AC%25EB%259E%258C-uHL3F6flX9Y
+            - figure [ref=f6e2280]:
+              - link [ref=f6e2283]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%9B%90%ED%98%95-%EB%AC%B4%EB%8A%AC-%EC%B2%9C%EC%9E%A5%EA%B3%BC-%EB%AF%B8%EB%8B%88%EB%A9%80%ED%95%9C-%EC%A2%8C%EC%84%9D%EC%9D%B4-%EC%9E%88%EB%8A%94-%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8-%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4-h5IpWays6-g
+                - img "원형 무늬 천장과 미니멀한 좌석이 있는 현대적인 인테리어" [ref=f6e2284]
+            - figure [ref=f6e2285]:
+              - link [ref=f6e2288]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B0%9C%EC%84%A0%EB%AC%B8-%EC%B2%9C%EC%9E%A5%EA%B3%BC-%EA%B8%B0%EB%91%A5-ir-5NS2jabU
+                - img "파리 개선문의 화려한 석조 천장과 기둥의 저각도 뷰" [ref=f6e2289]
+            - figure [ref=f6e2290]:
+              - link [ref=f6e2293]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%8B%A0%EA%B3%A0%EC%A0%84%EC%A3%BC%EC%9D%98-%EA%B1%B4%EC%B6%95%EB%AC%BC-%EC%B2%98%EB%A7%88%EC%99%80-%EA%B8%B0%EB%91%A5-fBFpDGUmoiE
+                - img "맑고 푸른 하늘을 배경으로 한 신고전주의 건물의 화려한 석조 처마와 코린트식 기둥" [ref=f6e2294]
+            - figure [ref=f6e2295]:
+              - generic [ref=f6e2297]:
+                - link [ref=f6e2298]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%ED%91%B8%EB%A5%B8-%EB%B0%94%EB%8B%A4%EB%A5%BC-%EA%B0%90%EC%8B%B8%EB%8A%94-%EB%AF%B8%EB%8B%88%EB%A9%80%ED%95%9C-%ED%9D%B0%EC%83%89-%ED%8D%BC%EA%B3%A8%EB%9D%BC-Zc-T7Ek0TfE
+                  - img "푸른 바다를 감싸는 미니멀한 흰색 퍼골라" [ref=f6e2299]
+                - link [ref=f6e2300] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25ED%2591%25B8%25EB%25A5%25B8-%25EB%25B0%2594%25EB%258B%25A4%25EB%25A5%25BC-%25EA%25B0%2590%25EC%258B%25B8%25EB%258A%2594-%25EB%25AF%25B8%25EB%258B%2588%25EB%25A9%2580%25ED%2595%259C-%25ED%259D%25B0%25EC%2583%2589-%25ED%258D%25BC%25EA%25B3%25A8%25EB%259D%25BC-Zc-T7Ek0TfE
+            - figure [ref=f6e2303]:
+              - link [ref=f6e2306]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B3%A1%EC%84%A0%ED%98%95-%EC%84%9D%EB%B2%BD%EA%B3%BC-%EA%B3%84%EB%8B%A8-HzuZK0LC6H4
+                - img "곡선형 돌담에는 층층이 쌓인 블록과 밝은 햇빛 아래 계단이 있었다" [ref=f6e2307]
+            - figure [ref=f6e2308]:
+              - link [ref=f6e2311]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%A7%A4%EC%9E%85%ED%98%95-%EC%B0%BD%EB%AC%B8%EC%9D%B4-%EC%9E%88%EB%8A%94-%EA%B1%B4%EB%AC%BC-%EC%99%B8%EA%B4%80%EC%9E%85%EB%8B%88%EB%8B%A4--E1ZFtOnTE4
+                - img "두 줄로 세로 배열된 오목 창문이 있는 흰색 건물 외관입니다" [ref=f6e2312]
+            - figure [ref=f6e2313]:
+              - link [ref=f6e2316]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%94%84%EB%9E%91%ED%81%AC%ED%91%B8%EB%A5%B4%ED%8A%B8%EC%9D%98-%EC%95%84%EC%B9%98%EB%A1%9C-%EB%91%98%EB%9F%AC%EC%8B%B8%EC%9D%B8-%EB%A7%88%EC%B2%9C%EB%A3%A8-c50havkiy8Y
+                - img "원형 아치로 둘러싸인 프랑크푸르트의 현대 마천루의 저각도 모습" [ref=f6e2317]
+            - figure [ref=f6e2318]:
+              - link [ref=f6e2321]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%A0%95%EA%B5%90%ED%95%9C-%EC%A1%B0%EA%B0%81%EC%9D%B4-%EC%83%88%EA%B2%A8%EC%A7%84-%EA%B3%A0%EB%94%95-%EC%96%91%EC%8B%9D%EC%9D%98-%EC%84%9D%EC%A1%B0-%EC%95%84%EC%B9%98%ED%98%95-Ceyf_02k2Po
+                - img "복잡한 조각이 있는 고딕 석조 아치와 장식적인 장미창이 있습니다" [ref=f6e2322]
+            - figure [ref=f6e2323]:
+              - generic [ref=f6e2325]:
+                - link [ref=f6e2326]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%ED%8A%B8%EB%B9%8C%EB%A6%AC%EC%8B%9C%EC%9D%98-%ED%98%84%EB%8C%80-%EC%9C%A0%EB%A6%AC-%EA%B1%B4%EB%AC%BC-hO21M4fq8JY
+                  - img "트빌리시의 맑고 푸른 하늘을 배경으로 한 기하학적 패널이 있는 현대 유리 건물의 저각도 모습" [ref=f6e2327]
+                - link [ref=f6e2328] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25ED%258A%25B8%25EB%25B9%258C%25EB%25A6%25AC%25EC%258B%259C%25EC%259D%2598-%25ED%2598%2584%25EB%258C%2580-%25EC%259C%25A0%25EB%25A6%25AC-%25EA%25B1%25B4%25EB%25AC%25BC-hO21M4fq8JY
+            - figure [ref=f6e2331]:
+              - link [ref=f6e2334]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%9D%91%EB%B0%B1-%ED%98%84%EB%8C%80-%EC%9C%A0%EB%A6%AC-%EB%A7%88%EC%B2%9C%EB%A3%A8-UpFq4YfDAMU
+                - img "밝은 하늘을 배경으로 한 현대 유리 마천루의 흑백 저각도 모습" [ref=f6e2335]
+            - figure [ref=f6e2336]:
+              - link [ref=f6e2339]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%8C%8C%EB%9E%80-%EB%B2%BD%EA%B3%BC-%EC%88%B2-%EC%A0%84%EB%A7%9D%EC%9D%B4-%EC%9E%88%EB%8A%94-%EC%B9%A8%EC%8B%A4-akpCkzsR9Dc
+                - img "파란 벽, 나무 침대, 가을의 숲이 내려다보이는 창문이 있는 침실" [ref=f6e2340]
+            - figure [ref=f6e2341]:
+              - generic [ref=f6e2343]:
+                - link [ref=f6e2344]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%99%93-%ED%8F%AC%EC%9D%98-%EA%BD%83%EB%AC%B4%EB%8A%AC-%EB%8F%84%EC%9E%90%EA%B8%B0-%ED%83%80%EC%9D%BC-QIhCrzjO6w0
+                  - img "방콕 왓 포의 스투탑 기초를 장식한 정교한 꽃무늬 도자기 타일들" [ref=f6e2345]
+                - link [ref=f6e2346] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EC%2599%2593-%25ED%258F%25AC%25EC%259D%2598-%25EA%25BD%2583%25EB%25AC%25B4%25EB%258A%25AC-%25EB%258F%2584%25EC%259E%2590%25EA%25B8%25B0-%25ED%2583%2580%25EC%259D%25BC-QIhCrzjO6w0
+            - figure [ref=f6e2349]:
+              - link [ref=f6e2352]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%98%A4%EC%82%AC%EC%B9%B4-%EB%84%A4%EC%98%A8-%EC%BD%94%EB%84%88%EC%97%90-%EC%9E%88%EB%8A%94-%EC%9D%BC%EB%B3%B8%EC%8B%9D-%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91-1ndLYm1tbn8
+                - img "오사카의 네온사인이 빛나는 모퉁이에 밤에 있는 일본식 식당, 빛나는 간판과 등불이 있다" [ref=f6e2353]
+            - figure [ref=f6e2354]:
+              - link [ref=f6e2357]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%8F%8C%EB%8B%B4%EC%9D%B4-%EC%9E%88%EB%8A%94-%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8-%EA%B1%B0%EC%8B%A4%EC%9D%B4-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-LnlPgsSo8_c
+                - img "하얀 소파, 무늬가 있는 안락의자, 돌담을 배경으로 한 떠다니는 계단이 있는 현대적인 거실입니다" [ref=f6e2358]
+            - figure [ref=f6e2359]:
+              - link [ref=f6e2362]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B1%B4%EB%AC%BC-%EC%99%B8%EA%B4%80%EC%9D%98-%EA%B3%A1%EC%84%A0-%EC%BD%98%ED%81%AC%EB%A6%AC%ED%8A%B8-%EB%B0%9C%EC%BD%94%EB%8B%88-t_6f8wLgc4c
+                - img "깊은 그림자가 드리운 현대식 건물 외관 위의 곡선 콘크리트 발코니" [ref=f6e2363]
+            - figure [ref=f6e2364]:
+              - link [ref=f6e2367]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%9D%B0%EC%83%89-%EC%95%84%EC%B9%98%EC%99%80-%EB%AC%BC%EA%B2%B0-%EB%AA%A8%EC%96%91-%EC%B2%9C%EC%9E%A5-%ED%8C%A8%ED%84%B4%EC%9D%B4-%EC%9E%88%EB%8A%94-%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8-%EB%AF%B8%EB%8B%88%EB%A9%80%EB%A6%AC%EC%A6%98-%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4-ZXF2ibh3n70
+                - img "흰색 아치와 물결 모양 천장 패턴이 있는 현대적인 미니멀리즘 인테리어" [ref=f6e2368]
+            - figure [ref=f6e2369]:
+              - link [ref=f6e2372]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%84%93%EC%9D%80-%ED%98%84%EB%8C%80%EC%8B%9D-%EA%B1%B0%EC%8B%A4%EC%97%90-%EC%A4%91%EB%A6%BD%EC%A0%81%EC%9D%B8-%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4%EC%99%80-%ED%81%B0-%EC%B0%BD%EB%AC%B8%EC%9D%B4-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-r_mDJZWfFHY
+                - img "넓은 현대식 거실에 중립적인 인테리어와 큰 창문이 있습니다" [ref=f6e2373]
+            - figure [ref=f6e2374]:
+              - link [ref=f6e2377]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%9D%90%EB%A6%B0-%ED%95%98%EB%8A%98-%EC%95%84%EB%9E%98-%EB%B6%80%EB%B6%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%AC%BC%EC%97%90-%EC%9E%A0%EA%B8%B4-%ED%98%84%EB%8C%80%EC%8B%9D-%EA%B1%B4%EB%AC%BC-lRCITdfi7TM
+                - img "흐린 하늘 아래 부분적으로 물에 잠긴 현대식 건물" [ref=f6e2378]
+            - figure [ref=f6e2379]:
+              - link [ref=f6e2382]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91-%EC%BD%94%EB%84%88%EC%97%90-%EC%84%A4%EC%B9%98%EB%90%9C-%EC%8B%9D%ED%83%81-ZCeB3sNyePE
+                - img "레스토랑 구석에는 와인잔과 냅킨이 놓인 2인용 식탁" [ref=f6e2383]
+            - figure [ref=f6e2384]:
+              - link [ref=f6e2387]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%8B%A4%EC%B1%84%EB%A1%9C%EC%9A%B4-%EB%B2%BD%ED%99%94%EA%B0%80-%EC%9E%88%EB%8A%94-%EA%B1%B0%EC%8B%A4-IuE5XUAsKKA
+                - img "다채로운 벽화, 텔레비전, 실내 식물이 있는 거실" [ref=f6e2388]
+            - figure [ref=f6e2389]:
+              - link [ref=f6e2392]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%BF%A0%EC%85%98%EA%B3%BC-%EC%B0%BD%EA%B0%80%EC%97%90-%EC%9E%88%EB%8A%94-%EC%8B%9D%EB%AC%BC-hpSu0ABPB6A
+                - img "화분과 의자 옆 창턱 위에 놓인 세 개의 파란 쿠션이 있었다" [ref=f6e2393]
+            - figure [ref=f6e2394]:
+              - link [ref=f6e2397]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%B8%B5%EC%B8%B5-%EB%B0%9C%EC%BD%94%EB%8B%88%EA%B0%80-%EC%9E%88%EB%8A%94-%EC%95%84%ED%8C%8C%ED%8A%B8-%EA%B1%B4%EB%AC%BC-FDHTKdozEYQ
+                - img "맑은 하늘을 배경으로 여러 겹쳐진 발코니가 있는 높은 아파트 건물의 저각도 모습" [ref=f6e2398]
+            - figure [ref=f6e2399]:
+              - link [ref=f6e2402]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%A1%B0%EB%AA%85-%EA%B0%84%ED%8C%90%EC%9D%B4-%EC%9E%88%EB%8A%94-%EC%83%81%EC%97%85%EC%9A%A9-%EA%B1%B4%EB%AC%BC-iUy_kCQcL20
+                - img "청록색과 주황색 하늘을 배경으로 조명된 간판과 광고판이 있는 유리 앞면의 일본 상업용 건물" [ref=f6e2403]
+            - figure [ref=f6e2404]:
+              - generic [ref=f6e2406]:
+                - link [ref=f6e2407]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%ED%9D%B0%EC%83%89-%EA%B8%B0%ED%95%98%ED%95%99%EC%A0%81-%EB%B8%94%EB%A1%9D%EA%B3%BC-%EA%B3%84%EB%8B%A8-i-QFjjWcNQo
+                  - img "하얀 기하학적 블록과 계단이 추상적인 건축 공간을 만들어내는 3D 렌더링" [ref=f6e2408]
+                - link [ref=f6e2409] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25ED%259D%25B0%25EC%2583%2589-%25EA%25B8%25B0%25ED%2595%2598%25ED%2595%2599%25EC%25A0%2581-%25EB%25B8%2594%25EB%25A1%259D%25EA%25B3%25BC-%25EA%25B3%2584%25EB%258B%25A8-i-QFjjWcNQo
+            - figure [ref=f6e2412]:
+              - link [ref=f6e2415]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B0%94%EC%9C%84%EA%B0%80-%EB%A7%8E%EC%9D%80-%EA%B2%BD%EC%82%AC%EB%A9%B4%EC%97%90-%EC%9E%88%EB%8A%94-%ED%98%84%EB%8C%80%EC%8B%9D-%EC%82%B0%EB%A7%89-bn3NDNia6m8
+                - img "짙은 안개 속 바위 경사면에 자리한 현대적인 금속 산막" [ref=f6e2416]
+    - generic:
+      - region "Notifications"

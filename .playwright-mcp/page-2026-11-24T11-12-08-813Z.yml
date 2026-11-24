@@ -1,0 +1,231 @@
+- generic [ref=f6e4]:
+  - navigation [ref=f6e5]:
+    - generic [ref=f6e6]:
+      - generic [ref=f6e7]:
+        - link "Unsplash 홈" [ref=f6e8] [cursor=pointer]:
+          - /url: /ko
+          - img "Unsplash 홈" [ref=f6e9]
+        - link "사진" [ref=f6e11] [cursor=pointer]:
+          - /url: /ko
+        - link "일러스트" [ref=f6e14] [cursor=pointer]:
+          - /url: /ko/%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8
+      - generic [ref=f6e17]:
+        - button "탐색" [ref=f6e18] [cursor=pointer]
+        - button "컬렉션" [ref=f6e21] [cursor=pointer]
+        - button "다운로드 내역" [ref=f6e24] [cursor=pointer]
+      - button "북마크" [ref=f6e28] [cursor=pointer]
+    - generic [ref=f6e31]:
+      - link "로그인 / 가입" [ref=f6e32] [cursor=pointer]:
+        - /url: /ko/%EB%A1%9C%EA%B7%B8%EC%9D%B8?referrer=%2Fko%2Ft%2Farchitecture-interior
+      - button "언어" [ref=f6e35] [cursor=pointer]
+      - button "메뉴" [ref=f6e38] [cursor=pointer]
+  - generic [ref=f6e41]:
+    - generic [ref=f6e42]:
+      - navigation [ref=f6e43]:
+        - search "사이트 전체에서 이미지 찾기" [ref=f6e45]:
+          - button "Unsplash 검색" [ref=f6e46] [cursor=pointer]
+          - combobox [ref=f6e49]:
+            - searchbox "Unsplash 검색" [ref=f6e50]
+            - listbox
+          - button "시각적 검색" [ref=f6e52] [cursor=pointer]
+        - generic [ref=f6e55]:
+          - link "Unsplash+ 구독" [ref=f6e56] [cursor=pointer]:
+            - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4
+          - link "로그인" [ref=f6e57] [cursor=pointer]:
+            - /url: /ko/%EB%A1%9C%EA%B7%B8%EC%9D%B8?referrer=%2Fko%2Ft%2Farchitecture-interior
+        - button "이미지 제출" [ref=f6e59] [cursor=pointer]
+      - list [ref=f6e65]:
+        - listitem [ref=f6e66]:
+          - link "추천" [ref=f6e335] [cursor=pointer]:
+            - /url: /ko
+        - listitem [ref=f6e67]:
+          - link "새로운 사항 가을에" [ref=f6e68] [cursor=pointer]:
+            - /url: /ko/t/Fall
+            - generic [ref=f6e69]:
+              - generic [ref=f6e70]: 새로운 사항
+              - text: 가을에
+        - listitem [ref=f6e71]:
+          - link "배경 화면" [ref=f6e72] [cursor=pointer]:
+            - /url: /ko/t/wallpapers
+        - listitem [ref=f6e73]:
+          - link "자연" [ref=f6e74] [cursor=pointer]:
+            - /url: /ko/t/nature
+        - listitem [ref=f6e75]:
+          - link "3D 렌더링" [ref=f6e76] [cursor=pointer]:
+            - /url: /ko/t/3d-renders
+        - listitem [ref=f6e77]:
+          - link "실험적인" [ref=f6e78] [cursor=pointer]:
+            - /url: /ko/t/experimental
+        - listitem [ref=f6e79]:
+          - link "필름" [ref=f6e80] [cursor=pointer]:
+            - /url: /ko/t/film
+        - listitem [ref=f6e81]:
+          - link "거리 사진" [ref=f6e82] [cursor=pointer]:
+            - /url: /ko/t/street-photography
+        - listitem [ref=f6e83]:
+          - link "건축학" [active]:
+            - /url: /ko/t/architecture-interior
+        - listitem [ref=f6e85]:
+          - link "텍스처" [ref=f6e86] [cursor=pointer]:
+            - /url: /ko/t/textures-patterns
+        - listitem [ref=f6e87]:
+          - link "여행" [ref=f6e88] [cursor=pointer]:
+            - /url: /ko/t/travel
+        - listitem [ref=f6e89]:
+          - link "인류" [ref=f6e90] [cursor=pointer]:
+            - /url: /ko/t/people
+      - generic [ref=f6e336]:
+        - generic [ref=f6e338]:
+          - generic [ref=f6e340]:
+            - banner [ref=f6e341]:
+              - heading "건축학" [level=1] [ref=f6e342]
+              - generic [ref=f6e343]:
+                - link "Unsplash" [ref=f6e344] [cursor=pointer]:
+                  - /url: /ko/@unsplash
+                - text: 에서 큐레이팅
+            - generic [ref=f6e345]: 공간의 예술성을 기념하는 이 카테고리는 건축과 인테리어의 놀라운 사진을 강조합니다.
+            - button [ref=f6e348] [cursor=pointer]:
+              - strong [ref=f6e349]: 건축학
+              - text: 에 제출
+          - generic [ref=f6e351]:
+            - heading "월간 상위 출품자" [level=3] [ref=f6e353]
+            - generic [ref=f6e355]:
+              - link "Sebastian Schuster 19개 이미지" [ref=f6e356] [cursor=pointer]:
+                - /url: /ko/@sschusterphotoart
+                - generic [ref=f6e358]:
+                  - generic [ref=f6e359]: Sebastian Schuster
+                  - generic [ref=f6e360]: 19개 이미지
+              - link "Clay Banks 17개 이미지" [ref=f6e361] [cursor=pointer]:
+                - /url: /ko/@claybanks
+                - generic [ref=f6e363]:
+                  - generic [ref=f6e364]: Clay Banks
+                  - generic [ref=f6e365]: 17개 이미지
+              - link "Simone Hutsch 14개 이미지" [ref=f6e366] [cursor=pointer]:
+                - /url: /ko/@heysupersimi
+                - generic [ref=f6e368]:
+                  - generic [ref=f6e369]: Simone Hutsch
+                  - generic [ref=f6e370]: 14개 이미지
+              - link "Victoria Dokukina 9개 이미지" [ref=f6e371] [cursor=pointer]:
+                - /url: /ko/@victoriadokukina
+                - generic [ref=f6e373]:
+                  - generic [ref=f6e374]: Victoria Dokukina
+                  - generic [ref=f6e375]: 9개 이미지
+          - generic [ref=f6e381]:
+            - link "추천" [ref=f6e383]:
+              - /url: /ko/%EC%82%AC%EC%A7%84/%EC%88%B2%EC%9D%B4-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EB%8B%A4%EB%8B%A4%EB%AF%B8-%EB%B0%A9-hdIHBHS_qI4
+            - link "Thierry Lemaitre" [ref=f6e385] [cursor=pointer]:
+              - /url: /ko/@tlemaitre
+        - generic [ref=f6e390]:
+          - generic [ref=f6e391]:
+            - generic [ref=f6e392]:
+              - contentinfo [ref=f6e397]:
+                - generic [ref=f6e398]: –– ––– ––– –– ––– – ––– ––– –––– – – –– ––– – – ––– –– –– –––– ––
+                - generic [ref=f6e404] [cursor=pointer]
+              - iframe [ref=f6e407]:
+                - generic [ref=f16e3]:
+                  - link [ref=f16e4] [cursor=pointer]:
+                    - /url: //discovery.popin.cc/home/privacy.html
+                  - 'link "대기 시간 없이, 순수한 아드레날린을 느껴보세요: 단 몇 분 만에 무료 5대5 로봇 전투를 즐기세요 대기 시간 없이, 순수한 아드레날린을 느껴보세요: 단 몇 분 만에 무료 5대5 로봇 전투를 즐기세요 게임 레이더" [ref=f16e7] [cursor=pointer]':
+                    - /url: https://trace.popin.cc/ju/ic?tn=c92aad1999f497c1a6c2ff886123e07c&trackingid=bb96817dcd3f326e6687b20065d801e1&acid=34112&data=erX7wJZUjW0E8Sv3-oB_2XawTxwk9xmoxmOwS-RZhglPW69LjVVQV9TSk7OfROrSI7NkIX0PIrXTaVRi3whvc7nccbSQeU8R0Nia5FeI7HaWd5IxKJ1vFxspd_fRQCRI82fE3TnJDxr6iUIsM4nvRPlv4oAFm5kuC7hAEgticW5XBsYAyZE8BscejgBTN2TmaYPpFTg7BKkgDrWYP0k2gw9YtIEpCdmA5r_-6euZ7y2kgFncY1HnKyx4KZlr2HjN5NfDylIgkPvpKPN1BSEQrKuPImE2UoNTwRffbmvgbN5XynNFqf3pqYUbQUgYlMp-auvkXa-xMxiqwI5m79wshS0qtyE2DDNBRgnKh0bWn-WDyeUKlwtTaJMPy8txq7hKisauJzs6a3FCvXnxdzlIDCZHM7NFv_2QFvO30xfYjSu6GgmBz28q1j2PYY9go918sU9Y_BQ0wJqEnk5vDp9iXYbsK0lAqHPlfSUN6_y5dqOJ5eXAH-SKpDliFT_NjbYE2FpOyhrMg7dPJwnhoK3lZdrELBCOzaP9XPR7l76eS9zE0sjaF33h9S1IRvwVJCSg1HJlfJLXs7onhz5qugwFsWxUavLEoFaRu5-_U5sYH1kZzASxjN_LQJmYw2KFyGgj67JKuc3xwvYj79C1CbzH4hhPq_-PQnbq_fiGIu1FMe2ZNaRuQREkNUkMbJBtR5CIvQbssPkX5jDd0WZl3loKgLQJ7LHtL2HX5WeReLp2iWVUC3GJ-sjaLTguwh_ZrC_03uHCC3tcnytWUAjd6N3vZZTG7grOD27HieVx7njRK4QIcneMd4uRyNc5Ca2qvhiJ4zV5BJoZq5ev3Gx3gFrAp1pZ3qnzDc0hcJfFL0XLQwFBzHW_419OHPaV-xMRZdiYLuwaB3LHL7z_otLuat8Cka_n4b2XagtwuLSAyOrl3PGExzGIwI84f_psVaNRNtS5sg3vZRN7sekaRpIrRpsG-U8u27Nh0dQvihMGyq5sKCGVeonp8uVQXuaEjuW3kk7erKfKKYCfeJeK_ni_it90uCbXFNO2Op__eHAp9eZGsAtJ0no10Ahb1QQEgwouFKTkg03CnEZ-jCnH-O8fin0u8rvjG4m05uGNho-au4vajO_g62eFuShqUsrdWKJiJbF-Z2-hvDInOcBBy8XqQjpfp5llvKgstRtRgfAbnVRwzPWYDa3Ei2N2lVNmoL-vUyb3rqxVXhfRx4TRcjxFf07IvyuAaA2l_iaZQaoYbYEWc-uKFqgeM0OuIFPo0FuQ4iBc780AbgdPl_91P8GWjLdTdUNnGfj2IN-IXb0H-m178uijgYY7w5xjbVV5Eiv7indK8eBjeImmCTZqCni0UKduk5zMpx6wxdjVPkugDuOXL6we9cBfflwzfrRoaheYnKOp7G7q8hqbfzb26Pvc7l2wiM7KMX0xyUjw2tSgt7Si8I0&ap=0.018263&tid=72&gprice=BAJm6lqt-sxlrEi_h4IvrgcuT_gFWozzalKU8p5SXP0&campaignid=5748845&c_sync=1&google_click_url=https://adclick.g.doubleclick.net/aclk%3Fsa%3DL%26ai%3DCR6XMB3EFa5u4KpWJid4PyZaW4A7Wy6qsbdLw7a35EMCNtwEQASCOpt-uAWCb24KPwCnIAQngAgCoAwHIAwKqBJsCT9BpoovTL7Q80wxmUwz6i1TTjO2xY2BSDsNvlAiSMTPX_alyBuo0ZFOH2rOtn3dnt5d1XZMslxA4d0NzSSy57H43dT7Ts63HbFJDAj_Hk5jDMTpU3WvnC0om1N9OToGjDHNhcE3L8qCu5LqyxYwEdQ_DEAEJV2epHEOnfyGzPvC4m9BsqA5Kj9gaxDTOaj_4c3t9OzbWA-6LDbB3BTu7Fhl9LmB9D72BviCiPkx9h9lhGXWS0EKJPXfFrB-8YFmgE1Qe8RY_jf1HMGrrAhiWOkJ3RIB0gJczTexk8-jZ5nUmrUKWq2dwDxs6HfyqN8QDT_FsqluWPW4y2v6Q5qEtM9S--8ujtjLxGfSF_C4iVCyEjJhVgLCg_E8IbeAEAYAGmJDsiOeN-fDWAaAGIagHk9ixAqgHlNixAqgHldixAqgHqeuxAqgHpr4bqAeW2BuoB6qbsQKoB_-esQKoB9-fsQKoB_7osQKoB62-sQKoB7_TsQLYBwDSCDAIgGEQATIIioKAgICAgAg6D4BAgMCAgICAqIACqIOAGEi9_cE6WPDkzL-8oJgDYAD6CwIIAYAMAaoNAktS4g0TCMKzzb-8oJgDFZVEwgUdSYsF7OoNEwjGlc6_vKCYAxWVRMIFHUmLBeyIDv___________wHQFQGAFwGyFxAYDCoKODU4NDY1OTQ1NlABqhgXCf_UeOkGIMxAEgo4NTg0NjU5NDU2GAE%26num%3D1%26sig%3DAOD64_2GxtNiWjypJzf6MrQfu2UrKaiVlQ%26adurl%3D
+                    - 'img "대기 시간 없이, 순수한 아드레날린을 느껴보세요: 단 몇 분 만에 무료 5대5 로봇 전투를 즐기세요" [ref=f16e8]'
+                    - 'heading "대기 시간 없이, 순수한 아드레날린을 느껴보세요: 단 몇 분 만에 무료 5대5 로봇 전투를 즐기세요" [level=3] [ref=f16e9]'
+                    - generic [ref=f16e10]: 게임 레이더
+            - figure [ref=f6e408]:
+              - generic [ref=f6e410]:
+                - link [ref=f6e411]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%86%92%EC%9D%80-%EC%B0%BD%EB%AC%B8%EC%97%90%EC%84%9C-%EB%B3%B8-%EB%8F%84%EC%8B%9C-%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%9D%BC%EC%9D%B8-ryGOLKWJ6Ig
+                  - img "어두운 내부 창문 멀리언으로 둘러싸인 광활한 도시 스카이라인의 흐릿한 항공 사진입니다" [ref=f6e412]
+                - link [ref=f6e413] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%2586%2592%25EC%259D%2580-%25EC%25B0%25BD%25EB%25AC%25B8%25EC%2597%2590%25EC%2584%259C-%25EB%25B3%25B8-%25EB%258F%2584%25EC%258B%259C-%25EC%258A%25A4%25EC%25B9%25B4%25EC%259D%25B4%25EB%259D%25BC%25EC%259D%25B8-ryGOLKWJ6Ig
+            - figure [ref=f6e416]:
+              - link [ref=f6e419]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B3%A1%EC%84%A0%ED%98%95-%ED%8C%8C%EB%9E%80%EC%83%89-%EA%B1%B4%EC%B6%95-%ED%8C%A8%EB%84%90-%EA%B2%A9%EC%9E%90-WCL1Ra0pkUw
+                - img "어두운 배경 위에 격자 무늬가 있는 곡선형 파란색 건축 패널 구조물입니다" [ref=f6e420]
+            - figure [ref=f6e421]:
+              - generic [ref=f6e423]:
+                - link [ref=f6e424]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%8C%80%EB%A6%AC%EC%84%9D-%EC%B9%B4%EC%9A%B4%ED%84%B0%EC%99%80-%ED%98%B8%ED%99%94%EB%A1%9C%EC%9A%B4-%EC%A2%8C%EC%84%9D%EC%9D%B4-%EC%9E%88%EB%8A%94-%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8-%EB%B0%94%EC%9E%85%EB%8B%88%EB%8B%A4-AFqywRJbX9k
+                  - img "대리석 카운터와 호화로운 좌석이 있는 현대적인 바입니다" [ref=f6e425]
+                - link [ref=f6e426] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%258C%2580%25EB%25A6%25AC%25EC%2584%259D-%25EC%25B9%25B4%25EC%259A%25B4%25ED%2584%25B0%25EC%2599%2580-%25ED%2598%25B8%25ED%2599%2594%25EB%25A1%259C%25EC%259A%25B4-%25EC%25A2%258C%25EC%2584%259D%25EC%259D%25B4-%25EC%259E%2588%25EB%258A%2594-%25ED%2598%2584%25EB%258C%2580%25EC%25A0%2581%25EC%259D%25B8-%25EB%25B0%2594%25EC%259E%2585%25EB%258B%2588%25EB%258B%25A4-AFqywRJbX9k
+            - figure [ref=f6e429]:
+              - link [ref=f6e432]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%85%B8%EB%9E%80%EC%83%89-%EC%BD%94%EB%93%80%EB%A1%9C%EC%9D%B4-%EC%86%8C%ED%8C%8C-%EC%9C%84-%EA%B7%B8%EB%A6%BC-THK9jDii__Y
+                - img "노란색 코듀로이 소파 위에 놓인 음식 위 테이블의 그림이었다" [ref=f6e433]
+            - figure [ref=f6e434]:
+              - generic [ref=f6e436]:
+                - link [ref=f6e437]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%8B%A4%EC%B1%84%EB%A1%9C%EC%9A%B4-%EC%95%84%ED%8C%8C%ED%8A%B8-%EA%B1%B4%EB%AC%BC-%EC%99%B8%EA%B4%80-isSRjjSi11M
+                  - img "반복되는 창문과 에어컨이 있는 다채로운 아파트 건물 외관의 수직 전경" [ref=f6e438]
+                - link [ref=f6e439] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%258B%25A4%25EC%25B1%2584%25EB%25A1%259C%25EC%259A%25B4-%25EC%2595%2584%25ED%258C%258C%25ED%258A%25B8-%25EA%25B1%25B4%25EB%25AC%25BC-%25EC%2599%25B8%25EA%25B4%2580-isSRjjSi11M
+          - generic [ref=f6e442]:
+            - figure [ref=f6e443]:
+              - generic [ref=f6e445]:
+                - link [ref=f6e446]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B0%9C%EC%BD%94%EB%8B%88%EC%99%80-%EB%B0%9C%EC%BD%94%EB%8B%88%EA%B0%80%EC%9E%88%EB%8A%94-%EA%B3%A0%EC%B8%B5-%EA%B1%B4%EB%AC%BC-PnKhXksESgg
+                  - img "발코니와 발코니가있는 고층 건물" [ref=f6e447]
+                - link [ref=f6e448] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%25B0%259C%25EC%25BD%2594%25EB%258B%2588%25EC%2599%2580-%25EB%25B0%259C%25EC%25BD%2594%25EB%258B%2588%25EA%25B0%2580%25EC%259E%2588%25EB%258A%2594-%25EA%25B3%25A0%25EC%25B8%25B5-%25EA%25B1%25B4%25EB%25AC%25BC-PnKhXksESgg
+            - figure [ref=f6e451]:
+              - link [ref=f6e454]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%91%90%EB%B0%94%EC%9D%B4%EC%9D%98-%EC%9C%A0%EB%A6%AC-%EB%B0%8F-%EA%B0%95%EC%B2%A0-%EB%A7%88%EC%B2%9C%EB%A3%A8-zRPY5N4g2Rs
+                - img "두바이의 흐릿한 하늘을 배경으로 유리와 강철 마천루들이 솟아오른다" [ref=f6e455]
+            - figure [ref=f6e456]:
+              - link [ref=f6e459]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%8A%A4%ED%86%A1%ED%99%80%EB%A6%84-%EC%99%95%EA%B6%81%EC%9D%98-%EC%B0%BD%EB%AC%B8-DSPiOXBmdwg
+                - img "스톡홀름 왕궁의 높은 창문, 빛이 바닥에 그림자를 드리우는 모습" [ref=f6e460]
+            - figure [ref=f6e461]:
+              - link [ref=f6e464]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B2%80%EC%9D%80-%EB%8C%80%EB%A6%AC%EC%84%9D%EA%B3%BC-%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84-%EB%B2%BD%EB%82%9C%EB%A1%9C-HlxkxVsy26c
+                - img "검은 대리석 둘러싸인 벽난로와 밝은 거실에 설치된 텔레비전이 있습니다" [ref=f6e465]
+            - figure [ref=f6e466]:
+              - generic [ref=f6e468]:
+                - link [ref=f6e469]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B0%80%EA%B5%AC%EC%99%80-%ED%99%94%EB%8D%95%EC%9C%BC%EB%A1%9C-%EA%B0%80%EB%93%9D%ED%95%9C-%EA%B1%B0%EC%8B%A4-3ttZRUvPI6U
+                  - img "가구와 화덕으로 가득한 거실" [ref=f6e470]
+                - link [ref=f6e471] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EA%25B0%2580%25EA%25B5%25AC%25EC%2599%2580-%25ED%2599%2594%25EB%258D%2595%25EC%259C%25BC%25EB%25A1%259C-%25EA%25B0%2580%25EB%2593%259D%25ED%2595%259C-%25EA%25B1%25B0%25EC%258B%25A4-3ttZRUvPI6U
+            - figure [ref=f6e474]:
+              - link [ref=f6e477]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%9D%90%EB%A6%B0-%ED%95%98%EB%8A%98%EC%9D%84-%EB%B0%B0%EA%B2%BD%EC%9C%BC%EB%A1%9C-%ED%95%9C-%EA%B8%B0%ED%95%98%ED%95%99%EC%A0%81-%EC%9C%A0%EB%A6%AC-%EA%B5%AC%EC%A1%B0-5FVvgWyqAXc
+                - img "창백한 흐린 하늘을 배경으로 서로 연결된 패널들이 있는 기하학적 유리 구조물" [ref=f6e478]
+            - figure [ref=f6e479]:
+              - link [ref=f6e482]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B9%9B%EB%82%98%EB%8A%94-%EB%93%B1%EB%B6%88%EC%9D%B4-%EC%9E%88%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%8B%9D%EB%8B%B9-%EA%B1%B4%EB%AC%BC-vhfai5TRcIo
+                - img "나무 벽이 따뜻한 노란 등불 줄지어 빛나는 일본 식당 건물" [ref=f6e483]
+          - generic [ref=f6e484]:
+            - figure [ref=f6e485]:
+              - link [ref=f6e488]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%BD%94%ED%8E%9C%ED%95%98%EA%B2%90%EC%9D%98-%EB%B8%94%EB%9E%99-%EB%8B%A4%EC%9D%B4%EC%95%84%EB%AA%AC%EB%93%9C-%EB%8F%84%EC%84%9C%EA%B4%80-%EC%95%84%ED%8A%B8%EB%A6%AC%EC%9B%80-M9psubdS5aw
+                - img "코펜하겐의 곡선형 목재 발코니가 있는 블랙 다이아몬드 도서관 아트리움의 위에서 내려다본 모습" [ref=f6e489]
+            - figure [ref=f6e490]:
+              - link [ref=f6e493]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%9D%90%EB%A6%B0-%ED%95%98%EB%8A%98%EC%9D%84-%EB%B0%B0%EA%B2%BD%EC%9C%BC%EB%A1%9C-%ED%8E%84%EB%9F%AD%EC%9D%B4%EB%8A%94-%EB%AF%B8%EA%B5%AD-%EA%B5%AD%EA%B8%B0-5vFIccaHr0A
+                - img "흐린 하늘을 배경으로 펄럭이는 미국 국기" [ref=f6e494]
+            - figure [ref=f6e495]:
+              - link [ref=f6e498]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%98%84%EB%8C%80-%EA%B1%B4%EB%AC%BC%EC%9D%98-%EB%82%98%EC%84%A0%ED%98%95-%EC%BD%98%ED%81%AC%EB%A6%AC%ED%8A%B8-%EA%B3%84%EB%8B%A8-3GbiZg8xKxE
+                - img "현대식 건물 내 어두운 계단과 금속 난간이 있는 나선형 콘크리트 계단." [ref=f6e499]
+            - figure [ref=f6e500]:
+              - link [ref=f6e503]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%88%B2%EC%9D%B4-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EB%8B%A4%EB%8B%A4%EB%AF%B8-%EB%B0%A9-hdIHBHS_qI4
+                - img "다다미 위에 놓인 낮은 나무 탁자와 의자, 숲이 내려다보이는 큰 창문 앞" [ref=f6e504]
+            - figure [ref=f6e505]:
+              - link [ref=f6e508]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B0%A9%EC%BD%95%EC%9D%98-%ED%99%94%EB%A0%A4%ED%95%9C-%EC%82%AC%EC%9B%90-%EB%8B%B4%EC%9E%A5-HEnrJgBeMaQ
+                - img "태국 방콕의 하얀 사원 벽에 장식된 화려한 도자기 꽃무늬" [ref=f6e509]
+            - figure [ref=f6e510]:
+              - link [ref=f6e513]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%98%A4%ED%94%88-%ED%94%8C%EB%9E%9C-%EA%B1%B0%EC%8B%A4-%EB%B0%8F-%EB%8B%A4%EC%9D%B4%EB%8B%9D%EB%A3%B8-MkNaa7tk5Gs
+                - img "파란색 소파와 나무 가구가 있는 오픈 플랜 거실과 다이닝룸" [ref=f6e514]
+            - figure [ref=f6e515]:
+              - link [ref=f6e518]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%8E%9C%EB%8D%98%ED%8A%B8-%EC%A1%B0%EB%AA%85%EC%9D%B4-%EB%8B%AC%EB%A6%B0-%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8-%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91-%EB%82%B4%EB%B6%80-mtdMdQISn-E
+                - img "유리 지붕 아래 매달린 펜던트 조명과 테이블이 있는 현대적인 레스토랑 내부입니다" [ref=f6e519]
+            - figure [ref=f6e520]:
+              - link [ref=f6e523]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%9D%BC%EB%AA%B0-%EB%95%8C-%EC%82%AC%EB%AC%B4%EC%8B%A4-%EA%B1%B4%EB%AC%BC-%EC%95%88%EC%9D%98-%EC%82%AC%EB%9E%8C%EB%93%A4-jM11MrNrkk4
+                - img "따뜻한 노을을 반사하는 현대식 오피스 빌딩 창문을 통해 보이는 사람들" [ref=f6e524]
+    - generic:
+      - region "Notifications"

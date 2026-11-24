@@ -1,0 +1,180 @@
+- generic [active] [ref=f141e1]:
+  - generic [ref=f141e4]:
+    - generic:
+      - link "콘텐츠로 건너뛰기":
+        - /url: "#"
+    - navigation [ref=f141e9]:
+      - generic [ref=f141e11]:
+        - generic [ref=f141e12]:
+          - generic "홈" [ref=f141e16]:
+            - link "홈" [ref=f141e17] [cursor=pointer]:
+              - /url: /
+          - generic "홈" [ref=f141e24]:
+            - link "홈" [ref=f141e25] [cursor=pointer]:
+              - /url: /
+          - generic "내 보드" [ref=f141e32]:
+            - link "내 보드" [ref=f141e33] [cursor=pointer]:
+              - /url: /saoproject26/
+          - generic "만들기" [ref=f141e40]:
+            - button "만들기" [ref=f141e41] [cursor=pointer]
+          - generic "업데이트" [ref=f141e283]:
+            - 'button "업데이트: 1004개 알림" [ref=f141e284] [cursor=pointer]'
+          - generic "메시지" [ref=f141e292]:
+            - button "메시지" [ref=f141e293] [cursor=pointer]
+        - generic "설정 및 지원" [ref=f141e57]:
+          - button "설정 및 지원" [ref=f141e58] [cursor=pointer]
+    - generic:
+      - complementary "꼬리말 부동 버튼"
+    - generic [ref=f141e65]:
+      - banner [ref=f141e66]:
+        - generic [ref=f141e70]:
+          - button "뒤로" [ref=f141e300] [cursor=pointer]
+          - generic [ref=f141e73]:
+            - generic:
+              - img "검색 아이콘"
+            - combobox "검색" [ref=f141e75]
+            - generic "이미지 업로드" [ref=f141e87]:
+              - button "Pinterest 렌즈" [ref=f141e88] [cursor=pointer]
+          - generic [ref=f141e102]:
+            - link "내 프로필" [ref=f141e107] [cursor=pointer]:
+              - /url: /saoproject26/
+            - button "계정" [ref=f141e119] [cursor=pointer]
+      - main [ref=f141e124]:
+        - generic [ref=f141e316]:
+          - generic [ref=f141e317]: 관련 상품 결과를 불러오는 중
+          - list [ref=f141e322]:
+            - listitem [ref=f141e323]:
+              - group "Closeup content container" [ref=f141e330]:
+                - generic [ref=f141e335]:
+                  - generic [ref=f141e339]:
+                    - list [ref=f141e340]:
+                      - generic [ref=f141e341]:
+                        - listitem [ref=f141e343]:
+                          - generic "반응" [ref=f141e346]:
+                            - button "반응" [ref=f141e347] [cursor=pointer]
+                          - generic [ref=f141e352]: "10"
+                        - listitem [ref=f141e354]:
+                          - generic "댓글" [ref=f141e357]:
+                            - button "댓글" [ref=f141e358] [cursor=pointer]
+                        - listitem [ref=f141e364]:
+                          - generic "공유" [ref=f141e368]:
+                            - button "이 핀 공유" [ref=f141e370] [cursor=pointer]
+                        - listitem [ref=f141e376]:
+                          - generic "추가 작업" [ref=f141e381]:
+                            - button "추가 작업" [ref=f141e383] [cursor=pointer]
+                    - generic [ref=f141e393]:
+                      - 'button "저장할 보드 선택: 재미있는 gif" [ref=f141e396] [cursor=pointer]':
+                        - generic "재미있는 gif" [ref=f141e399]
+                      - button "저장" [ref=f141e405] [cursor=pointer]
+                  - region "핀 이미지 및 탐색할 항목" [ref=f141e412]:
+                    - region "핀 이미지" [ref=f141e417]:
+                      - generic [ref=f141e425]:
+                        - button "더 크게 보기" [ref=f141e428] [cursor=pointer]:
+                          - generic [ref=f141e430]:
+                            - generic: 더 크게 보기
+                            - img "더 크게 보기" [ref=f141e432]
+                        - button "이미지 검색" [ref=f141e437] [cursor=pointer]:
+                          - generic [ref=f141e439]:
+                            - generic: 이미지 검색
+                            - img "이미지 검색" [ref=f141e441]
+                  - generic [ref=f141e443]:
+                    - generic [ref=f141e456]:
+                      - link [ref=f141e458] [cursor=pointer]:
+                        - /url: /scottandrews549/
+                        - img "Andrews Scott 아바타 링크" [ref=f141e465]
+                      - link [ref=f141e469] [cursor=pointer]:
+                        - /url: /scottandrews549/
+                        - heading "Andrews Scott" [level=2] [ref=f141e470]
+                    - generic [ref=f141e484]:
+                      - generic [ref=f141e486]:
+                        - button [ref=f141e488]
+                        - generic [ref=f141e492]:
+                          - generic: 의견을 공유하려면 댓글을 추가하세요.
+                          - combobox "의견을 공유하려면 댓글을 추가하세요." [ref=f141e494]
+                      - generic [ref=f141e503]:
+                        - button "이모티콘 선택" [ref=f141e504] [cursor=pointer]
+                        - button "스티커 선택" [ref=f141e509] [cursor=pointer]
+                        - button "사진을 선택합니다." [ref=f141e515] [cursor=pointer]
+            - listitem [ref=f141e520]:
+              - group "핀 카드" [ref=f141e525]:
+                - generic [ref=f141e527]:
+                  - link "Spiral swirls speed circular symbol twisted v 핀 페이지" [ref=f141e529] [cursor=pointer]:
+                    - /url: /pin/1101693127614432927/
+                    - 'img "포함된 이미지: Spiral swirls speed circular symbol twisted v" [ref=f141e539]'
+                  - generic "추가 작업" [ref=f141e547]:
+                    - button "추가 작업" [ref=f141e548] [cursor=pointer]
+            - listitem [ref=f141e553]:
+              - group "핀 카드" [ref=f141e558]:
+                - generic [ref=f141e560]:
+                  - link "제목 없음 핀 페이지" [ref=f141e562] [cursor=pointer]:
+                    - /url: /pin/253257179041753560/
+                    - img "포함된 이미지:" [ref=f141e572]
+                  - generic "추가 작업" [ref=f141e580]:
+                    - button "추가 작업" [ref=f141e581] [cursor=pointer]
+            - listitem [ref=f141e586]:
+              - group "핀 카드" [ref=f141e591]:
+                - generic [ref=f141e593]:
+                  - link "내면의 어지러운 마음을 추상적인 무언가로 표현해 봤습니다 [𝐎𝐫𝐚𝐮 𝐭𝐚𝐭𝐭𝐨𝐨 𝐨𝐩𝐞𝐧] ▪️예약 가능한 도안입니다. ▪️가능한 범위 내 도안 수정 / 맞춤 사이즈 제작 가능합니다. ✅️ 예약 및 상담 문의는 프로필 링크 > 오라우 타투 핀 페이지" [ref=f141e595] [cursor=pointer]:
+                    - /url: /pin/786722628690758808/
+                    - img "포함된 이미지:" [ref=f141e605]
+                  - generic "추가 작업" [ref=f141e613]:
+                    - button "추가 작업" [ref=f141e614] [cursor=pointer]
+            - listitem [ref=f141e619]:
+              - group "핀 카드" [ref=f141e624]:
+                - generic [ref=f141e626]:
+                  - link "temu.com" [ref=f141e630] [cursor=pointer]:
+                    - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=601104896495314&adg_ctx=a-04b02730~c-f880cc8e&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260609686956&_x_ads_id=2680089377386&_x_ads_set=626757961544&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260609686956&_x_ns_gid=601104896495314&_x_ns_product_id=17616983354067&_x_ns_prz_type=101&locale_override=185~~KRW&_x_bg_adid=1544353955&_x_ads_account=549767591651&utm_campaign=626757961544&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680089377386&pp=0
+                    - 'img "포함된 이미지: Temu | 트렌디한 칼꽃 토템 디자인의 임시" [ref=f141e641]'
+                  - generic [ref=f141e645]:
+                    - generic [ref=f141e646]:
+                      - generic [ref=f141e647]:
+                        - generic:
+                          - heading [level=2]
+                      - link "Temu_Korea 후원 핀" [ref=f141e650] [cursor=pointer]:
+                        - /url: /ads_fb40/
+                        - generic [ref=f141e652]:
+                          - generic [ref=f141e653]: Temu_Korea
+                          - generic [ref=f141e654]: 후원 핀
+                    - generic "추가 작업" [ref=f141e662]:
+                      - button "추가 작업" [ref=f141e663] [cursor=pointer]
+            - listitem [ref=f141e668]:
+              - group "핀 카드" [ref=f141e673]:
+                - generic [ref=f141e675]:
+                  - link "temu.com" [ref=f141e679] [cursor=pointer]:
+                    - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=601101083733333&adg_ctx=a-508bceff~c-022696cc&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260608657129&_x_ads_id=2680082645523&_x_ads_set=626753445840&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260608657129&_x_ns_gid=601101083733333&_x_ns_product_id=17598174797737&_x_ns_prz_type=101&locale_override=185~~KRW&utm_campaign=626753445840&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680082645523&pp=0
+                    - 'img "포함된 이미지: Temu | 1팩 임시 타투 스티커 - 블랙" [ref=f141e690]'
+                  - generic [ref=f141e694]:
+                    - generic [ref=f141e695]:
+                      - generic [ref=f141e696]:
+                        - generic:
+                          - heading [level=2]
+                      - link "Temu_Korea 후원 핀" [ref=f141e699] [cursor=pointer]:
+                        - /url: /ads_fb40/
+                        - generic [ref=f141e701]:
+                          - generic [ref=f141e702]: Temu_Korea
+                          - generic [ref=f141e703]: 후원 핀
+                    - generic "추가 작업" [ref=f141e711]:
+                      - button "추가 작업" [ref=f141e712] [cursor=pointer]
+            - listitem [ref=f141e717]:
+              - group "핀 카드" [ref=f141e722]:
+                - generic [ref=f141e724]:
+                  - link "uniqlo.com" [ref=f141e728] [cursor=pointer]:
+                    - /url: https://www.uniqlo.com/kr/ko/special-feature/cp/thanksday?utm_source=pinterest&utm_medium=display&utm_campaign=26fw_kanshasai&utm_term=261123_mw1865_reach_pre_kv&utm_content=pinterest_standard_pin&pp=0
+                    - 'img "포함된 이미지: 유니클로 감사제 미리보기" [ref=f141e739]'
+                  - generic [ref=f141e743]:
+                    - generic [ref=f141e744]:
+                      - generic [ref=f141e745]:
+                        - generic:
+                          - heading [level=2]
+                      - link "uniqlokr 후원 핀" [ref=f141e748] [cursor=pointer]:
+                        - /url: /2024dmcuniqlo/
+                        - generic [ref=f141e750]:
+                          - generic [ref=f141e751]: uniqlokr
+                          - generic [ref=f141e752]: 후원 핀
+                    - generic "추가 작업" [ref=f141e760]:
+                      - button "추가 작업" [ref=f141e761] [cursor=pointer]
+    - generic:
+      - contentinfo "꼬리말"
+  - generic:
+    - generic:
+      - region "Toast notification"

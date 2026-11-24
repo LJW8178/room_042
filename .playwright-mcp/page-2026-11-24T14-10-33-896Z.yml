@@ -1,0 +1,155 @@
+- generic [active] [ref=f127e1]:
+  - generic [ref=f127e4]:
+    - generic:
+      - link "콘텐츠로 건너뛰기":
+        - /url: "#"
+    - navigation [ref=f127e9]:
+      - generic [ref=f127e11]:
+        - generic [ref=f127e12]:
+          - generic "홈" [ref=f127e16]:
+            - link "홈" [ref=f127e17] [cursor=pointer]:
+              - /url: /
+          - generic "홈" [ref=f127e24]:
+            - link "홈" [ref=f127e25] [cursor=pointer]:
+              - /url: /
+          - generic "내 보드" [ref=f127e32]:
+            - link "내 보드" [ref=f127e33] [cursor=pointer]:
+              - /url: /saoproject26/
+          - generic "만들기" [ref=f127e40]:
+            - button "만들기" [ref=f127e41] [cursor=pointer]
+          - generic "업데이트" [ref=f127e50]:
+            - 'button "업데이트: 1004개 알림" [ref=f127e51] [cursor=pointer]'
+          - generic "메시지" [ref=f127e60]:
+            - button "메시지" [ref=f127e61] [cursor=pointer]
+        - generic "설정 및 지원" [ref=f127e70]:
+          - button "설정 및 지원" [ref=f127e71] [cursor=pointer]
+    - generic:
+      - complementary "꼬리말 부동 버튼"
+    - generic [ref=f127e78]:
+      - banner [ref=f127e79]:
+        - generic [ref=f127e83]:
+          - button "뒤로" [ref=f127e311] [cursor=pointer]
+          - generic [ref=f127e86]:
+            - generic:
+              - img "검색 아이콘"
+            - combobox "검색" [ref=f127e88]
+            - generic "이미지 업로드" [ref=f127e100]:
+              - button "Pinterest 렌즈" [ref=f127e101] [cursor=pointer]
+          - generic [ref=f127e115]:
+            - link "내 프로필" [ref=f127e120] [cursor=pointer]:
+              - /url: /saoproject26/
+            - button "계정" [ref=f127e132] [cursor=pointer]
+      - main [ref=f127e137]:
+        - generic [ref=f127e327]:
+          - generic [ref=f127e328]: 관련 상품 결과를 불러오는 중
+          - list [ref=f127e333]:
+            - listitem [ref=f127e334]:
+              - group "Closeup content container" [ref=f127e341]:
+                - generic [ref=f127e346]:
+                  - region "핀 이미지 및 탐색할 항목" [ref=f127e349]:
+                    - region "핀 이미지" [ref=f127e354]:
+                      - generic [ref=f127e362]:
+                        - button "더 크게 보기" [ref=f127e365] [cursor=pointer]:
+                          - generic [ref=f127e367]:
+                            - generic: 더 크게 보기
+                            - img "더 크게 보기" [ref=f127e369]
+                        - button "이미지 검색" [ref=f127e374] [cursor=pointer]:
+                          - generic [ref=f127e376]:
+                            - generic: 이미지 검색
+                            - img "이미지 검색" [ref=f127e378]
+                  - generic [ref=f127e380]:
+                    - generic [ref=f127e383]:
+                      - list [ref=f127e384]:
+                        - generic [ref=f127e385]:
+                          - listitem [ref=f127e387]:
+                            - generic "반응" [ref=f127e390]:
+                              - button "반응" [ref=f127e391] [cursor=pointer]
+                            - generic [ref=f127e396]: "93"
+                          - listitem [ref=f127e398]:
+                            - generic "댓글" [ref=f127e401]:
+                              - button "댓글" [ref=f127e402] [cursor=pointer]
+                          - listitem [ref=f127e408]:
+                            - generic "공유" [ref=f127e412]:
+                              - button "이 핀 공유" [ref=f127e414] [cursor=pointer]
+                          - listitem [ref=f127e420]:
+                            - generic "추가 작업" [ref=f127e425]:
+                              - button "추가 작업" [ref=f127e427] [cursor=pointer]
+                      - generic [ref=f127e437]:
+                        - 'button "저장할 보드 선택: 재미있는 gif" [ref=f127e440] [cursor=pointer]':
+                          - generic "재미있는 gif" [ref=f127e443]
+                        - button "저장" [ref=f127e449] [cursor=pointer]
+                    - button [ref=f127e473] [cursor=pointer]:
+                      - heading "댓글 4개" [level=2] [ref=f127e483]
+                      - generic [ref=f127e491]:
+                        - img [ref=f127e497]:
+                          - generic [ref=f127e498]: A
+                        - generic [ref=f127e505]:
+                          - text: "Alias:"
+                          - generic [ref=f127e506]: ¿Esto tiene copyrigth? Has this copyritgh?
+                    - generic [ref=f127e516]:
+                      - generic [ref=f127e518]:
+                        - button [ref=f127e520]
+                        - generic [ref=f127e524]:
+                          - generic: 댓글 추가
+                          - combobox "댓글 추가" [ref=f127e526]
+                      - generic [ref=f127e535]:
+                        - button "이모티콘 선택" [ref=f127e536] [cursor=pointer]
+                        - button "스티커 선택" [ref=f127e541] [cursor=pointer]
+                        - button "사진을 선택합니다." [ref=f127e547] [cursor=pointer]
+            - listitem [ref=f127e552]:
+              - group "핀 카드" [ref=f127e557]:
+                - generic [ref=f127e559]:
+                  - link "제목 없음 핀 페이지" [ref=f127e561] [cursor=pointer]:
+                    - /url: /pin/796363146615346069/
+                    - img "포함된 이미지:" [ref=f127e571]
+                  - generic "추가 작업" [ref=f127e579]:
+                    - button "추가 작업" [ref=f127e580] [cursor=pointer]
+            - listitem [ref=f127e585]:
+              - group "핀 카드" [ref=f127e590]:
+                - generic [ref=f127e592]:
+                  - generic [ref=f127e593]:
+                    - link "samsung.com" [ref=f127e596] [cursor=pointer]:
+                      - /url: https://www.samsung.com/sec/gateView?redirectUrl=https://www.samsung.com/sec/smartphones/galaxy-z-fold8/buy/?cid=sec_pd_social_pinterest_galaxy-z-fold8_sustain_br-i261103_video_standardvideo-i261103-v14-9s-v_bmf1854-cuin&utm_campaign=626760350436&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680093089901
+                      - img "원이가 갤럭시와 함께한 이유 예뻐서 Galaxy Z Fold8" [ref=f127e613]
+                    - generic: 0:08
+                  - generic [ref=f127e617]:
+                    - generic [ref=f127e618]:
+                      - generic [ref=f127e619]:
+                        - generic:
+                          - heading [level=2]
+                      - link "삼성전자 Samsung Korea 후원 핀" [ref=f127e622] [cursor=pointer]:
+                        - /url: /adlbh0143/
+                        - generic [ref=f127e624]:
+                          - generic [ref=f127e625]: 삼성전자 Samsung Korea
+                          - generic [ref=f127e626]: 후원 핀
+                    - generic "추가 작업" [ref=f127e634]:
+                      - button "추가 작업" [ref=f127e635] [cursor=pointer]
+            - listitem [ref=f127e640]:
+              - group "핀 카드" [ref=f127e645]:
+                - generic [ref=f127e647]:
+                  - link "Instagram 핀 페이지" [ref=f127e649] [cursor=pointer]:
+                    - /url: /pin/1040190845214590413/
+                    - img "포함된 이미지:" [ref=f127e659]
+                  - generic "추가 작업" [ref=f127e667]:
+                    - button "추가 작업" [ref=f127e668] [cursor=pointer]
+            - listitem [ref=f127e673]:
+              - group "핀 카드" [ref=f127e678]:
+                - generic [ref=f127e680]:
+                  - link "Minimalist Line Art 핀 페이지" [ref=f127e682] [cursor=pointer]:
+                    - /url: /pin/1088604541220680906/
+                    - 'img "포함된 이미지: Minimalist Line Art" [ref=f127e692]'
+                  - generic "추가 작업" [ref=f127e700]:
+                    - button "추가 작업" [ref=f127e701] [cursor=pointer]
+            - listitem [ref=f127e706]:
+              - group "핀 카드" [ref=f127e711]:
+                - generic [ref=f127e713]:
+                  - link "제목 없음 핀 페이지" [ref=f127e715] [cursor=pointer]:
+                    - /url: /pin/1135047912328328296/
+                    - img "포함된 이미지:" [ref=f127e725]
+                  - generic "추가 작업" [ref=f127e733]:
+                    - button "추가 작업" [ref=f127e734] [cursor=pointer]
+    - generic:
+      - contentinfo "꼬리말"
+  - generic:
+    - generic:
+      - region "Toast notification"

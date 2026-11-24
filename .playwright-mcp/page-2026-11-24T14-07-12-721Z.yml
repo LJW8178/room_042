@@ -1,0 +1,231 @@
+- generic [ref=f6e4]:
+  - navigation [ref=f6e5]:
+    - generic [ref=f6e6]:
+      - generic [ref=f6e7]:
+        - link "Unsplash 홈" [ref=f6e1124] [cursor=pointer]:
+          - /url: /ko
+          - img "Unsplash 홈" [ref=f6e1125]
+        - link "사진" [ref=f6e1126] [cursor=pointer]:
+          - /url: /ko
+        - link "일러스트" [ref=f6e1127] [cursor=pointer]:
+          - /url: /ko/%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8
+      - generic [ref=f6e17]:
+        - button "탐색" [ref=f6e1128] [cursor=pointer]
+        - button "컬렉션" [ref=f6e1129] [cursor=pointer]
+        - button "다운로드 내역" [ref=f6e1130] [cursor=pointer]
+      - button "북마크" [ref=f6e1131] [cursor=pointer]
+    - generic [ref=f6e31]:
+      - link "로그인 / 가입" [ref=f6e1132] [cursor=pointer]:
+        - /url: /ko/%EB%A1%9C%EA%B7%B8%EC%9D%B8?referrer=%2Fko%2Ft%2Ftextures-patterns
+      - button "언어" [ref=f6e1133] [cursor=pointer]
+      - button "메뉴" [ref=f6e1134] [cursor=pointer]
+  - generic [ref=f6e41]:
+    - generic [ref=f6e42]:
+      - navigation [ref=f6e43]:
+        - search "사이트 전체에서 이미지 찾기" [ref=f6e1135]:
+          - button "Unsplash 검색" [ref=f6e1136] [cursor=pointer]
+          - combobox [ref=f6e49]:
+            - searchbox "Unsplash 검색" [ref=f6e1137]
+            - listbox
+          - button "시각적 검색" [ref=f6e1138] [cursor=pointer]
+        - generic [ref=f6e55]:
+          - link "Unsplash+ 구독" [ref=f6e1139] [cursor=pointer]:
+            - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4
+          - link "로그인" [ref=f6e1140] [cursor=pointer]:
+            - /url: /ko/%EB%A1%9C%EA%B7%B8%EC%9D%B8?referrer=%2Fko%2Ft%2Ftextures-patterns
+        - button "이미지 제출" [ref=f6e1141] [cursor=pointer]
+      - list [ref=f6e65]:
+        - listitem [ref=f6e66]:
+          - link "추천" [ref=f6e1142] [cursor=pointer]:
+            - /url: /ko
+        - listitem [ref=f6e67]:
+          - link "새로운 사항 가을에" [ref=f6e1143] [cursor=pointer]:
+            - /url: /ko/t/Fall
+            - generic [ref=f6e69]:
+              - generic [ref=f6e70]: 새로운 사항
+              - text: 가을에
+        - listitem [ref=f6e71]:
+          - link "배경 화면" [ref=f6e1144] [cursor=pointer]:
+            - /url: /ko/t/wallpapers
+        - listitem [ref=f6e73]:
+          - link "자연" [ref=f6e1145] [cursor=pointer]:
+            - /url: /ko/t/nature
+        - listitem [ref=f6e75]:
+          - link "3D 렌더링" [ref=f6e1146] [cursor=pointer]:
+            - /url: /ko/t/3d-renders
+        - listitem [ref=f6e77]:
+          - link "실험적인" [ref=f6e1147] [cursor=pointer]:
+            - /url: /ko/t/experimental
+        - listitem [ref=f6e79]:
+          - link "필름" [ref=f6e1148] [cursor=pointer]:
+            - /url: /ko/t/film
+        - listitem [ref=f6e81]:
+          - link "거리 사진" [ref=f6e1149] [cursor=pointer]:
+            - /url: /ko/t/street-photography
+        - listitem [ref=f6e83]:
+          - link "건축학" [ref=f6e84] [cursor=pointer]:
+            - /url: /ko/t/architecture-interior
+        - listitem [ref=f6e85]:
+          - link "텍스처" [active]:
+            - /url: /ko/t/textures-patterns
+        - listitem [ref=f6e87]:
+          - link "여행" [ref=f6e1151] [cursor=pointer]:
+            - /url: /ko/t/travel
+        - listitem [ref=f6e89]:
+          - link "인류" [ref=f6e1152] [cursor=pointer]:
+            - /url: /ko/t/people
+      - generic [ref=f6e336]:
+        - generic [ref=f6e338]:
+          - generic [ref=f6e340]:
+            - banner [ref=f6e341]:
+              - heading "텍스처" [level=1] [ref=f6e1295]
+              - generic [ref=f6e343]:
+                - link "Unsplash" [ref=f6e1296] [cursor=pointer]:
+                  - /url: /ko/@unsplash
+                - text: 에서 큐레이팅
+            - generic [ref=f6e345]: 멋진 매크로 사진을 찾고 있든 복잡한 건축 모양의 사진을 찾고 있든 상관없이 제대로 찾아오셨습니다.
+            - button [ref=f6e1298] [cursor=pointer]:
+              - strong [ref=f6e1299]: 텍스처
+              - text: 에 제출
+          - generic [ref=f6e351]:
+            - heading "월간 상위 출품자" [level=3] [ref=f6e1156]
+            - generic [ref=f6e355]:
+              - link "Pawel Czerwinski 7개 이미지" [ref=f6e1300] [cursor=pointer]:
+                - /url: /ko/@pawel_czerwinski
+                - generic [ref=f6e1302]:
+                  - generic [ref=f6e1303]: Pawel Czerwinski
+                  - generic [ref=f6e1304]: 7개 이미지
+              - link "Planet Volumes 5개 이미지" [ref=f6e1305] [cursor=pointer]:
+                - /url: /ko/@planetvolumes
+                - generic [ref=f6e1307]:
+                  - generic [ref=f6e1308]: Planet Volumes
+                  - generic [ref=f6e1309]: 5개 이미지
+              - link "Resource Database 5개 이미지" [ref=f6e1310] [cursor=pointer]:
+                - /url: /ko/@resourcedatabase
+                - generic [ref=f6e1312]:
+                  - generic [ref=f6e1313]: Resource Database
+                  - generic [ref=f6e1314]: 5개 이미지
+              - link "Sebastian Schuster 5개 이미지" [ref=f6e1315] [cursor=pointer]:
+                - /url: /ko/@sschusterphotoart
+                - generic [ref=f6e1317]:
+                  - generic [ref=f6e1318]: Sebastian Schuster
+                  - generic [ref=f6e1319]: 5개 이미지
+          - generic [ref=f6e381]:
+            - link "추천" [ref=f6e1321]:
+              - /url: /ko/%EC%82%AC%EC%A7%84/%EC%A7%99%EC%9D%80-%EB%85%B9%EC%83%89-%EB%8F%8C-%EC%A7%88%EA%B0%90-fxJqm7nlRjo
+            - link "Evan Marvell" [ref=f6e1322] [cursor=pointer]:
+              - /url: /ko/@evan_marvell
+        - generic [ref=f6e1327]:
+          - generic [ref=f6e1328]:
+            - generic [ref=f6e1329]:
+              - contentinfo [ref=f6e1334]:
+                - generic [ref=f6e1335]: –– ––– ––– –– ––– – ––– ––– –––– – – –– ––– – – ––– –– –– –––– ––
+                - generic [ref=f6e1341] [cursor=pointer]
+              - iframe [ref=f6e1344]:
+                - generic [ref=f22e3]:
+                  - link [ref=f22e4] [cursor=pointer]:
+                    - /url: //discovery.popin.cc/home/privacy.html
+                  - link "‘실비보험’ 비교 안하면 손해! 보험료 차이 바로 확인 ‘실비보험’ 비교 안하면 손해! 보험료 차이 바로 확인 굿리치 [등록번호:제2006038313호]" [ref=f22e7] [cursor=pointer]:
+                    - /url: https://trace.popin.cc/ju/ic?tn=c92aad1999f497c1a6c2ff886123e07c&trackingid=56ddd2bc6bb8c5573f79858cb1f116b6&acid=1152&data=F7qkXG4UoRflElHX2H9q9nU-syJAxVxToD1mOb3doFvm65jf8xFc3iPVW295fUvIKT_HeTep068xv4cTFG8JDgq7yhw3af2hWJXJaOKpXjuxj-Y-TncMHV6jjexJp10Y4q73fl2OGEK_qLB3IhE5-RQzK5CpYWOjoPDKI3vU3cOcN8xSNJVO86v9OmtefghSEyH0qwE3vsPTJ8EnjGgDw3rzb6wT9AeAebyaV2M5cYwTpIlcPvDiKTtPSV1JTqSA172oL92Be2nWIwCKv_5ITXd3FcbrTUWZOdeQzkB-i4LeW44ub9YgRT5Q7bWe4x5ObYNPq8YBi5KZTM_-YPiOiQ597lwsgZVWY18JvH2xxE2-SnNDLg5oXc7JtoH2ckjfGNQRY0vTr1KqJ9a1TyIdUli8p_VsWFxzoN15ROBHzO8TCJjyEl507Qxemw7fEU6WMRUhEXw_qYuD2nNHjems5A_hx7jFY9Rpo5AwKVBFzHRK9xwt73kkT_lwjECfOr3pPf3fIvzLJUCxUxUNbnDWPBr4u-5d4lnAKAQP5_0SGIoXOnGCpSwXJJ3Z9BKkFzy9moyGvsUmyd2gK2RqbzgLlc2Zi9SdJgZZM9H6Kun8KRrD39L4GjDe0USGC_D6YOQqulUgA21SbxL3f2GFZ0vfYFO79A3P7ZhPXfAxRL60ObThTOfQjUCuPhRVdzXiEOT2NmNbAam9KzysfD31hts-4Qbdg-_xPVClVc-XB15w6L0j05mEWpi6GxSunS90F7jrw8nBwZfgwwsm9JdR8EVvrq3Q7SgAXVXvFBJgZ9hNvmoQ7azTQCeWkdhstYtQbFRiQoMpIDbjDQWXbiRf9yHG6rPk_v0ifAm3FWR_wZpWme7u7nKP-C7zHBxkcqGXYdlW7F2xeZaqVapTKcAdCyi1e-Lesa9XlypvIUc0lmkTGSLhFnR1yajJ_LltkCswEMe1qagEx8g5ZnZp4iYBOvQZNsG-5-eq_XzkcAQ8WZ_cfa9Qbq2u2kKkQyOfuaG5OJFWnIsW8e_huxI6DX87p0wEpgUHXCuWR7CkXcln9yPWlnwpQOoTlJAf7oYEsoSokCt0E7QGGiw2pHKiUFVe4aSol_KlQh2NV5JXb4eP-JnC3-SaaZ6pFVD1oKqdpJ7xqz-9KG7chRwlJB_YV3anRWE3u2K2Q8qzqzGu0uw9ZpHZlSW1_9bNfJg5l0f6xj3w1CNpGmvZynBK7jLPCESfGQttXXlpbQhv9DEuVER6XHlK4X1CTHT1eGgeOZ8vzG8n0bAq&ap=0.010001&tid=72&gprice=0FXmUXgTw4KopHnJtLH52I1bjKiZWOydNEr8MX44g7M&campaignid=5024112&c_sync=1&google_click_url=https://adclick.g.doubleclick.net/aclk%3Fsa%3DL%26ai%3DCOetQD5oFa6y7CpqV29gP2Y7GoArWy6qsbdLw7a35EMCNtwEQASCOpt-uAWCb24KPwCnIAQngAgCoAwHIAwKqBJsCT9A_uH7nzmvBB6SaMkvxA8ekFriC4Tti8SOnOAwczacLphAcsLRASVhfPItw0Ob7Dr86aMRpFxIzfpFCmyUoFPuhPiWaJjJDmjfWFyDbw2EnOPX4HdFDHWf2__ornJGgDJM1VIE4VA2JWQxCnB_UDrYkS0bXI5geG9Q7M-aQr837sLFWcJ6VlFKewZgS9C8peUu9fKyMcjQI1pGUW7sV62tzRI_CYxzsAt4EgnWo4mbf5PowdD4WT_rPR2f9ZzupJF_NbmNDcfOpXAvjDYWX_KKxEJuPslFBjuAZklFs7yJe3GULOYdg-4PkN-z4gZV3LHr8elaPc51SB5ReUVJSHqGENCBvnCotVETwEaHuqn-C9gcsSUK_idd3luAEAYAGvPb5-LOWiK0koAYhqAeT2LECqAeU2LECqAeV2LECqAep67ECqAemvhuoB5bYG6gHqpuxAqgH_56xAqgH35-xAqgH_uixAqgHrb6xAqgHv9OxAtgHANIIMAiAYRABMgiKgoCAgICACDoPgECAwICAgICogAKog4AYSL39wTpYhMiG0OOgmANgAPoLAggBgAwBqg0CS1LiDRMI34WH0OOgmAMVmsoWBR1ZhxGk6g0TCL_Vh9DjoJgDFZrKFgUdWYcRpIgO____________AdAVAYAXAbIXEBgMKgo4NTg0NjU5NDU2UAGqGBcJ43oUrgdAv0ASCjg1ODQ2NTk0NTYYAQ%26num%3D1%26sig%3DAOD64_3aUHvioWp-ZlrgdScqE-JIg8j91g%26adurl%3D
+                    - img "‘실비보험’ 비교 안하면 손해! 보험료 차이 바로 확인" [ref=f22e8]
+                    - heading "‘실비보험’ 비교 안하면 손해! 보험료 차이 바로 확인" [level=3] [ref=f22e9]
+                    - generic [ref=f22e10]: 굿리치 [등록번호:제2006038313호]
+            - figure [ref=f6e1345]:
+              - link [ref=f6e1348]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%B6%94%EC%83%81%EC%A0%81%EC%9D%B8-%EB%85%B9%EC%83%89-%EB%B0%8F-%EC%B2%AD%EB%A1%9D%EC%83%89-%ED%8C%8C%EB%8F%84-8M9IdHOdrs4
+                - img "부드럽게 빛나는 빛이 어우러진 추상적인 녹색과 청록색 물결치는 3D 렌더링" [ref=f6e1349]
+            - figure [ref=f6e1350]:
+              - link [ref=f6e1353]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/454-%EC%97%A0%EB%B8%94%EB%9F%BC%EC%9D%B4-%EB%B6%80%EC%B0%A9%EB%90%9C-%EC%9E%90%EB%8F%99%EC%B0%A8-%EB%B3%B4%EB%8B%9B-Zj-u0gwYDK4
+                - img "야자수를 반영한 454 엠블럼이 새겨진 짙은 녹색 자동차 보닛" [ref=f6e1354]
+            - figure [ref=f6e1355]:
+              - link [ref=f6e1358]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%A7%99%EC%9D%80-%EC%B2%AD%EB%A1%9D%EC%83%89-%EA%B8%88%EC%86%8D-%EC%9B%90%EB%8B%A8-%EC%A0%91%ED%9E%98-iCXxXx5CdTg
+                - img "은은한 금속성 광택이 나는 짙은 청록색 천의 세로 주름" [ref=f6e1359]
+            - figure [ref=f6e1360]:
+              - link [ref=f6e1363]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B0%90%EA%B8%B4-%EC%9D%80%EC%83%89-%EA%B8%88%EC%86%8D-%EC%99%80%EC%9D%B4%EC%96%B4-OGRzSNnbXIs
+                - img "얇은 은색 금속 와이어가 원통형 실타래에 단단히 감긴 클로즈업" [ref=f6e1364]
+            - figure [ref=f6e1365]:
+              - generic [ref=f6e1367]:
+                - link [ref=f6e1368]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%84%9C%EB%A6%AC-%EA%B2%B0%EC%A0%95%EA%B3%BC-%ED%91%B8%EB%A5%B8-%EB%B9%9B%EB%82%98%EB%8A%94-%EC%9B%90%EB%93%A4-CgiFSitZkqU
+                  - img "짙은 질감의 표면에 푸른 빛나는 원이 있는 밀도 높은 서리 결정" [ref=f6e1369]
+                - link [ref=f6e1370] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EC%2584%259C%25EB%25A6%25AC-%25EA%25B2%25B0%25EC%25A0%2595%25EA%25B3%25BC-%25ED%2591%25B8%25EB%25A5%25B8-%25EB%25B9%259B%25EB%2582%2598%25EB%258A%2594-%25EC%259B%2590%25EB%2593%25A4-CgiFSitZkqU
+            - figure [ref=f6e1373]:
+              - link [ref=f6e1376]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%A7%81%EC%A1%B0-%EA%B8%88%EC%86%8D-%EA%B1%B4%EC%B6%95-%EC%A7%88%EA%B0%90-RmbB0Mbcjj0
+                - img "겹쳐진 천공 금속 스트립 패턴이 짜인 건축적 질감을 만들어낸다" [ref=f6e1377]
+          - generic [ref=f6e1378]:
+            - figure [ref=f6e1379]:
+              - generic [ref=f6e1381]:
+                - link [ref=f6e1382]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%85%B9%EC%83%89-%ED%83%80%EC%9D%BC-%EC%95%84%ED%8C%8C%ED%8A%B8-%EA%B1%B4%EB%AC%BC-%EC%99%B8%EA%B4%80-wCLD4vbDxto
+                  - img "많은 창문과 에어컨이 있는 녹색 타일 아파트 건물의 외관입니다" [ref=f6e1383]
+                - link [ref=f6e1384] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%2585%25B9%25EC%2583%2589-%25ED%2583%2580%25EC%259D%25BC-%25EC%2595%2584%25ED%258C%258C%25ED%258A%25B8-%25EA%25B1%25B4%25EB%25AC%25BC-%25EC%2599%25B8%25EA%25B4%2580-wCLD4vbDxto
+            - figure [ref=f6e1387]:
+              - generic [ref=f6e1389]:
+                - link [ref=f6e1390]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%86%8C%EC%9A%A9%EB%8F%8C%EC%9D%B4%EC%B9%98%EB%8A%94-%EC%B4%88%EB%A1%9D%EC%83%89-%EC%9E%85%EC%9E%90-%EA%B5%AC%EB%A6%84-b860A8t7gAQ
+                  - img "검은 배경에 소용돌이치는 초록색 입자 구름의 3D 렌더링" [ref=f6e1391]
+                - link [ref=f6e1392] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EC%2586%258C%25EC%259A%25A9%25EB%258F%258C%25EC%259D%25B4%25EC%25B9%2598%25EB%258A%2594-%25EC%25B4%2588%25EB%25A1%259D%25EC%2583%2589-%25EC%259E%2585%25EC%259E%2590-%25EA%25B5%25AC%25EB%25A6%2584-b860A8t7gAQ
+            - figure [ref=f6e1395]:
+              - link [ref=f6e1398]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%A7%99%EC%9D%80-%EB%85%B9%EC%83%89-%EC%A7%88%EA%B0%90-%ED%91%9C%EB%A9%B4-THVKi5mZXPs
+                - img "짙은 녹색 질감에 깊은 그림자와 고르지 않은 능선이 있는 표면" [ref=f6e1399]
+            - figure [ref=f6e1400]:
+              - link [ref=f6e1403]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%A7%99%EC%9D%80-%EB%85%B9%EC%83%89-%EB%8F%8C-%EC%A7%88%EA%B0%90-fxJqm7nlRjo
+                - img "표면을 나누는 날카로운 대각선이 있는 추상적인 짙은 녹색 석조 질감" [ref=f6e1404]
+            - figure [ref=f6e1405]:
+              - generic [ref=f6e1407]:
+                - link [ref=f6e1408]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B8%88%EC%9D%B4-%EA%B0%84-%EC%A7%99%EC%9D%80-%ED%9A%8C%EC%83%89-%EC%95%94%EC%84%9D-%ED%91%9C%EB%A9%B4-zcFqt-7fpDs
+                  - img "짙은 회색 갈라진 암석 표면에 고운 모래가 깊은 균열을 채우고 있었다" [ref=f6e1409]
+                - link [ref=f6e1410] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EA%25B8%2588%25EC%259D%25B4-%25EA%25B0%2584-%25EC%25A7%2599%25EC%259D%2580-%25ED%259A%258C%25EC%2583%2589-%25EC%2595%2594%25EC%2584%259D-%25ED%2591%259C%25EB%25A9%25B4-zcFqt-7fpDs
+            - figure [ref=f6e1413]:
+              - link [ref=f6e1416]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%A7%99%EC%9D%80-%ED%9A%8C%EC%83%89-%EC%B6%94%EC%83%81%EC%A0%81%EC%9D%B4%EA%B3%A0-%EA%B1%B0%EC%B9%9C-%EC%A7%88%EA%B0%90-DiRvKdkZWWU
+                - img "부드러운 거친 질감과 미묘한 빛 그라데이션이 있는 어두운 회색 추상 배경" [ref=f6e1417]
+            - figure [ref=f6e1418]:
+              - link [ref=f6e1421]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%9A%8C%EC%83%89-%EC%B2%9C-%EC%9C%84%EC%97%90-%EB%B0%98%EC%A7%9D%EC%9D%B4%EB%8A%94-%EC%96%B4%EB%91%90%EC%9A%B4-%EA%B5%AC%EC%B2%B4-zwO9CWbqBTs
+                - img "회색 천 표면에 날카로운 그림자를 드리우는 광택 나는 어두운 구체가 있었다" [ref=f6e1422]
+          - generic [ref=f6e1423]:
+            - figure [ref=f6e1424]:
+              - link [ref=f6e1427]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%96%B4%EB%91%90%EC%9A%B4-%EB%A7%A5%EC%9D%B4-%EC%9E%88%EB%8A%94-%EB%85%B9%EC%83%89-%EC%9E%8E-KvHUR5zjc5Y
+                - img "짙은 줄무늬가 뚜렷하고 질감이 있는 녹색 잎의 클로즈업" [ref=f6e1428]
+            - figure [ref=f6e1429]:
+              - link [ref=f6e1432]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4-%EB%B9%9B-%EC%95%84%EB%9E%98-%ED%8E%BC%EC%B3%90%EC%A7%84-%ED%91%B8%EB%A5%B8-%EC%96%B8%EB%8D%95%EB%93%A4--psmFP4VC8A
+                - img "부드러운 빛 아래 펼쳐진 푸른 언덕들" [ref=f6e1433]
+            - figure [ref=f6e1434]:
+              - link [ref=f6e1437]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B2%80%EC%9D%80%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%EB%85%B9%EC%83%89-%EC%B6%94%EC%83%81-%EB%AC%BC%EA%B2%B0%EC%84%A0-mwtiKJmuQck
+                - img "검은색 배경에 녹색 추상 물결선" [ref=f6e1438]
+            - figure [ref=f6e1439]:
+              - generic [ref=f6e1441]:
+                - link [ref=f6e1442]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%B2%AD%EB%A1%9D%EC%83%89-%EC%BD%98%ED%81%AC%EB%A6%AC%ED%8A%B8-%EB%B8%94%EB%A1%9D-%EC%9C%84%EC%97%90-%EC%9E%88%EB%8A%94-%EC%9E%91%EC%9D%80-%EC%82%AC%EB%9E%8C-8tlxrD3wyv0
+                  - img "큰 청록색 콘크리트 블록 위에 서 있는 작은 사람의 3D 렌더링 등 여러 작품들" [ref=f6e1443]
+                - link [ref=f6e1444] [cursor=pointer]:
+                  - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EC%25B2%25AD%25EB%25A1%259D%25EC%2583%2589-%25EC%25BD%2598%25ED%2581%25AC%25EB%25A6%25AC%25ED%258A%25B8-%25EB%25B8%2594%25EB%25A1%259D-%25EC%259C%2584%25EC%2597%2590-%25EC%259E%2588%25EB%258A%2594-%25EC%259E%2591%25EC%259D%2580-%25EC%2582%25AC%25EB%259E%258C-8tlxrD3wyv0
+            - figure [ref=f6e1447]:
+              - link [ref=f6e1450]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%B0%A2%EC%96%B4%EC%A7%84-%EA%B2%80%EC%9D%80%EC%83%89%EA%B3%BC-%EC%B4%88%EB%A1%9D%EC%83%89-%EC%A2%85%EC%9D%B4-4rnRgGw8aTg
+                - img "검은 종이 가장자리가 찢어져 짙은 녹색 질감의 종이 위에 겹겹이 쌓인 것" [ref=f6e1451]
+            - figure [ref=f6e1452]:
+              - link [ref=f6e1455]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%ED%9D%90%EB%A5%B4%EB%8A%94-%EC%A7%99%EC%9D%80-%EB%85%B9%EC%83%89-%EC%95%A1%EC%B2%B4-%EC%B6%94%EC%83%81%ED%99%94-k0V_YGMvf5c
+                - img "부드러운 하이라이트와 깊은 그림자가 있는 부드럽고 흐르는 짙은 녹색 액체의 3D 렌더링입니다" [ref=f6e1456]
+            - figure [ref=f6e1457]:
+              - link [ref=f6e1460]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B4%91%ED%83%9D-%EB%82%98%EB%8A%94-%EC%9D%80%EA%B3%BC-%EC%9C%A0%EB%A6%AC-%EC%95%A1%EC%B2%B4-%EA%B5%AC%EC%B2%B4-BiENJLXf33k
+                - img "밝은 회색 배경 위에 떠 있는 광택 나는 은색과 유리 액체 구체의 3D 렌더링" [ref=f6e1461]
+    - generic:
+      - region "Notifications"

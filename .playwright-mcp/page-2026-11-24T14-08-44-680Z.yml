@@ -1,0 +1,159 @@
+- generic [ref=f87e4]:
+  - generic:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+  - navigation [ref=f87e9]:
+    - generic [ref=f87e11]:
+      - generic [ref=f87e12]:
+        - generic "홈" [ref=f87e16]:
+          - link "홈" [ref=f87e17] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f87e24]:
+          - link "홈" [ref=f87e25] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f87e32]:
+          - link "내 보드" [ref=f87e33] [cursor=pointer]:
+            - /url: /saoproject26/
+        - generic "만들기" [ref=f87e40]:
+          - button "만들기" [ref=f87e41] [cursor=pointer]
+        - generic "메시지" [ref=f87e53]:
+          - button "메시지" [ref=f87e54] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f87e63]:
+        - button "설정 및 지원" [ref=f87e64] [cursor=pointer]
+  - generic [ref=f87e71]:
+    - banner [ref=f87e72]:
+      - generic [ref=f87e76]:
+        - generic [ref=f87e78]:
+          - generic [ref=f87e79]:
+            - combobox "검색" [ref=f87e81]: interlocking woven line ornament
+            - generic [ref=f87e82]:
+              - button "검색 입력 삭제" [ref=f87e86] [cursor=pointer]
+              - generic "이미지 업로드" [ref=f87e93]:
+                - button "Pinterest 렌즈" [ref=f87e94] [cursor=pointer]
+          - button "모든 핀" [ref=f87e102] [cursor=pointer]
+        - generic [ref=f87e108]:
+          - link "내 프로필" [ref=f87e113] [cursor=pointer]:
+            - /url: /saoproject26/
+          - button "계정" [ref=f87e125] [cursor=pointer]
+    - main [ref=f87e130]:
+      - heading "검색 결과 페이지" [level=1] [ref=f87e132]
+      - region "필터 및 세분화 검색" [ref=f87e137]:
+        - generic [ref=f87e140]:
+          - button "필터 표시" [ref=f87e146] [cursor=pointer]
+          - button "Woven christmas" [ref=f87e156] [cursor=pointer]
+          - button "Woven star" [ref=f87e172] [cursor=pointer]
+          - button "Woven fabric star" [ref=f87e188] [cursor=pointer]
+          - button "Woven heart" [ref=f87e204] [cursor=pointer]
+          - button "Woven paper" [ref=f87e215] [cursor=pointer]
+          - button "Woven star tutorial christmas" [ref=f87e226] [cursor=pointer]
+          - button "Free pattern" [ref=f87e237] [cursor=pointer]
+          - button "Scandinavian" [ref=f87e248] [cursor=pointer]
+          - button "Woven snowflake" [ref=f87e259] [cursor=pointer]
+          - button "Woven reindeer" [ref=f87e270] [cursor=pointer]
+          - button "Woven christmas tree" [ref=f87e281] [cursor=pointer]
+          - button "Woven star christmas" [ref=f87e292] [cursor=pointer]
+          - button "Woven tree" [ref=f87e303] [cursor=pointer]
+          - button "Handmade" [ref=f87e314] [cursor=pointer]
+          - button "Woven hanging" [ref=f87e325] [cursor=pointer]
+          - button "Woven bead" [ref=f87e336] [cursor=pointer]
+          - button "Woven paper heart" [ref=f87e347] [cursor=pointer]
+          - button "Woven ball" [ref=f87e358] [cursor=pointer]
+      - generic [ref=f87e369]:
+        - generic [ref=f87e370]: interlocking woven line ornament 검색 결과를 추가로 불러오는 중
+        - list [ref=f87e375]:
+          - listitem [ref=f87e376]:
+            - group "핀 카드" [ref=f87e381]:
+              - generic [ref=f87e383]:
+                - link "Interwoven Geometric Ornament | Modern Knot Pattern 핀 페이지" [ref=f87e385] [cursor=pointer]:
+                  - /url: /pin/1133781274970116281/
+                  - 'img "포함된 내용: Minimalist black geometric ornament featuring four interwoven curved bands arranged in a symmetrical knot around a square center, creating a modern decorative pattern on a white background." [ref=f87e395]'
+                - generic "추가 작업" [ref=f87e403]:
+                  - button "추가 작업" [ref=f87e404] [cursor=pointer]
+          - listitem [ref=f87e409]:
+            - group "핀 카드" [ref=f87e414]:
+              - generic [ref=f87e416]:
+                - link "제목 없음 핀 페이지" [ref=f87e418] [cursor=pointer]:
+                  - /url: /pin/1105493039824992191/
+                  - img "포함된 이미지:" [ref=f87e428]
+                - generic "추가 작업" [ref=f87e436]:
+                  - button "추가 작업" [ref=f87e437] [cursor=pointer]
+          - listitem [ref=f87e442]:
+            - group "핀 카드" [ref=f87e447]:
+              - generic [ref=f87e449]:
+                - link "제목 없음 핀 페이지" [ref=f87e451] [cursor=pointer]:
+                  - /url: /pin/1150880879766942959/
+                  - img "포함된 이미지:" [ref=f87e461]
+                - generic "추가 작업" [ref=f87e469]:
+                  - button "추가 작업" [ref=f87e470] [cursor=pointer]
+          - listitem [ref=f87e475]:
+            - group "핀 카드" [ref=f87e480]:
+              - generic [ref=f87e482]:
+                - link "Inside Kakao — Brenden 핀 페이지" [ref=f87e484] [cursor=pointer]:
+                  - /url: /pin/938437641130857438/
+                  - 'img "포함된 이미지: Inside Kakao — Brenden" [ref=f87e494]'
+                - generic "추가 작업" [ref=f87e502]:
+                  - button "추가 작업" [ref=f87e503] [cursor=pointer]
+          - listitem [ref=f87e508]:
+            - group "핀 카드" [ref=f87e513]:
+              - generic [ref=f87e515]:
+                - link "제목 없음 핀 페이지" [ref=f87e517] [cursor=pointer]:
+                  - /url: /pin/554646510369013586/
+                  - img "포함된 이미지:" [ref=f87e527]
+                - generic "추가 작업" [ref=f87e535]:
+                  - button "추가 작업" [ref=f87e536] [cursor=pointer]
+          - listitem [ref=f87e541]:
+            - group "핀 카드" [ref=f87e546]:
+              - generic [ref=f87e548]:
+                - link "제목 없음 핀 페이지" [ref=f87e550] [cursor=pointer]:
+                  - /url: /pin/336784878362331248/
+                  - img "포함된 이미지:" [ref=f87e560]
+                - generic "추가 작업" [ref=f87e568]:
+                  - button "추가 작업" [ref=f87e569] [cursor=pointer]
+          - listitem [ref=f87e574]:
+            - group "핀 카드" [ref=f87e579]:
+              - generic [ref=f87e581]:
+                - link "make this algorithm 핀 페이지" [ref=f87e583] [cursor=pointer]:
+                  - /url: /pin/444308319462122612/
+                  - img "포함된 이미지:" [ref=f87e593]
+                - generic "추가 작업" [ref=f87e601]:
+                  - button "추가 작업" [ref=f87e602] [cursor=pointer]
+          - listitem [ref=f87e607]:
+            - group "핀 카드" [ref=f87e612]:
+              - generic [ref=f87e614]:
+                - link "제목 없음 핀 페이지" [ref=f87e616] [cursor=pointer]:
+                  - /url: /pin/473933560784339578/
+                  - img "포함된 이미지:" [ref=f87e626]
+                - generic "추가 작업" [ref=f87e634]:
+                  - button "추가 작업" [ref=f87e635] [cursor=pointer]
+          - listitem [ref=f87e640]:
+            - group "핀 카드" [ref=f87e645]:
+              - generic [ref=f87e647]:
+                - link "SH-AJ 핀 페이지" [ref=f87e649] [cursor=pointer]:
+                  - /url: /pin/725712927497949761/
+                  - 'img "포함된 이미지: SH-AJ" [ref=f87e659]'
+                - generic "추가 작업" [ref=f87e667]:
+                  - button "추가 작업" [ref=f87e668] [cursor=pointer]
+          - listitem [ref=f87e673]:
+            - group "핀 카드" [ref=f87e678]:
+              - generic [ref=f87e680]:
+                - 'link "Interlocking Lines Repeating Patterns Stock Vector - Illustration of weaving, isolated: 394820719 핀 페이지" [ref=f87e682] [cursor=pointer]':
+                  - /url: /pin/857865429056940572/
+                  - 'img "포함된 이미지: Interlocking Lines Repeating Patterns Stock Vector - Illustration of weaving, isolated: 394820719" [ref=f87e692]'
+                - generic "추가 작업" [ref=f87e700]:
+                  - button "추가 작업" [ref=f87e701] [cursor=pointer]
+          - listitem [ref=f87e706]:
+            - group "핀 카드" [ref=f87e711]:
+              - generic [ref=f87e713]:
+                - link "제목 없음 핀 페이지" [ref=f87e715] [cursor=pointer]:
+                  - /url: /pin/440860251013911537/
+                  - img "포함된 이미지:" [ref=f87e725]
+                - generic "추가 작업" [ref=f87e733]:
+                  - button "추가 작업" [ref=f87e734] [cursor=pointer]
+          - listitem [ref=f87e739]:
+            - group "핀 카드" [ref=f87e744]:
+              - generic [ref=f87e746]:
+                - link "Celtic Images – Browse 491,968 Stock Photos, Vectors, and Video 핀 페이지" [ref=f87e748] [cursor=pointer]:
+                  - /url: /pin/741475526119720507/
+                  - 'img "포함된 이미지: Celtic Images – Browse 491,968 Stock Photos, Vectors, and Video" [ref=f87e758]'
+                - generic "추가 작업" [ref=f87e766]:
+                  - button "추가 작업" [ref=f87e767] [cursor=pointer]

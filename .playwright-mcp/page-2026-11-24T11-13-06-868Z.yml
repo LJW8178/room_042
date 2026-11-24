@@ -1,0 +1,626 @@
+- generic [ref=f6e1]:
+  - generic [ref=f6e4]:
+    - navigation [aria-hidden] [ref=f6e5]:
+      - generic [ref=f6e6]:
+        - generic [ref=f6e7]:
+          - link [ref=f6e525] [cursor=pointer]:
+            - /url: /ko
+          - link [ref=f6e527] [cursor=pointer]:
+            - /url: /ko
+          - link [ref=f6e528] [cursor=pointer]:
+            - /url: /ko/%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8
+        - generic [ref=f6e17]:
+          - button [ref=f6e529] [cursor=pointer]
+          - button [ref=f6e530] [cursor=pointer]
+          - button [ref=f6e531] [cursor=pointer]
+        - button [ref=f6e532] [cursor=pointer]
+      - generic [ref=f6e31]:
+        - link [ref=f6e533] [cursor=pointer]:
+          - /url: /ko/%EB%A1%9C%EA%B7%B8%EC%9D%B8?referrer=%2Fko%2Ft%2Farchitecture-interior
+        - button [ref=f6e534] [cursor=pointer]
+        - button [ref=f6e535] [cursor=pointer]
+    - generic [ref=f6e41]:
+      - generic [aria-hidden] [ref=f6e42]:
+        - navigation [ref=f6e43]:
+          - search [ref=f6e536]:
+            - button [ref=f6e537] [cursor=pointer]
+            - combobox [ref=f6e49]:
+              - searchbox [ref=f6e538]
+            - button [ref=f6e539] [cursor=pointer]
+          - generic [ref=f6e55]:
+            - link [ref=f6e540] [cursor=pointer]:
+              - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4
+              - text: Unsplash+ 구독
+            - link [ref=f6e541] [cursor=pointer]:
+              - /url: /ko/%EB%A1%9C%EA%B7%B8%EC%9D%B8?referrer=%2Fko%2Ft%2Farchitecture-interior
+              - text: 로그인
+          - button [ref=f6e542] [cursor=pointer]: 이미지 제출
+        - list [ref=f6e65]:
+          - listitem [ref=f6e66]:
+            - link [ref=f6e543] [cursor=pointer]:
+              - /url: /ko
+              - text: 추천
+          - listitem [ref=f6e67]:
+            - link [ref=f6e544] [cursor=pointer]:
+              - /url: /ko/t/Fall
+              - generic [ref=f6e69]:
+                - generic [ref=f6e70]: 새로운 사항
+                - text: 가을에
+          - listitem [ref=f6e71]:
+            - link [ref=f6e545] [cursor=pointer]:
+              - /url: /ko/t/wallpapers
+              - text: 배경 화면
+          - listitem [ref=f6e73]:
+            - link [ref=f6e546] [cursor=pointer]:
+              - /url: /ko/t/nature
+              - text: 자연
+          - listitem [ref=f6e75]:
+            - link [ref=f6e547] [cursor=pointer]:
+              - /url: /ko/t/3d-renders
+              - text: 3D 렌더링
+          - listitem [ref=f6e77]:
+            - link [ref=f6e548] [cursor=pointer]:
+              - /url: /ko/t/experimental
+              - text: 실험적인
+          - listitem [ref=f6e79]:
+            - link [ref=f6e549] [cursor=pointer]:
+              - /url: /ko/t/film
+              - text: 필름
+          - listitem [ref=f6e81]:
+            - link [ref=f6e550] [cursor=pointer]:
+              - /url: /ko/t/street-photography
+              - text: 거리 사진
+          - listitem [ref=f6e83]:
+            - link:
+              - /url: /ko/t/architecture-interior
+              - text: 건축학
+          - listitem [ref=f6e85]:
+            - link [ref=f6e551] [cursor=pointer]:
+              - /url: /ko/t/textures-patterns
+              - text: 텍스처
+          - listitem [ref=f6e87]:
+            - link [ref=f6e552] [cursor=pointer]:
+              - /url: /ko/t/travel
+              - text: 여행
+          - listitem [ref=f6e89]:
+            - link [ref=f6e553] [cursor=pointer]:
+              - /url: /ko/t/people
+              - text: 인류
+        - generic [ref=f6e336]:
+          - generic [ref=f6e338]:
+            - generic [ref=f6e340]:
+              - banner [ref=f6e341]:
+                - heading [level=1] [ref=f6e554]: 건축학
+                - generic [ref=f6e343]:
+                  - link [ref=f6e555] [cursor=pointer]:
+                    - /url: /ko/@unsplash
+                    - text: Unsplash
+                  - text: 에서 큐레이팅
+              - generic [ref=f6e345]: 공간의 예술성을 기념하는 이 카테고리는 건축과 인테리어의 놀라운 사진을 강조합니다.
+              - button [ref=f6e556] [cursor=pointer]:
+                - strong [ref=f6e349]: 건축학
+                - text: 에 제출
+            - generic [ref=f6e351]:
+              - heading [level=3] [ref=f6e557]: 월간 상위 출품자
+              - generic [ref=f6e355]:
+                - link [ref=f6e558] [cursor=pointer]:
+                  - /url: /ko/@sschusterphotoart
+                  - generic [ref=f6e358]:
+                    - generic [ref=f6e359]: Sebastian Schuster
+                    - generic [ref=f6e360]: 19개 이미지
+                - link [ref=f6e559] [cursor=pointer]:
+                  - /url: /ko/@claybanks
+                  - generic [ref=f6e363]:
+                    - generic [ref=f6e364]: Clay Banks
+                    - generic [ref=f6e365]: 17개 이미지
+                - link [ref=f6e560] [cursor=pointer]:
+                  - /url: /ko/@heysupersimi
+                  - generic [ref=f6e368]:
+                    - generic [ref=f6e369]: Simone Hutsch
+                    - generic [ref=f6e370]: 14개 이미지
+                - link [ref=f6e561] [cursor=pointer]:
+                  - /url: /ko/@victoriadokukina
+                  - generic [ref=f6e373]:
+                    - generic [ref=f6e374]: Victoria Dokukina
+                    - generic [ref=f6e375]: 9개 이미지
+            - generic [ref=f6e381]:
+              - link [ref=f6e562]:
+                - /url: /ko/%EC%82%AC%EC%A7%84/%EC%88%B2%EC%9D%B4-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EB%8B%A4%EB%8B%A4%EB%AF%B8-%EB%B0%A9-hdIHBHS_qI4
+                - text: 추천
+              - link [ref=f6e563] [cursor=pointer]:
+                - /url: /ko/@tlemaitre
+                - text: Thierry Lemaitre
+          - generic [ref=f6e390]:
+            - generic [ref=f6e391]:
+              - generic [ref=f6e392]:
+                - contentinfo [ref=f6e397]:
+                  - generic [ref=f6e398]: –– ––– ––– –– ––– – ––– ––– –––– – – –– ––– – – ––– –– –– –––– ––
+                  - generic [ref=f6e404] [cursor=pointer]
+                - iframe [ref=f6e407]:
+                  - generic [ref=f16e3]:
+                    - link [ref=f16e4] [cursor=pointer]:
+                      - /url: //discovery.popin.cc/home/privacy.html
+                    - 'link "대기 시간 없이, 순수한 아드레날린을 느껴보세요: 단 몇 분 만에 무료 5대5 로봇 전투를 즐기세요 대기 시간 없이, 순수한 아드레날린을 느껴보세요: 단 몇 분 만에 무료 5대5 로봇 전투를 즐기세요 게임 레이더" [ref=f16e7] [cursor=pointer]':
+                      - /url: https://trace.popin.cc/ju/ic?tn=c92aad1999f497c1a6c2ff886123e07c&trackingid=bb96817dcd3f326e6687b20065d801e1&acid=34112&data=erX7wJZUjW0E8Sv3-oB_2XawTxwk9xmoxmOwS-RZhglPW69LjVVQV9TSk7OfROrSI7NkIX0PIrXTaVRi3whvc7nccbSQeU8R0Nia5FeI7HaWd5IxKJ1vFxspd_fRQCRI82fE3TnJDxr6iUIsM4nvRPlv4oAFm5kuC7hAEgticW5XBsYAyZE8BscejgBTN2TmaYPpFTg7BKkgDrWYP0k2gw9YtIEpCdmA5r_-6euZ7y2kgFncY1HnKyx4KZlr2HjN5NfDylIgkPvpKPN1BSEQrKuPImE2UoNTwRffbmvgbN5XynNFqf3pqYUbQUgYlMp-auvkXa-xMxiqwI5m79wshS0qtyE2DDNBRgnKh0bWn-WDyeUKlwtTaJMPy8txq7hKisauJzs6a3FCvXnxdzlIDCZHM7NFv_2QFvO30xfYjSu6GgmBz28q1j2PYY9go918sU9Y_BQ0wJqEnk5vDp9iXYbsK0lAqHPlfSUN6_y5dqOJ5eXAH-SKpDliFT_NjbYE2FpOyhrMg7dPJwnhoK3lZdrELBCOzaP9XPR7l76eS9zE0sjaF33h9S1IRvwVJCSg1HJlfJLXs7onhz5qugwFsWxUavLEoFaRu5-_U5sYH1kZzASxjN_LQJmYw2KFyGgj67JKuc3xwvYj79C1CbzH4hhPq_-PQnbq_fiGIu1FMe2ZNaRuQREkNUkMbJBtR5CIvQbssPkX5jDd0WZl3loKgLQJ7LHtL2HX5WeReLp2iWVUC3GJ-sjaLTguwh_ZrC_03uHCC3tcnytWUAjd6N3vZZTG7grOD27HieVx7njRK4QIcneMd4uRyNc5Ca2qvhiJ4zV5BJoZq5ev3Gx3gFrAp1pZ3qnzDc0hcJfFL0XLQwFBzHW_419OHPaV-xMRZdiYLuwaB3LHL7z_otLuat8Cka_n4b2XagtwuLSAyOrl3PGExzGIwI84f_psVaNRNtS5sg3vZRN7sekaRpIrRpsG-U8u27Nh0dQvihMGyq5sKCGVeonp8uVQXuaEjuW3kk7erKfKKYCfeJeK_ni_it90uCbXFNO2Op__eHAp9eZGsAtJ0no10Ahb1QQEgwouFKTkg03CnEZ-jCnH-O8fin0u8rvjG4m05uGNho-au4vajO_g62eFuShqUsrdWKJiJbF-Z2-hvDInOcBBy8XqQjpfp5llvKgstRtRgfAbnVRwzPWYDa3Ei2N2lVNmoL-vUyb3rqxVXhfRx4TRcjxFf07IvyuAaA2l_iaZQaoYbYEWc-uKFqgeM0OuIFPo0FuQ4iBc780AbgdPl_91P8GWjLdTdUNnGfj2IN-IXb0H-m178uijgYY7w5xjbVV5Eiv7indK8eBjeImmCTZqCni0UKduk5zMpx6wxdjVPkugDuOXL6we9cBfflwzfrRoaheYnKOp7G7q8hqbfzb26Pvc7l2wiM7KMX0xyUjw2tSgt7Si8I0&ap=0.018263&tid=72&gprice=BAJm6lqt-sxlrEi_h4IvrgcuT_gFWozzalKU8p5SXP0&campaignid=5748845&c_sync=1&google_click_url=https://adclick.g.doubleclick.net/aclk%3Fsa%3DL%26ai%3DCR6XMB3EFa5u4KpWJid4PyZaW4A7Wy6qsbdLw7a35EMCNtwEQASCOpt-uAWCb24KPwCnIAQngAgCoAwHIAwKqBJsCT9BpoovTL7Q80wxmUwz6i1TTjO2xY2BSDsNvlAiSMTPX_alyBuo0ZFOH2rOtn3dnt5d1XZMslxA4d0NzSSy57H43dT7Ts63HbFJDAj_Hk5jDMTpU3WvnC0om1N9OToGjDHNhcE3L8qCu5LqyxYwEdQ_DEAEJV2epHEOnfyGzPvC4m9BsqA5Kj9gaxDTOaj_4c3t9OzbWA-6LDbB3BTu7Fhl9LmB9D72BviCiPkx9h9lhGXWS0EKJPXfFrB-8YFmgE1Qe8RY_jf1HMGrrAhiWOkJ3RIB0gJczTexk8-jZ5nUmrUKWq2dwDxs6HfyqN8QDT_FsqluWPW4y2v6Q5qEtM9S--8ujtjLxGfSF_C4iVCyEjJhVgLCg_E8IbeAEAYAGmJDsiOeN-fDWAaAGIagHk9ixAqgHlNixAqgHldixAqgHqeuxAqgHpr4bqAeW2BuoB6qbsQKoB_-esQKoB9-fsQKoB_7osQKoB62-sQKoB7_TsQLYBwDSCDAIgGEQATIIioKAgICAgAg6D4BAgMCAgICAqIACqIOAGEi9_cE6WPDkzL-8oJgDYAD6CwIIAYAMAaoNAktS4g0TCMKzzb-8oJgDFZVEwgUdSYsF7OoNEwjGlc6_vKCYAxWVRMIFHUmLBeyIDv___________wHQFQGAFwGyFxAYDCoKODU4NDY1OTQ1NlABqhgXCf_UeOkGIMxAEgo4NTg0NjU5NDU2GAE%26num%3D1%26sig%3DAOD64_2GxtNiWjypJzf6MrQfu2UrKaiVlQ%26adurl%3D
+                      - 'img "대기 시간 없이, 순수한 아드레날린을 느껴보세요: 단 몇 분 만에 무료 5대5 로봇 전투를 즐기세요" [ref=f16e8]'
+                      - 'heading "대기 시간 없이, 순수한 아드레날린을 느껴보세요: 단 몇 분 만에 무료 5대5 로봇 전투를 즐기세요" [level=3] [ref=f16e9]'
+                      - generic [ref=f16e10]: 게임 레이더
+              - figure [ref=f6e408]:
+                - generic [ref=f6e410]:
+                  - link [ref=f6e564]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%86%92%EC%9D%80-%EC%B0%BD%EB%AC%B8%EC%97%90%EC%84%9C-%EB%B3%B8-%EB%8F%84%EC%8B%9C-%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%9D%BC%EC%9D%B8-ryGOLKWJ6Ig
+                  - link [ref=f6e413] [cursor=pointer]:
+                    - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%2586%2592%25EC%259D%2580-%25EC%25B0%25BD%25EB%25AC%25B8%25EC%2597%2590%25EC%2584%259C-%25EB%25B3%25B8-%25EB%258F%2584%25EC%258B%259C-%25EC%258A%25A4%25EC%25B9%25B4%25EC%259D%25B4%25EB%259D%25BC%25EC%259D%25B8-ryGOLKWJ6Ig
+              - figure [ref=f6e416]:
+                - link [ref=f6e566]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B3%A1%EC%84%A0%ED%98%95-%ED%8C%8C%EB%9E%80%EC%83%89-%EA%B1%B4%EC%B6%95-%ED%8C%A8%EB%84%90-%EA%B2%A9%EC%9E%90-WCL1Ra0pkUw
+              - figure [ref=f6e421]:
+                - generic [ref=f6e423]:
+                  - link [ref=f6e568]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%8C%80%EB%A6%AC%EC%84%9D-%EC%B9%B4%EC%9A%B4%ED%84%B0%EC%99%80-%ED%98%B8%ED%99%94%EB%A1%9C%EC%9A%B4-%EC%A2%8C%EC%84%9D%EC%9D%B4-%EC%9E%88%EB%8A%94-%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8-%EB%B0%94%EC%9E%85%EB%8B%88%EB%8B%A4-AFqywRJbX9k
+                  - link [ref=f6e426] [cursor=pointer]:
+                    - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%258C%2580%25EB%25A6%25AC%25EC%2584%259D-%25EC%25B9%25B4%25EC%259A%25B4%25ED%2584%25B0%25EC%2599%2580-%25ED%2598%25B8%25ED%2599%2594%25EB%25A1%259C%25EC%259A%25B4-%25EC%25A2%258C%25EC%2584%259D%25EC%259D%25B4-%25EC%259E%2588%25EB%258A%2594-%25ED%2598%2584%25EB%258C%2580%25EC%25A0%2581%25EC%259D%25B8-%25EB%25B0%2594%25EC%259E%2585%25EB%258B%2588%25EB%258B%25A4-AFqywRJbX9k
+              - figure [ref=f6e429]:
+                - link [ref=f6e570]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%85%B8%EB%9E%80%EC%83%89-%EC%BD%94%EB%93%80%EB%A1%9C%EC%9D%B4-%EC%86%8C%ED%8C%8C-%EC%9C%84-%EA%B7%B8%EB%A6%BC-THK9jDii__Y
+              - figure [ref=f6e434]:
+                - generic [ref=f6e436]:
+                  - link [ref=f6e572]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%8B%A4%EC%B1%84%EB%A1%9C%EC%9A%B4-%EC%95%84%ED%8C%8C%ED%8A%B8-%EA%B1%B4%EB%AC%BC-%EC%99%B8%EA%B4%80-isSRjjSi11M
+                  - link [ref=f6e439] [cursor=pointer]:
+                    - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%258B%25A4%25EC%25B1%2584%25EB%25A1%259C%25EC%259A%25B4-%25EC%2595%2584%25ED%258C%258C%25ED%258A%25B8-%25EA%25B1%25B4%25EB%25AC%25BC-%25EC%2599%25B8%25EA%25B4%2580-isSRjjSi11M
+              - figure [ref=f6e574]:
+                - generic [ref=f6e576]:
+                  - link [ref=f6e577]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%ED%81%AC%EB%A1%AC-%ED%94%84%EB%A0%88%EC%9E%84%EC%9D%98-%EB%B9%A8%EA%B0%84-%EA%B0%80%EC%A3%BD-%EC%9D%98%EC%9E%90-Bbwi09-NrXo
+                  - link [ref=f6e579] [cursor=pointer]:
+                    - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25ED%2581%25AC%25EB%25A1%25AC-%25ED%2594%2584%25EB%25A0%2588%25EC%259E%2584%25EC%259D%2598-%25EB%25B9%25A8%25EA%25B0%2584-%25EA%25B0%2580%25EC%25A3%25BD-%25EC%259D%2598%25EC%259E%2590-Bbwi09-NrXo
+              - figure [ref=f6e582]:
+                - link [ref=f6e585]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B8%88%EC%86%8D-%EC%84%A0%EA%B0%93%EC%9D%B4-%EC%9E%88%EB%8A%94-%ED%98%84%EB%8C%80%EC%8B%9D-%EA%B1%B4%EB%AC%BC-%EC%99%B8%EA%B4%80-DU5o9S69xRk
+              - generic [ref=f6e587]:
+                - contentinfo [ref=f6e592]:
+                  - generic [ref=f6e593]: –– ––– ––– –– ––– – ––– ––– –––– – – –– ––– – – ––– –– –– –––– ––
+                  - generic [ref=f6e599] [cursor=pointer]
+                - iframe [ref=f6e602]:
+                  - generic [ref=f19e3]:
+                    - link [ref=f19e4] [cursor=pointer]:
+                      - /url: //discovery.popin.cc/home/privacy.html
+                    - 'link "대기 시간 없이, 순수한 아드레날린을 느껴보세요: 단 몇 분 만에 무료 5대5 로봇 전투를 즐기세요 대기 시간 없이, 순수한 아드레날린을 느껴보세요: 단 몇 분 만에 무료 5대5 로봇 전투를 즐기세요 게임 레이더" [ref=f19e7] [cursor=pointer]':
+                      - /url: https://trace.popin.cc/ju/ic?tn=c92aad1999f497c1a6c2ff886123e07c&trackingid=2799b50a1bcf409d904d69e1a262335f&acid=34112&data=y8cp0w2eY01W4GT6UmdtVtNPkbdiGtPfO0MsEqBlEbXf6ny2tU-1lhE2V0qp4Rc_BjKoUy-O6QBlRHq8leOKx46mykSryB4eJ4YweNTXxShWhmfqXbU5YPiD69lighfr_zapH-ljtyUYnecM5DKtxEb7qv_b10-AGa2_IC-irAb0WYUzTsExkRRRHw9D-HayQp-Ms8UhplW09_lrnXTjCnpL15bHMP53hFySOQVG_7yDyO53OJ9haikYuvzo0TtHr1PgAPQk8dwt-u8Qa91U1SRwBd5MTkogTzhkuvmx7av7kQ1DCgjRuDwRSHscjE7CFgsAUBxP_AQgV_x_BhJztn9wmCtwCD_cVgOry9AhX7_apR7-XT518EjtIhA6jdoRg5Xli4-cxOMuxOyBHSAAZOueE4PrrS8BRRrzDCEvzoqNo2GnygfjQ5GWQnSbJaMTYEu9K5Yg8yGng8xatNbYbvw1p2odyqB8NJPxZD6kR3AUwESDLiNnI2LdRXeSMeo4IsKO4LMLDCw9sbe8TxH3Sib-EMrKORd-3-Bkinr3CC9Bt-TFfeNlYoUDhBBMD8qeaOXM1AkcjWStAUKJt5xOafGcRwIsGrc_hR9X8WRSv2jy5siEJ4HnfrcD_jKpRiblqPENyIXswnFQqgWo49rUsYGXez9xDaVNFqfpNhaMbt8q_Ng3okSjoJii_aIt_PbFvl4J8xbLdzw4moW9u6tCN0QL-dr-WnMUGr4ORrbvt3n0PQ5UgguqOEWoy_nNzJjq0Jo3ArJgo_h2hkGbW605TVzPBoLvm5jPF5mjIDXVIG_wpFSNYqIVCmX6mQ9UDdUE0YSe4nu8uYCuzyUjFKmV9ZtbNxEdyVRHW4FNcJ8si3n2amh9EsG4LZuOanzBOJ2UqSLzqj8ruIjquQLWbsDERIV1Kks4vd9NJGnG43VU7I7AaZSO1O46p4ZWa7p2AeoKSqXYJ0SG1vznbpfOSzQe2SyOkDrCVGPK3FiAC1n1NVkeDeaX3oLME2bHZ2U0fXhLpXZjleAef9p_ErieM5SpG6W9pfRguUttcBxfY_JIZtp7Vt1ZwdTzU7bOYqnajurdLxVv3Vzw-_tuMdU33_S4k1uLtY478cfyXWM2vIyEvWlI1bjARNxMsZZNcM5IvnjWaL617wM6FxqpEIuH0M94Bdym5_aNqiYmpwnfXmH0TdhJy-dVKeyXrVN_Yy9CeUTai3nw2Gc1Z0PV_tHe97V_5ZsZnxtMmwfk1HgBjMm2tZKNec5LemB9E-MQ3IKhv3rjXzDfBTE_re2euCS4waNWSTH_1VZzWfAoasptefGMaCnqqOBgq-8_op_-KxbBEuYPJRbP8Ta_vZvuRtC1P7GuAAsezBt6TPSBRcPdUB-UbbbnPgoC_iircRf6wjRQZGOlVwEM36NJWNU3iQrWYgN0R_DO96OH5M4NV0ygLeCiha_QHXaExei-5LWR7QrEAk1asxjRco2oQBT8j3ZRsQL-HA&ap=0.016405&tid=72&gprice=AVEeqiXlrsK9vf9fjlx4ze0hzOtuBw-dofaCj-cISH4&campaignid=5748845&c_sync=1&google_click_url=https://adclick.g.doubleclick.net/aclk%3Fsa%3DL%26ai%3DCgYklIXEFa9jjBau-id4P-uuxmAnWy6qsbdLw7a35EMCNtwEQASCOpt-uAWCb24KPwCnIAQngAgCoAwHIAwKqBJsCT9AhDpbFyQDcjyW_j2Edeb0roRTPT_JIswTRSyZFvdJwafdyDnaxsspPp0mMg7GGrINYTs-LGDz_gcpdXfoJ3RL1NSVis-ot0dyVIksGsjpqa7Np2E3z6ucfE72ozPNIWDnsNIdZQDASZ6f28psLGnze_4Xw_AVnPYhCGt8tjL3bS0XWyoGhqrE7BTvZqqNor8socKFpA-w72wi5DbAtuLROE6NERrXkLizBhvaoKNZJcy9eA5EQ_0ykEj-9H0PggRJ6bUtVoVAmphAQx1Nx5euUInr7ILMr6JIrzQmb5cxdR_RFbOOnBLx_-g3eBtp56OfYSn0oOGgC_dL8BnjYaqF2aT3l_nKzyrQUvN4kvAB0XBVQG54JfYCrueAEAYAGmJDsiOeN-fDWAaAGIagHk9ixAqgHlNixAqgHldixAqgHqeuxAqgHpr4bqAeW2BuoB7a5sQKoB6qbsQKoB_-esQKoB9-fsQKoB_7osQKoB62-sQKoB7_TsQLYBwDSCDAIgGEQATIIioKAgICAgAg6D4BAgMCAgICAqIACqIOAGEi9_cE6WM-128u8oJgDYAD6CwIIAYAMAaoNAktS4g0TCKf628u8oJgDFStfwgUd-nUMk-oNEwjCxdzLvKCYAxUrX8IFHfp1DJOIDv___________wHQFQGAFwGyFxAYDCoKODU4NDY1OTQ1NlABqhgXCRwv3SQGAMlAEgo4NTg0NjU5NDU2GAE%26num%3D1%26sig%3DAOD64_0CJ-A1p5WZptWWkCPoV7VIMv8sgw%26adurl%3D
+                      - 'img "대기 시간 없이, 순수한 아드레날린을 느껴보세요: 단 몇 분 만에 무료 5대5 로봇 전투를 즐기세요" [ref=f19e8]'
+                      - 'heading "대기 시간 없이, 순수한 아드레날린을 느껴보세요: 단 몇 분 만에 무료 5대5 로봇 전투를 즐기세요" [level=3] [ref=f19e9]'
+                      - generic [ref=f19e10]: 게임 레이더
+              - figure [ref=f6e603]:
+                - generic [ref=f6e605]:
+                  - link [ref=f6e606]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B1%B4%EB%AC%BC%EC%9D%98-%EC%B0%BD%EB%AC%B8%EC%9D%84-%ED%86%B5%ED%95%B4-%EB%B9%9B%EC%9D%B4-%EB%B9%84%EC%B9%A9%EB%8B%88%EB%8B%A4-hn935hTw2gQ
+                  - link [ref=f6e608] [cursor=pointer]:
+                    - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EA%25B1%25B4%25EB%25AC%25BC%25EC%259D%2598-%25EC%25B0%25BD%25EB%25AC%25B8%25EC%259D%2584-%25ED%2586%25B5%25ED%2595%25B4-%25EB%25B9%259B%25EC%259D%25B4-%25EB%25B9%2584%25EC%25B9%25A9%25EB%258B%2588%25EB%258B%25A4-hn935hTw2gQ
+              - figure [ref=f6e611]:
+                - link [ref=f6e614]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%A7%99%EC%9D%80-%EB%85%B9%EC%83%89-%EB%B0%A4%EC%95%88%EA%B0%9C-%EC%86%8D%EC%9D%98-%EB%A7%88%EC%B2%9C%EB%A3%A8-heZEiSE6ubI
+              - figure [ref=f6e616]:
+                - link [ref=f6e619]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B3%A1%EC%84%A0-%EA%B8%88%EC%86%8D-%EB%B2%BD%EA%B3%BC-%EC%B2%9C%EC%9E%A5-%EA%B2%A9%EC%9E%90-VGuj1eKE_tY
+              - figure [ref=f6e621]:
+                - link [ref=f6e624]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%B0%A8%EA%B3%A0%EC%97%90%EC%84%9C-%EC%B0%A8%EB%9F%89-%EB%A6%AC%ED%94%84%ED%8A%B8-%EC%95%84%EB%9E%98%EC%97%90-%EC%9E%88%EB%8A%94-%ED%8F%AC%EB%A5%B4%EC%89%90-nJUS7FK8zlY
+              - figure [ref=f6e626]:
+                - link [ref=f6e629]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%89%B4%EC%9A%95%EC%8B%9C%EC%9D%98-%EB%A7%88%EC%B2%9C%EB%A3%A8-OyrkYg9JwPA
+              - figure [ref=f6e631]:
+                - link [ref=f6e634]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%8F%84%ED%95%98-%EC%9D%B4%EC%8A%AC%EB%9E%8C-%EB%AF%B8%EC%88%A0%EA%B4%80-54FnogH5O2w
+              - figure [ref=f6e636]:
+                - generic [ref=f6e638]:
+                  - link [ref=f6e639]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%ED%96%87%EC%82%B4%EC%9D%B4-%EB%B9%84%EC%B9%98%EB%8A%94-%EC%A0%95%EC%9B%90-%EB%B0%A9%EC%9D%98-%EC%8B%9D%ED%83%81-1f1vh4s7Fsw
+                  - link [ref=f6e641] [cursor=pointer]:
+                    - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25ED%2596%2587%25EC%2582%25B4%25EC%259D%25B4-%25EB%25B9%2584%25EC%25B9%2598%25EB%258A%2594-%25EC%25A0%2595%25EC%259B%2590-%25EB%25B0%25A9%25EC%259D%2598-%25EC%258B%259D%25ED%2583%2581-1f1vh4s7Fsw
+              - figure [ref=f6e644]:
+                - link [ref=f6e647]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B3%A8%EB%93%A0-%EC%95%84%EC%9B%8C%EC%9D%98-%EB%A7%A8%ED%95%B4%ED%8A%BC-%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%9D%BC%EC%9D%B8-JcGL2TLfhfI
+              - figure [ref=f6e649]:
+                - link [ref=f6e652]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%95%84%EC%B9%98%ED%98%95-%EC%BD%98%ED%81%AC%EB%A6%AC%ED%8A%B8-%EA%B8%B0%EB%91%A5%EC%9D%B4-%EC%9E%88%EB%8A%94-%ED%9D%B0%EC%83%89-%EA%B1%B4%EB%AC%BC-kr7wuYH68OQ
+              - figure [ref=f6e654]:
+                - generic [ref=f6e656]:
+                  - link [ref=f6e657]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EC%B9%A8%EB%8C%80-%EC%96%91%EC%AA%BD%EC%97%90-%EC%B9%A8%EB%8C%80%EC%99%80-%EB%9E%A8%ED%94%84-2%EA%B0%9C%EA%B0%80-%EC%9E%88%EB%8A%94-%EC%B9%A8%EC%8B%A4-ODoVUWbvE6c
+                  - link [ref=f6e659] [cursor=pointer]:
+                    - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EC%25B9%25A8%25EB%258C%2580-%25EC%2596%2591%25EC%25AA%25BD%25EC%2597%2590-%25EC%25B9%25A8%25EB%258C%2580%25EC%2599%2580-%25EB%259E%25A8%25ED%2594%2584-2%25EA%25B0%259C%25EA%25B0%2580-%25EC%259E%2588%25EB%258A%2594-%25EC%25B9%25A8%25EC%258B%25A4-ODoVUWbvE6c
+            - generic [ref=f6e442]:
+              - figure [ref=f6e443]:
+                - generic [ref=f6e445]:
+                  - link [ref=f6e662]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B0%9C%EC%BD%94%EB%8B%88%EC%99%80-%EB%B0%9C%EC%BD%94%EB%8B%88%EA%B0%80%EC%9E%88%EB%8A%94-%EA%B3%A0%EC%B8%B5-%EA%B1%B4%EB%AC%BC-PnKhXksESgg
+                  - link [ref=f6e448] [cursor=pointer]:
+                    - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%25B0%259C%25EC%25BD%2594%25EB%258B%2588%25EC%2599%2580-%25EB%25B0%259C%25EC%25BD%2594%25EB%258B%2588%25EA%25B0%2580%25EC%259E%2588%25EB%258A%2594-%25EA%25B3%25A0%25EC%25B8%25B5-%25EA%25B1%25B4%25EB%25AC%25BC-PnKhXksESgg
+              - figure [ref=f6e451]:
+                - link [ref=f6e664]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%91%90%EB%B0%94%EC%9D%B4%EC%9D%98-%EC%9C%A0%EB%A6%AC-%EB%B0%8F-%EA%B0%95%EC%B2%A0-%EB%A7%88%EC%B2%9C%EB%A3%A8-zRPY5N4g2Rs
+              - figure [ref=f6e456]:
+                - link [ref=f6e666]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%8A%A4%ED%86%A1%ED%99%80%EB%A6%84-%EC%99%95%EA%B6%81%EC%9D%98-%EC%B0%BD%EB%AC%B8-DSPiOXBmdwg
+              - figure [ref=f6e461]:
+                - link [ref=f6e668]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B2%80%EC%9D%80-%EB%8C%80%EB%A6%AC%EC%84%9D%EA%B3%BC-%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84-%EB%B2%BD%EB%82%9C%EB%A1%9C-HlxkxVsy26c
+              - figure [ref=f6e466]:
+                - generic [ref=f6e468]:
+                  - link [ref=f6e670]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B0%80%EA%B5%AC%EC%99%80-%ED%99%94%EB%8D%95%EC%9C%BC%EB%A1%9C-%EA%B0%80%EB%93%9D%ED%95%9C-%EA%B1%B0%EC%8B%A4-3ttZRUvPI6U
+                  - link [ref=f6e471] [cursor=pointer]:
+                    - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EA%25B0%2580%25EA%25B5%25AC%25EC%2599%2580-%25ED%2599%2594%25EB%258D%2595%25EC%259C%25BC%25EB%25A1%259C-%25EA%25B0%2580%25EB%2593%259D%25ED%2595%259C-%25EA%25B1%25B0%25EC%258B%25A4-3ttZRUvPI6U
+              - figure [ref=f6e474]:
+                - link [ref=f6e672]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%ED%9D%90%EB%A6%B0-%ED%95%98%EB%8A%98%EC%9D%84-%EB%B0%B0%EA%B2%BD%EC%9C%BC%EB%A1%9C-%ED%95%9C-%EA%B8%B0%ED%95%98%ED%95%99%EC%A0%81-%EC%9C%A0%EB%A6%AC-%EA%B5%AC%EC%A1%B0-5FVvgWyqAXc
+              - figure [ref=f6e479]:
+                - link [ref=f6e674]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B9%9B%EB%82%98%EB%8A%94-%EB%93%B1%EB%B6%88%EC%9D%B4-%EC%9E%88%EB%8A%94-%EC%9D%BC%EB%B3%B8-%EC%8B%9D%EB%8B%B9-%EA%B1%B4%EB%AC%BC-vhfai5TRcIo
+              - figure [ref=f6e676]:
+                - link [ref=f6e679]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%A7%88%EC%B2%9C%EB%A3%A8%EC%97%90-%EB%B9%84%EC%B9%9C-%ED%99%A9%EA%B8%88%ED%83%91-%EB%B0%98%EC%82%AC%EB%AA%A8-0eJSas1Su2I
+              - figure [ref=f6e681]:
+                - generic [ref=f6e683]:
+                  - link [ref=f6e684]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%ED%9D%90%EB%A6%BF%ED%95%9C-%ED%95%98%EB%8A%98%EC%9D%84-%EB%B0%B0%EA%B2%BD%EC%9C%BC%EB%A1%9C-%EB%91%90-%EA%B0%9C%EC%9D%98-%EA%B3%A0%EC%B8%B5-%EB%B9%8C%EB%94%A9-bjw_uhARFRU
+                  - link [ref=f6e686] [cursor=pointer]:
+                    - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25ED%259D%2590%25EB%25A6%25BF%25ED%2595%259C-%25ED%2595%2598%25EB%258A%2598%25EC%259D%2584-%25EB%25B0%25B0%25EA%25B2%25BD%25EC%259C%25BC%25EB%25A1%259C-%25EB%2591%2590-%25EA%25B0%259C%25EC%259D%2598-%25EA%25B3%25A0%25EC%25B8%25B5-%25EB%25B9%258C%25EB%2594%25A9-bjw_uhARFRU
+              - figure [ref=f6e689]:
+                - link [ref=f6e692]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%B6%A9%EC%B9%AD%EC%9D%98-%EC%A1%B0%EB%AA%85-%EA%B0%84%ED%8C%90%EC%9D%B4-%EC%9E%88%EB%8A%94-%EA%B3%A0%EC%B8%B5-%EB%B9%8C%EB%94%A9-7-I2ySOwcbs
+              - figure [ref=f6e694]:
+                - link [ref=f6e697]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B9%9B%EB%82%98%EB%8A%94-%EC%B0%BD%EB%AC%B8%EC%9D%B4-%EC%9E%88%EB%8A%94-%EC%98%A4%ED%94%BC%EC%8A%A4-%EB%B9%8C%EB%94%A9-AzTmYuLASKw
+              - figure [ref=f6e699]:
+                - generic [ref=f6e701]:
+                  - link [ref=f6e702]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EC%95%84%EB%9E%98%EC%97%90%EC%84%9C-%EB%B3%B8-%ED%9D%B0%EC%83%89-%EB%82%98%EC%84%A0%ED%98%95-%EA%B3%84%EB%8B%A8-0XkSuYhEBtE
+                  - link [ref=f6e704] [cursor=pointer]:
+                    - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EC%2595%2584%25EB%259E%2598%25EC%2597%2590%25EC%2584%259C-%25EB%25B3%25B8-%25ED%259D%25B0%25EC%2583%2589-%25EB%2582%2598%25EC%2584%25A0%25ED%2598%2595-%25EA%25B3%2584%25EB%258B%25A8-0XkSuYhEBtE
+              - figure [ref=f6e707]:
+                - link [ref=f6e710]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%8C%80%EC%A1%B0%EB%90%98%EB%8A%94-%EC%9C%A0%EB%A6%AC-%EC%99%B8%EA%B4%80%EC%9D%84-%EA%B0%80%EC%A7%84-%ED%98%84%EB%8C%80-%EB%A7%88%EC%B2%9C%EB%A3%A8-1S0O1_HsuFU
+              - figure [ref=f6e712]:
+                - generic [ref=f6e714]:
+                  - link [ref=f6e715]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B3%A1%EC%84%A0%ED%98%95-%ED%9D%B0%EC%83%89-%EB%A7%88%EC%B2%9C%EB%A3%A8-%EC%99%B8%EA%B4%80-nqywziB1yrc
+                  - link [ref=f6e717] [cursor=pointer]:
+                    - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EA%25B3%25A1%25EC%2584%25A0%25ED%2598%2595-%25ED%259D%25B0%25EC%2583%2589-%25EB%25A7%2588%25EC%25B2%259C%25EB%25A3%25A8-%25EC%2599%25B8%25EA%25B4%2580-nqywziB1yrc
+              - figure [ref=f6e720]:
+                - generic [ref=f6e722]:
+                  - link [ref=f6e723]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%8F%84%EC%BF%84-ntt-%EB%8F%84%EC%BD%94%EB%AA%A8-%EC%9A%94%EC%9A%94%EA%B8%B0-%EB%B9%8C%EB%94%A9-NTxeAXUj-Qg
+                  - link [ref=f6e725] [cursor=pointer]:
+                    - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%258F%2584%25EC%25BF%2584-ntt-%25EB%258F%2584%25EC%25BD%2594%25EB%25AA%25A8-%25EC%259A%2594%25EC%259A%2594%25EA%25B8%25B0-%25EB%25B9%258C%25EB%2594%25A9-NTxeAXUj-Qg
+              - figure [ref=f6e728]:
+                - link [ref=f6e731]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%ED%9A%8C%EC%83%89-%ED%95%98%EB%8A%98%EC%9D%84-%EB%B0%B0%EA%B2%BD%EC%9C%BC%EB%A1%9C-%EA%B8%88%EC%86%8D-%EB%82%9C%EA%B0%84%EC%9D%B4-%EC%9E%88%EB%8A%94-%EC%BD%98%ED%81%AC%EB%A6%AC%ED%8A%B8-%EB%82%98%EC%84%A0%ED%98%95-%EA%B3%84%EB%8B%A8-iwnzgmABg14
+              - figure [ref=f6e733]:
+                - link [ref=f6e736]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%9D%B4%EC%B8%B5-%EC%B9%A8%EB%8C%80%EC%99%80-%EB%85%B9%EC%83%89-%EC%9D%98%EC%9E%90%EA%B0%80-%EC%9E%88%EB%8A%94-%EB%B0%A9-tMPXRN6nXT4
+              - figure [ref=f6e738]:
+                - link [ref=f6e741]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%ED%8C%8C%EB%9E%80-%EC%B9%A8%EB%8C%80-%EC%9C%84%EC%9D%98-%ED%98%B8%EB%9E%91%EC%9D%B4-%EB%B2%A0%EA%B0%9C-iiA8AUGSeWk
+              - figure [ref=f6e743]:
+                - link [ref=f6e746]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%ED%95%B4%EB%B0%94%EB%9D%BC%EA%B8%B0-%EB%B6%80%EC%A1%B0%EA%B0%80-%EC%9E%88%EB%8A%94-%EC%84%9D%EC%A1%B0-%EB%B2%BD-FdT6vNHtVT8
+              - figure [ref=f6e748]:
+                - link [ref=f6e751]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%82%98%EB%AC%B4-%EC%BA%90%EB%B9%84%EB%8B%9B%EC%9D%B4-%EC%9E%88%EB%8A%94-%ED%98%84%EB%8C%80%EC%8B%9D-%EC%A3%BC%EB%B0%A9-xuq5LucyvNM
+              - figure [ref=f6e753]:
+                - link [ref=f6e756]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B2%BD%EB%8F%8C-%EB%B2%BD%EB%82%9C%EB%A1%9C%EA%B0%80-%EC%9E%88%EB%8A%94-%EC%95%84%EB%8A%91%ED%95%9C-%EA%B1%B0%EC%8B%A4-fVztFISaYzQ
+            - generic [ref=f6e484]:
+              - figure [ref=f6e485]:
+                - link [ref=f6e758]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%BD%94%ED%8E%9C%ED%95%98%EA%B2%90%EC%9D%98-%EB%B8%94%EB%9E%99-%EB%8B%A4%EC%9D%B4%EC%95%84%EB%AA%AC%EB%93%9C-%EB%8F%84%EC%84%9C%EA%B4%80-%EC%95%84%ED%8A%B8%EB%A6%AC%EC%9B%80-M9psubdS5aw
+              - figure [ref=f6e490]:
+                - link [ref=f6e760]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%ED%9D%90%EB%A6%B0-%ED%95%98%EB%8A%98%EC%9D%84-%EB%B0%B0%EA%B2%BD%EC%9C%BC%EB%A1%9C-%ED%8E%84%EB%9F%AD%EC%9D%B4%EB%8A%94-%EB%AF%B8%EA%B5%AD-%EA%B5%AD%EA%B8%B0-5vFIccaHr0A
+              - figure [ref=f6e495]:
+                - link [ref=f6e762]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%ED%98%84%EB%8C%80-%EA%B1%B4%EB%AC%BC%EC%9D%98-%EB%82%98%EC%84%A0%ED%98%95-%EC%BD%98%ED%81%AC%EB%A6%AC%ED%8A%B8-%EA%B3%84%EB%8B%A8-3GbiZg8xKxE
+              - figure [ref=f6e500]:
+                - link [ref=f6e764]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%88%B2%EC%9D%B4-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EB%8B%A4%EB%8B%A4%EB%AF%B8-%EB%B0%A9-hdIHBHS_qI4
+              - figure [ref=f6e505]:
+                - link [ref=f6e766]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B0%A9%EC%BD%95%EC%9D%98-%ED%99%94%EB%A0%A4%ED%95%9C-%EC%82%AC%EC%9B%90-%EB%8B%B4%EC%9E%A5-HEnrJgBeMaQ
+              - figure [ref=f6e510]:
+                - link [ref=f6e768]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%98%A4%ED%94%88-%ED%94%8C%EB%9E%9C-%EA%B1%B0%EC%8B%A4-%EB%B0%8F-%EB%8B%A4%EC%9D%B4%EB%8B%9D%EB%A3%B8-MkNaa7tk5Gs
+              - figure [ref=f6e515]:
+                - link [ref=f6e770]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%ED%8E%9C%EB%8D%98%ED%8A%B8-%EC%A1%B0%EB%AA%85%EC%9D%B4-%EB%8B%AC%EB%A6%B0-%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8-%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91-%EB%82%B4%EB%B6%80-mtdMdQISn-E
+              - figure [ref=f6e520]:
+                - link [ref=f6e772]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%9D%BC%EB%AA%B0-%EB%95%8C-%EC%82%AC%EB%AC%B4%EC%8B%A4-%EA%B1%B4%EB%AC%BC-%EC%95%88%EC%9D%98-%EC%82%AC%EB%9E%8C%EB%93%A4-jM11MrNrkk4
+              - figure [ref=f6e774]:
+                - link [ref=f6e777]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%85%B9%EC%83%89-%EC%9D%98%EC%9E%90%EC%99%80-%EB%8B%A4%EC%B1%84%EB%A1%9C%EC%9A%B4-%EB%B2%BD-%EC%95%84%ED%8A%B8%EA%B0%80-%EC%9E%88%EB%8A%94-%EB%B3%B5%EA%B3%A0%ED%92%8D-%EC%BA%90%EB%B9%84%EB%8B%9B-qCSkw0MR2g0
+              - figure [ref=f6e779]:
+                - link [ref=f6e782]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%95%88%EA%B0%9C-%EC%86%8D%EC%97%90-%EB%B9%9B%EB%82%98%EB%8A%94-%EC%B0%BD%EB%AC%B8%EC%9D%B4-%EC%9E%88%EB%8A%94-%EA%B3%A0%EC%B8%B5-%EB%B9%8C%EB%94%A9-9_guGJhSk6Q
+              - figure [ref=f6e784]:
+                - link [ref=f6e787]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%ED%94%8C%EB%A1%9C%EC%96%B4-%EB%9E%A8%ED%94%84%EC%99%80-%ED%99%A9%EA%B0%88%EC%83%89-%EA%B0%80%EC%A3%BD-%EC%95%88%EB%9D%BD%EC%9D%98%EC%9E%90-Um_dxFm30Ro
+              - figure [ref=f6e789]:
+                - link [ref=f6e792]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%B0%BD%EA%B0%80%EC%97%90-%EC%9E%88%EB%8A%94-%EB%82%98%EB%AC%B4-%EC%9D%98%EC%9E%90%EC%99%80-%ED%83%81%EC%9E%90-fta5pzyM0T8
+              - figure [ref=f6e794]:
+                - link [ref=f6e797]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B2%80%EC%9D%80-%EB%8C%80%EB%A6%AC%EC%84%9D-%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C%EA%B0%80-%EC%9E%88%EB%8A%94-%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8-%EC%A3%BC%EB%B0%A9-Ht0wYrdIWGQ
+              - figure [ref=f6e799]:
+                - link [ref=f6e802]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B2%BD%EC%9D%84-%EB%B0%B0%EA%B2%BD%EC%9C%BC%EB%A1%9C-%ED%95%9C-%EB%AF%B8%EB%8B%88%EB%A9%80%EB%A6%AC%EC%8A%A4%ED%8A%B8-%ED%9D%B0%EC%83%89-%EA%B3%84%EB%8B%A8-gYBgehmmAZs
+              - figure [ref=f6e804]:
+                - link [ref=f6e807]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%84%A0%EC%A0%84%EC%9D%98-%EA%B3%A1%EC%84%A0-%EA%B8%88%EC%86%8D-%EC%99%B8%EA%B4%80-yp4AkzlcWjM
+              - figure [ref=f6e809]:
+                - link [ref=f6e812]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B2%BD%EC%97%90%EB%8A%94-%EA%B8%88%EC%83%89-%EC%95%A1%EC%9E%90%EA%B0%80-%EB%8B%AC%EB%A6%B0-%EB%91%90-%EC%A0%90%EC%9D%98-%EC%B6%94%EC%83%81%ED%99%94%EA%B0%80-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-5QkVyDGJTZk
+              - figure [ref=f6e814]:
+                - generic [ref=f6e816]:
+                  - link [ref=f6e817]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B1%B0%EC%8B%A4-%EC%B1%85-%EC%9C%84%EC%97%90-%EC%9E%88%EB%8A%94-%EC%9C%A0%EB%A6%AC-%EA%BD%83%EB%B3%91-axafrt7BzJI
+                  - link [ref=f6e819] [cursor=pointer]:
+                    - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EA%25B1%25B0%25EC%258B%25A4-%25EC%25B1%2585-%25EC%259C%2584%25EC%2597%2590-%25EC%259E%2588%25EB%258A%2594-%25EC%259C%25A0%25EB%25A6%25AC-%25EA%25BD%2583%25EB%25B3%2591-axafrt7BzJI
+              - figure [ref=f6e822]:
+                - link [ref=f6e825]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%98%A4%EC%8A%AC%EB%A1%9C%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%9E%88%EB%A7%8C-%EB%B7%94%EB%A5%B4%EB%B9%84%EC%B9%B4-%EB%8F%84%EC%84%9C%EA%B4%80-%EB%82%B4%EB%B6%80-dLjA3-6ML_8
+              - figure [ref=f6e827]:
+                - link [ref=f6e830]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%B0%BD%EA%B0%80%EC%97%90-%EA%B7%B8%EB%A6%BC%EC%9E%90%EA%B0%80-%EC%9E%88%EB%8A%94-%ED%94%8C%EB%A1%9C%EC%96%B4-%EB%9E%A8%ED%94%84-5aYLpPEnXNw
+              - figure [ref=f6e832]:
+                - generic [ref=f6e834]:
+                  - link [ref=f6e835]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EC%B9%A8%EC%8B%A4-%EC%B9%A8%EB%8C%80-%EC%9C%84%EC%97%90-%EC%9C%A0%EB%A6%AC-%ED%8E%9C%EB%8D%98%ED%8A%B8-%EB%9D%BC%EC%9D%B4%ED%8A%B8-F1le0xPhjr8
+                  - link [ref=f6e837] [cursor=pointer]:
+                    - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EC%25B9%25A8%25EC%258B%25A4-%25EC%25B9%25A8%25EB%258C%2580-%25EC%259C%2584%25EC%2597%2590-%25EC%259C%25A0%25EB%25A6%25AC-%25ED%258E%259C%25EB%258D%2598%25ED%258A%25B8-%25EB%259D%25BC%25EC%259D%25B4%25ED%258A%25B8-F1le0xPhjr8
+              - figure [ref=f6e840]:
+                - link [ref=f6e843]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EC%BA%94%ED%8B%B8%EB%A0%88%EB%B2%84-%EB%B0%9C%EC%BD%94%EB%8B%88%EA%B0%80-%EC%9E%88%EB%8A%94-%ED%98%84%EB%8C%80%EC%8B%9D-%EC%95%84%ED%8C%8C%ED%8A%B8-%EA%B1%B4%EB%AC%BC-JEFUw7oJ30E
+              - figure [ref=f6e845]:
+                - link [ref=f6e848]:
+                  - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B2%BD%EB%8F%8C-%EB%B2%BD%EB%82%9C%EB%A1%9C%EA%B0%80-%EC%9E%88%EB%8A%94-%EC%95%84%EB%8A%91%ED%95%9C-%EA%B1%B0%EC%8B%A4-PN8bxi3zZ_4
+      - generic:
+        - region "Notifications"
+  - generic:
+    - dialog:
+      - button [active] [ref=f6e854] [cursor=pointer]
+      - link "이전" [ref=f6e857] [cursor=pointer]:
+        - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B3%A1%EC%84%A0%ED%98%95-%ED%8C%8C%EB%9E%80%EC%83%89-%EA%B1%B4%EC%B6%95-%ED%8C%A8%EB%84%90-%EA%B2%A9%EC%9E%90-WCL1Ra0pkUw
+      - link "다음" [ref=f6e860] [cursor=pointer]:
+        - /url: /ko/%EC%82%AC%EC%A7%84/%EB%8C%80%EB%A6%AC%EC%84%9D-%EC%B9%B4%EC%9A%B4%ED%84%B0%EC%99%80-%ED%98%B8%ED%99%94%EB%A1%9C%EC%9A%B4-%EC%A2%8C%EC%84%9D%EC%9D%B4-%EC%9E%88%EB%8A%94-%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8-%EB%B0%94%EC%9E%85%EB%8B%88%EB%8B%A4-AFqywRJbX9k
+      - generic [ref=f6e864]:
+        - generic [ref=f6e865]:
+          - banner [ref=f6e867]:
+            - generic [ref=f6e869]:
+              - link [ref=f6e870] [cursor=pointer]:
+                - /url: /ko/@justmejuliee
+              - generic [ref=f6e873]:
+                - link "Julia Taubitz" [ref=f6e874] [cursor=pointer]:
+                  - /url: /ko/@justmejuliee
+                - link "고용 가능" [ref=f6e876] [cursor=pointer]:
+                  - /url: /ko/@justmejuliee
+            - generic [ref=f6e879]:
+              - button "북마크" [ref=f6e880] [cursor=pointer]
+              - button "컬렉션에 추가" [ref=f6e883] [cursor=pointer]
+              - button "이미지 편집" [ref=f6e886] [cursor=pointer]
+              - generic [ref=f6e890]:
+                - link "무료 다운로드" [ref=f6e891] [cursor=pointer]:
+                  - /url: https://unsplash.com/photos/DSPiOXBmdwg/download?force=true
+                - button "다운로드 크기 선택" [ref=f6e893] [cursor=pointer]
+          - button "이 이미지 확대" [ref=f6e899]:
+            - img "스톡홀름 왕궁의 높은 창문, 빛이 바닥에 그림자를 드리우는 모습" [ref=f6e900]
+          - generic [ref=f6e901]:
+            - generic [ref=f6e902]:
+              - generic [ref=f6e903]:
+                - generic [ref=f6e904]:
+                  - heading "조회수" [level=3] [ref=f6e905]
+                  - text: 56,258
+                - generic [ref=f6e906]:
+                  - heading "다운로드" [level=3] [ref=f6e907]
+                  - text: "548"
+              - generic [ref=f6e909]:
+                - heading "소개 매체" [level=3] [ref=f6e910]
+                - generic [ref=f6e911]:
+                  - link "사진" [ref=f6e912] [cursor=pointer]:
+                    - /url: /ko
+                  - text: ","
+                  - link "건축학" [ref=f6e913] [cursor=pointer]:
+                    - /url: /ko/t/architecture-interior
+              - generic [ref=f6e914]:
+                - button "이 이미지 공유" [ref=f6e915] [cursor=pointer]:
+                  - generic [ref=f6e918]: 공유
+                - button "이 이미지 관련 통계" [ref=f6e919] [cursor=pointer]:
+                  - generic [ref=f6e922]: 정보
+                - button "더 많은 작업" [ref=f6e923] [cursor=pointer]
+            - generic [ref=f6e928]:
+              - generic [ref=f6e929]: Kungliga slottet, Stockholm, Schweden
+              - generic [ref=f6e938]:
+                - time [ref=f6e939]: 6일 전
+                - text: 에 게시됨
+              - button "NIKON CORPORATION, NIKON Z6_3" [ref=f6e944] [cursor=pointer]
+              - generic [ref=f6e948]:
+                - link "Unsplash 라이선스" [ref=f6e949] [cursor=pointer]:
+                  - /url: /ko/%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4
+                - text: 하에서 무료로 사용 가능
+            - generic [ref=f6e951]:
+              - link "건물" [ref=f6e952] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EA%B1%B4%EB%AC%BC
+              - link "건축학" [ref=f6e953] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EA%B1%B4%EC%B6%95%ED%95%99
+              - link "인테리어 디자인" [ref=f6e954] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4-%EB%94%94%EC%9E%90%EC%9D%B8
+              - link "구름" [ref=f6e955] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EA%B5%AC%EB%A6%84
+              - link "내부" [ref=f6e956] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%82%B4%EB%B6%80
+              - link "도시" [ref=f6e957] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%8F%84%EC%8B%9C
+              - link "관광" [ref=f6e958] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EA%B4%80%EA%B4%91
+              - link "관점" [ref=f6e959] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EA%B4%80%EC%A0%90
+              - link "여행 목적지" [ref=f6e960] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EC%97%AC%ED%96%89-%EB%AA%A9%EC%A0%81%EC%A7%80
+              - link "대조" [ref=f6e961] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%8C%80%EC%A1%B0
+              - link "문화 유산" [ref=f6e962] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%AC%B8%ED%99%94-%EC%9C%A0%EC%82%B0
+              - link "벤치" [ref=f6e963] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%B2%A4%EC%B9%98
+              - link "창 전망" [ref=f6e964] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EC%B0%BD-%EC%A0%84%EB%A7%9D
+              - 'link "전망: 시티뷰" [ref=f6e965] [cursor=pointer]':
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EC%A0%84%EB%A7%9D%3A-%EC%8B%9C%ED%8B%B0%EB%B7%B0
+              - link "빛과 그림자" [ref=f6e966] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%B9%9B%EA%B3%BC-%EA%B7%B8%EB%A6%BC%EC%9E%90
+              - link "경치 좋은 전망" [ref=f6e967] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EA%B2%BD%EC%B9%98-%EC%A2%8B%EC%9D%80-%EC%A0%84%EB%A7%9D
+              - link "묵상" [ref=f6e968] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%AC%B5%EC%83%81
+              - link "자연광" [ref=f6e969] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EC%9E%90%EC%97%B0%EA%B4%91
+              - link "아키텍처 세부 정보" [ref=f6e970] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%84%B8%EB%B6%80-%EC%A0%95%EB%B3%B4
+              - link "창 조명" [ref=f6e971] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EC%B0%BD-%EC%A1%B0%EB%AA%85
+              - link "Creative Commons 이미지" [ref=f6e972] [cursor=pointer]:
+                - /url: /ko/images/stock/creative-common
+        - generic [ref=f6e975]:
+          - generic [ref=f6e976]:
+            - paragraph [ref=f6e978]: iStock에서 프리미엄 관련 이미지 찾아보기 | 코드 UNSPLASH20로 20% 할인 혜택 받기
+            - generic [ref=f6e980]:
+              - link [ref=f6e981] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/vertical-shot-of-light-shining-through-the-wooden-window-of-stone-building-gm1439136265-479473805?utm_source=unsplash&utm_medium=affiliate&utm_campaign=adp_photos_sponsored&utm_content=https%3A%2F%2Funsplash.com%2Fko%2Ft%2Farchitecture-interior%3Fasset%3D%255B%2522Photos%2522%252C%257B%2522slug%2522%253A%2522%25EC%258A%25A4%25ED%2586%25A1%25ED%2599%2580%25EB%25A6%2584-%25EC%2599%2595%25EA%25B6%2581%25EC%259D%2598-%25EC%25B0%25BD%25EB%25AC%25B8-DSPiOXBmdwg%2522%257D%255D&utm_term=%EA%B1%B4%EB%AC%BC%3A%3A%3A%3Ad8b46b8d-a854-4070-ab21-3720ccbbed6d
+                - img "석조 건물의 나무 창문을 통해 빛나는 빛의 수직 샷" [ref=f6e982]
+              - link [ref=f6e983] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/antique-church-interior-in-orta-san-giulio-lake-orta-italy-gm1139725601-304730345?utm_source=unsplash&utm_medium=affiliate&utm_campaign=adp_photos_sponsored&utm_content=https%3A%2F%2Funsplash.com%2Fko%2Ft%2Farchitecture-interior%3Fasset%3D%255B%2522Photos%2522%252C%257B%2522slug%2522%253A%2522%25EC%258A%25A4%25ED%2586%25A1%25ED%2599%2580%25EB%25A6%2584-%25EC%2599%2595%25EA%25B6%2581%25EC%259D%2598-%25EC%25B0%25BD%25EB%25AC%25B8-DSPiOXBmdwg%2522%257D%255D&utm_term=%EA%B1%B4%EB%AC%BC%3A%3A%3A%3Acb8c319f-42fc-441a-8fd0-34ffce9d4273
+                - img "오르타 산 줄 리오의 앤티크 교회 인테리어, 오르타 호수, 이탈리아" [ref=f6e984]
+              - link [ref=f6e985] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/interior-of-orthodox-church-baroque-style-with-window-shadows-and-sun-light-gm1265149179-370731009?utm_source=unsplash&utm_medium=affiliate&utm_campaign=adp_photos_sponsored&utm_content=https%3A%2F%2Funsplash.com%2Fko%2Ft%2Farchitecture-interior%3Fasset%3D%255B%2522Photos%2522%252C%257B%2522slug%2522%253A%2522%25EC%258A%25A4%25ED%2586%25A1%25ED%2599%2580%25EB%25A6%2584-%25EC%2599%2595%25EA%25B6%2581%25EC%259D%2598-%25EC%25B0%25BD%25EB%25AC%25B8-DSPiOXBmdwg%2522%257D%255D&utm_term=%EA%B1%B4%EB%AC%BC%3A%3A%3A%3A957dbe05-45f6-45a2-968b-e4dddc8202b6
+                - img "정통 교회의 인테리어, 창문, 그림자, 태양 빛이있는 바로크 양식" [ref=f6e986]
+              - link [ref=f6e987] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/seats-by-a-window-in-black-and-white-gm1493234042-516991811?utm_source=unsplash&utm_medium=affiliate&utm_campaign=adp_photos_sponsored&utm_content=https%3A%2F%2Funsplash.com%2Fko%2Ft%2Farchitecture-interior%3Fasset%3D%255B%2522Photos%2522%252C%257B%2522slug%2522%253A%2522%25EC%258A%25A4%25ED%2586%25A1%25ED%2599%2580%25EB%25A6%2584-%25EC%2599%2595%25EA%25B6%2581%25EC%259D%2598-%25EC%25B0%25BD%25EB%25AC%25B8-DSPiOXBmdwg%2522%257D%255D&utm_term=%EA%B1%B4%EB%AC%BC%3A%3A%3A%3A60641343-8634-4071-a0dc-0f63219429bc
+                - img "흑백으로 창가에 앉다" [ref=f6e988]
+              - link [ref=f6e989] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/shadow-window-gm480838232-68918965?utm_source=unsplash&utm_medium=affiliate&utm_campaign=adp_photos_sponsored&utm_content=https%3A%2F%2Funsplash.com%2Fko%2Ft%2Farchitecture-interior%3Fasset%3D%255B%2522Photos%2522%252C%257B%2522slug%2522%253A%2522%25EC%258A%25A4%25ED%2586%25A1%25ED%2599%2580%25EB%25A6%2584-%25EC%2599%2595%25EA%25B6%2581%25EC%259D%2598-%25EC%25B0%25BD%25EB%25AC%25B8-DSPiOXBmdwg%2522%257D%255D&utm_term=%EA%B1%B4%EB%AC%BC%3A%3A%3A%3A6ea117d3-6166-4585-a029-80fc357dd12c
+                - img "shadow 창" [ref=f6e990]
+              - link [ref=f6e991] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/classical-dark-room-with-sunlight-coming-from-the-window-gm1433559525-475437523?utm_source=unsplash&utm_medium=affiliate&utm_campaign=adp_photos_sponsored&utm_content=https%3A%2F%2Funsplash.com%2Fko%2Ft%2Farchitecture-interior%3Fasset%3D%255B%2522Photos%2522%252C%257B%2522slug%2522%253A%2522%25EC%258A%25A4%25ED%2586%25A1%25ED%2599%2580%25EB%25A6%2584-%25EC%2599%2595%25EA%25B6%2581%25EC%259D%2598-%25EC%25B0%25BD%25EB%25AC%25B8-DSPiOXBmdwg%2522%257D%255D&utm_term=%EA%B1%B4%EB%AC%BC%3A%3A%3A%3Afc50ddc7-dab1-45cd-a7e1-2713ab5f49cc
+                - img "창문에서 햇빛이 들어오는 고전적인 어두운 방" [ref=f6e992]
+              - link [ref=f6e993] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/frederiks-church-window-gm1169023830-322997183?utm_source=unsplash&utm_medium=affiliate&utm_campaign=adp_photos_sponsored&utm_content=https%3A%2F%2Funsplash.com%2Fko%2Ft%2Farchitecture-interior%3Fasset%3D%255B%2522Photos%2522%252C%257B%2522slug%2522%253A%2522%25EC%258A%25A4%25ED%2586%25A1%25ED%2599%2580%25EB%25A6%2584-%25EC%2599%2595%25EA%25B6%2581%25EC%259D%2598-%25EC%25B0%25BD%25EB%25AC%25B8-DSPiOXBmdwg%2522%257D%255D&utm_term=%EA%B1%B4%EB%AC%BC%3A%3A%3A%3A095dccfe-4363-4c2c-a8ae-764367355ddd
+                - img "프레데릭의 교회 창문" [ref=f6e994]
+              - generic [ref=f6e995]:
+                - link [ref=f6e996] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/photo/room-and-window-in-the-vatican-museum-gm179490806-26665597?utm_source=unsplash&utm_medium=affiliate&utm_campaign=adp_photos_sponsored&utm_content=https%3A%2F%2Funsplash.com%2Fko%2Ft%2Farchitecture-interior%3Fasset%3D%255B%2522Photos%2522%252C%257B%2522slug%2522%253A%2522%25EC%258A%25A4%25ED%2586%25A1%25ED%2599%2580%25EB%25A6%2584-%25EC%2599%2595%25EA%25B6%2581%25EC%259D%2598-%25EC%25B0%25BD%25EB%25AC%25B8-DSPiOXBmdwg%2522%257D%255D&utm_term=%EA%B1%B4%EB%AC%BC%3A%3A%3A%3Ad8bb63d0-b3e5-4fd4-ab74-bae4b8269d65
+                  - img "객실 및 창을 바티칸 박물관" [ref=f6e997]
+                - link "iStock에서 더 많은 자료 보기 ↗" [ref=f6e998] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/search-by-image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=adp_photos_sponsored&utm_content=https%3A%2F%2Funsplash.com%2Fko%2Ft%2Farchitecture-interior%3Fasset%3D%255B%2522Photos%2522%252C%257B%2522slug%2522%253A%2522%25EC%258A%25A4%25ED%2586%25A1%25ED%2599%2580%25EB%25A6%2584-%25EC%2599%2595%25EA%25B6%2581%25EC%259D%2598-%25EC%25B0%25BD%25EB%25AC%25B8-DSPiOXBmdwg%2522%257D%255D&utm_term=%EA%B1%B4%EB%AC%BC%3A%3A%3A%3A0e9e4868-ec56-4e1b-9390-842a6eecc7b1&mediatype=photography&imageurl=aHR0cHM6Ly9zMy51cy13ZXN0LTIuYW1hem9uYXdzLmNvbS9pbWFnZXMudW5zcGxhc2guY29tL3NtYWxsL3Bob3RvLTE3OTUwMDAwNjk4MjUtNmJlOTliNTBkZWEx&assettype=image
+          - generic [ref=f6e999]:
+            - heading "관련 이미지" [level=4] [ref=f6e1001]
+            - generic [ref=f6e1005]:
+              - generic [ref=f6e1006]:
+                - figure [ref=f6e1007]:
+                  - link [ref=f6e1010]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%8F%84%EC%8B%9C%EA%B0%80-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EA%B1%B4%EB%AC%BC%EC%9D%98-%EC%B0%BD%EB%AC%B8-vF3QSsbFtyA
+                    - img "도시가 보이는 건물의 창문" [ref=f6e1011]
+                - figure [ref=f6e1012]:
+                  - generic [ref=f6e1014]:
+                    - link [ref=f6e1015]:
+                      - /url: /ko/%EC%82%AC%EC%A7%84/%ED%96%87%EB%B9%9B%EC%9D%B4-%EC%B0%BD%EB%AC%B8%EC%9D%84-%ED%86%B5%ED%95%B4-%EC%8F%9F%EC%95%84%EC%A0%B8-%EB%82%98%EC%99%80-%EA%B7%B8%EB%A6%BC%EC%9E%90%EB%A5%BC-%EB%93%9C%EB%A6%AC%EC%9A%B4%EB%8B%A4-oJddGQ-4CuY
+                      - img "햇빛이 창문을 통해 쏟아져 나와 그림자를 드리운다" [ref=f6e1016]
+                    - link [ref=f6e1017] [cursor=pointer]:
+                      - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25ED%2596%2587%25EB%25B9%259B%25EC%259D%25B4-%25EC%25B0%25BD%25EB%25AC%25B8%25EC%259D%2584-%25ED%2586%25B5%25ED%2595%25B4-%25EC%258F%259F%25EC%2595%2584%25EC%25A0%25B8-%25EB%2582%2598%25EC%2599%2580-%25EA%25B7%25B8%25EB%25A6%25BC%25EC%259E%2590%25EB%25A5%25BC-%25EB%2593%259C%25EB%25A6%25AC%25EC%259A%25B4%25EB%258B%25A4-oJddGQ-4CuY
+                - figure [ref=f6e1020]:
+                  - link [ref=f6e1023]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%ED%81%B0-%EC%B0%BD%EB%AC%B8%EA%B3%BC-%EC%8B%9C%EA%B3%84%ED%83%91%EC%9D%84-%EB%B0%B0%EA%B2%BD%EC%9C%BC%EB%A1%9C-%ED%95%9C-%EB%B9%88-%EB%B0%A9-FoRQ781vxW4
+                    - img "큰 창문과 시계탑을 배경으로 한 빈 방" [ref=f6e1024]
+                - figure [ref=f6e1025]:
+                  - generic [ref=f6e1027]:
+                    - link [ref=f6e1028]:
+                      - /url: /ko/%EC%82%AC%EC%A7%84/%ED%81%B0-%EC%B0%BD%EB%AC%B8%EA%B3%BC-%EC%BB%A4%ED%8A%BC%EC%9D%B4-%EC%9E%88%EB%8A%94-%EC%96%B4%EB%91%90%EC%9A%B4-%EB%B0%A9-iwli00t81-g
+                      - img "큰 창문과 커튼이 있는 어두운 방" [ref=f6e1029]
+                    - link [ref=f6e1030] [cursor=pointer]:
+                      - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25ED%2581%25B0-%25EC%25B0%25BD%25EB%25AC%25B8%25EA%25B3%25BC-%25EC%25BB%25A4%25ED%258A%25BC%25EC%259D%25B4-%25EC%259E%2588%25EB%258A%2594-%25EC%2596%25B4%25EB%2591%2590%25EC%259A%25B4-%25EB%25B0%25A9-iwli00t81-g
+                - figure [ref=f6e1033]:
+                  - link [ref=f6e1036]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B0%94%EA%B9%A5-%EB%82%98%EB%AC%B4%EA%B0%80-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EC%B0%BD%EB%AC%B8-IPhuAzar8HE
+                    - img "바깥 나무가 보이는 창문" [ref=f6e1037]
+                - figure [ref=f6e1038]:
+                  - generic [ref=f6e1040]:
+                    - link [ref=f6e1041]:
+                      - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B0%96%EC%97%90-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EC%84%9D%EC%A1%B0-%EA%B1%B4%EB%AC%BC%EC%9D%B4-%EC%9E%88%EB%8A%94-%EC%95%84%EC%B9%98%ED%98%95-%EC%B0%BD%EB%AC%B8-47wi14_yMiU
+                      - img "밖에 보이는 석조 건물이 있는 아치형 창문" [ref=f6e1042]
+                    - link [ref=f6e1043] [cursor=pointer]:
+                      - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%25B0%2596%25EC%2597%2590-%25EB%25B3%25B4%25EC%259D%25B4%25EB%258A%2594-%25EC%2584%259D%25EC%25A1%25B0-%25EA%25B1%25B4%25EB%25AC%25BC%25EC%259D%25B4-%25EC%259E%2588%25EB%258A%2594-%25EC%2595%2584%25EC%25B9%2598%25ED%2598%2595-%25EC%25B0%25BD%25EB%25AC%25B8-47wi14_yMiU
+                - figure [ref=f6e1046]:
+                  - link [ref=f6e1049]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EC%88%98%EC%97%AD%EC%9D%84-%EB%B3%BC-%EC%88%98%EC%9E%88%EB%8A%94-%EC%B0%BD-3CgqLLHTH_Y
+                    - img "수역을 볼 수있는 창" [ref=f6e1050]
+                - figure [ref=f6e1051]:
+                  - link [ref=f6e1054]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%91%90-%EA%B0%9C%EC%9D%98-%EC%B0%BD%EB%AC%B8%EA%B3%BC-%EA%B8%B4-%EA%B7%B8%EB%A6%BC%EC%9E%90%EA%B0%80-%EC%9E%88%EB%8A%94-%EC%96%B4%EB%91%90%EC%9A%B4-%EB%B0%A9-PsETAHlpgRo
+                    - img "두 개의 창문과 긴 그림자가 있는 어두운 방" [ref=f6e1055]
+                - figure [ref=f6e1056]:
+                  - link [ref=f6e1059]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EC%B0%BD%EB%AC%B8%EC%9D%84-%ED%86%B5%ED%95%B4-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EA%B1%B4%EB%AC%BC-fHyeFOOipsA
+                    - img "창문을 통해 보이는 건물" [ref=f6e1060]
+                - figure [ref=f6e1061]:
+                  - link [ref=f6e1064]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%ED%96%87%EB%B9%9B%EC%9D%B4-%EB%86%92%EC%9D%80-%EC%B0%BD%EB%AC%B8%EC%9D%84-%ED%86%B5%ED%95%B4-%EC%9B%85%EC%9E%A5%ED%95%9C-%ED%99%80%EB%A1%9C-%EB%93%A4%EC%96%B4%EC%98%B5%EB%8B%88%EB%8B%A4-YVg2ArIPdzw
+                    - img "햇빛이 높은 창문을 통해 웅장한 홀로 들어옵니다" [ref=f6e1065]
+              - generic [ref=f6e1066]:
+                - figure [ref=f6e1067]:
+                  - link [ref=f6e1070]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B0%88%EC%83%89-%EB%82%98%EB%AC%B4-%EC%95%A1%EC%9E%90-%EC%9C%A0%EB%A6%AC%EC%B0%BD-2N9nsOojYug
+                    - img "갈색 나무 액자 유리창" [ref=f6e1071]
+                - figure [ref=f6e1072]:
+                  - link [ref=f6e1075]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B0%88%EC%83%89-%EB%82%98%EB%AC%B4-%EC%95%A1%EC%9E%90-%EC%9C%A0%EB%A6%AC%EC%B0%BD-eG22jiMp1kQ
+                    - img "갈색 나무 액자 유리창" [ref=f6e1076]
+                - figure [ref=f6e1077]:
+                  - link [ref=f6e1080]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B2%BD%EB%8F%8C-%EB%B0%94%EB%8B%A5%EA%B3%BC-%EC%B0%BD%EB%AC%B8%EC%9D%B4-%EC%9E%88%EB%8A%94-%EB%B0%A9-VA-x2F1jb_k
+                    - img "벽돌 바닥과 창문이 있는 방" [ref=f6e1081]
+                - figure [ref=f6e1082]:
+                  - link [ref=f6e1085]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%82%AE%EC%97%90%EB%8A%94-%EC%B0%BD%EA%B0%80%EC%97%90-%EB%B2%A4%EC%B9%98%EA%B0%80-%EC%9E%88%EB%8A%94-%EA%B1%B4%EB%AC%BC-E8b9czDAxqU
+                    - img "낮에는 창가에 벤치가 있는 건물" [ref=f6e1086]
+                - figure [ref=f6e1087]:
+                  - link [ref=f6e1090]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%91%90-%EA%B0%9C%EC%9D%98-%EC%B0%BD%EB%AC%B8%EA%B3%BC-%EB%8F%8C-%EB%B0%94%EB%8B%A5%EC%9D%B4-%EC%9E%88%EB%8A%94-%EB%84%93%EC%9D%80-%EB%B0%A9%EC%9E%85%EB%8B%88%EB%8B%A4-u0RpCrL_DTE
+                    - img "두 개의 창문과 돌 바닥이 있는 넓은 방입니다" [ref=f6e1091]
+                - figure [ref=f6e1092]:
+                  - link [ref=f6e1095]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%ED%96%87%EB%B9%9B%EC%9D%B4-%EC%9B%85%EC%9E%A5%ED%95%9C-%ED%99%80%EB%A1%9C-%EB%93%A4%EC%96%B4%EC%98%A4%EB%8A%94-%EC%95%84%EC%B9%98%ED%98%95-%EC%B0%BD%EB%AC%B8-WXXdazXVALk
+                    - img "햇빛이 웅장한 홀로 들어오는 아치형 창문" [ref=f6e1096]
+                - figure [ref=f6e1097]:
+                  - link [ref=f6e1100]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EC%B2%B4%ED%81%AC-%EB%AC%B4%EB%8A%AC-%EB%B0%94%EB%8B%A5%EA%B3%BC-%EC%B0%BD%EB%AC%B8%EC%9D%B4%EC%9E%88%EB%8A%94-%EB%B0%A9-cdPi_HKjZM8
+                    - img "체크 무늬 바닥과 창문이있는 방" [ref=f6e1101]
+                - figure [ref=f6e1102]:
+                  - generic [ref=f6e1104]:
+                    - link [ref=f6e1105]:
+                      - /url: /ko/%EC%82%AC%EC%A7%84/%ED%98%B8%EC%88%98%EC%99%80-%EC%82%B0%EC%9D%98-%EC%A0%84%EB%A7%9D%EC%9D%84-%EA%B0%90%EC%83%81%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%B0%BD%EB%AC%B8-ILZicJtFx8s
+                      - img "호수와 산의 전망을 감상할 수 있는 창문" [ref=f6e1106]
+                    - link [ref=f6e1107] [cursor=pointer]:
+                      - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25ED%2598%25B8%25EC%2588%2598%25EC%2599%2580-%25EC%2582%25B0%25EC%259D%2598-%25EC%25A0%2584%25EB%25A7%259D%25EC%259D%2584-%25EA%25B0%2590%25EC%2583%2581%25ED%2595%25A0-%25EC%2588%2598-%25EC%259E%2588%25EB%258A%2594-%25EC%25B0%25BD%25EB%25AC%25B8-ILZicJtFx8s
+                - figure [ref=f6e1110]:
+                  - link [ref=f6e1113]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EC%B0%BD%EB%AC%B8%EC%9D%B4-%EC%9E%88%EA%B3%A0-%EB%B2%BD%EC%97%90-%EA%B7%B8%EB%A6%BC%EC%9D%B4-%EA%B1%B8%EB%A0%A4-%EC%9E%88%EB%8A%94-%EC%96%B4%EB%91%90%EC%9A%B4-%EB%B0%A9-VCWrxU9Hwjo
+                    - img "창문이 있고 벽에 그림이 걸려 있는 어두운 방" [ref=f6e1114]
+                - figure [ref=f6e1115]:
+                  - generic [ref=f6e1117]:
+                    - link [ref=f6e1118]:
+                      - /url: /ko/%EC%82%AC%EC%A7%84/%EC%8B%9C%EA%B3%84%ED%83%91%EC%9D%98-%ED%9D%91%EB%B0%B1-%EC%82%AC%EC%A7%84-Y3h3Qt99iIc
+                      - img "시계탑의 흑백 사진" [ref=f6e1119]
+                    - link [ref=f6e1120] [cursor=pointer]:
+                      - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EC%258B%259C%25EA%25B3%2584%25ED%2583%2591%25EC%259D%2598-%25ED%259D%2591%25EB%25B0%25B1-%25EC%2582%25AC%25EC%25A7%2584-Y3h3Qt99iIc
+      - generic:
+        - region "Notifications"

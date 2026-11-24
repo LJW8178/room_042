@@ -1,0 +1,111 @@
+- generic [active] [ref=f127e1]:
+  - generic [ref=f127e4]:
+    - generic:
+      - link "콘텐츠로 건너뛰기":
+        - /url: "#"
+    - navigation [ref=f127e9]:
+      - generic [ref=f127e11]:
+        - generic [ref=f127e12]:
+          - generic "홈" [ref=f127e16]:
+            - link "홈" [ref=f127e17] [cursor=pointer]:
+              - /url: /
+          - generic "홈" [ref=f127e24]:
+            - link "홈" [ref=f127e25] [cursor=pointer]:
+              - /url: /
+          - generic "내 보드" [ref=f127e32]:
+            - link "내 보드" [ref=f127e33] [cursor=pointer]:
+              - /url: /saoproject26/
+          - generic "만들기" [ref=f127e40]:
+            - button "만들기" [ref=f127e41] [cursor=pointer]
+          - generic "업데이트" [ref=f127e50]:
+            - 'button "업데이트: 1004개 알림" [ref=f127e51] [cursor=pointer]'
+          - generic "메시지" [ref=f127e60]:
+            - button "메시지" [ref=f127e61] [cursor=pointer]
+        - generic "설정 및 지원" [ref=f127e70]:
+          - button "설정 및 지원" [ref=f127e71] [cursor=pointer]
+    - generic:
+      - complementary "꼬리말 부동 버튼"
+    - generic [ref=f127e78]:
+      - banner [ref=f127e79]:
+        - generic [ref=f127e83]:
+          - button "뒤로" [ref=f127e311] [cursor=pointer]
+          - generic [ref=f127e86]:
+            - generic:
+              - img "검색 아이콘"
+            - combobox "검색" [ref=f127e88]
+            - generic "이미지 업로드" [ref=f127e100]:
+              - button "Pinterest 렌즈" [ref=f127e101] [cursor=pointer]
+          - generic [ref=f127e115]:
+            - link "내 프로필" [ref=f127e120] [cursor=pointer]:
+              - /url: /saoproject26/
+            - button "계정" [ref=f127e132] [cursor=pointer]
+      - main [ref=f127e137]:
+        - generic [ref=f127e749]:
+          - generic [ref=f127e750]: 관련 상품 결과를 불러오는 중
+          - list [ref=f127e755]:
+            - listitem [ref=f127e756]:
+              - group "Closeup content container" [ref=f127e763]:
+                - generic [ref=f127e768]:
+                  - generic [ref=f127e772]:
+                    - list [ref=f127e773]:
+                      - generic [ref=f127e774]:
+                        - listitem [ref=f127e776]:
+                          - generic "반응" [ref=f127e779]:
+                            - button "반응" [ref=f127e780] [cursor=pointer]
+                          - generic [ref=f127e785]: "22"
+                        - listitem [ref=f127e787]:
+                          - generic "댓글" [ref=f127e790]:
+                            - button "댓글" [ref=f127e791] [cursor=pointer]
+                        - listitem [ref=f127e797]:
+                          - generic "공유" [ref=f127e801]:
+                            - button "이 핀 공유" [ref=f127e803] [cursor=pointer]
+                        - listitem [ref=f127e809]:
+                          - generic "추가 작업" [ref=f127e814]:
+                            - button "추가 작업" [ref=f127e816] [cursor=pointer]
+                    - generic [ref=f127e826]:
+                      - 'button "저장할 보드 선택: 재미있는 gif" [ref=f127e829] [cursor=pointer]':
+                        - generic "재미있는 gif" [ref=f127e832]
+                      - button "저장" [ref=f127e838] [cursor=pointer]
+                  - region "핀 이미지 및 탐색할 항목" [ref=f127e845]:
+                    - region "핀 이미지" [ref=f127e850]:
+                      - generic [ref=f127e858]:
+                        - button "더 크게 보기" [ref=f127e861] [cursor=pointer]:
+                          - generic [ref=f127e863]:
+                            - generic: 더 크게 보기
+                            - img "더 크게 보기" [ref=f127e865]
+                        - button "이미지 검색" [ref=f127e870] [cursor=pointer]:
+                          - generic [ref=f127e872]:
+                            - generic: 이미지 검색
+                            - img "이미지 검색" [ref=f127e874]
+                  - generic [ref=f127e876]:
+                    - generic [ref=f127e889]:
+                      - link [ref=f127e891] [cursor=pointer]:
+                        - /url: /lera2468atr/
+                        - generic [ref=f127e897]:
+                          - img "Яровая Валерия 아바타 링크"
+                      - link [ref=f127e901] [cursor=pointer]:
+                        - /url: /lera2468atr/
+                        - heading "Яровая Валерия" [level=2] [ref=f127e902]
+                    - generic [ref=f127e916]:
+                      - generic [ref=f127e918]:
+                        - button [ref=f127e920]
+                        - generic [ref=f127e924]:
+                          - generic: 의견을 공유하려면 댓글을 추가하세요.
+                          - combobox "의견을 공유하려면 댓글을 추가하세요." [ref=f127e926]
+                      - generic [ref=f127e935]:
+                        - button "이모티콘 선택" [ref=f127e936] [cursor=pointer]
+                        - button "스티커 선택" [ref=f127e941] [cursor=pointer]
+                        - button "사진을 선택합니다." [ref=f127e947] [cursor=pointer]
+            - listitem [ref=f127e952]
+            - listitem [ref=f127e956]
+            - listitem [ref=f127e960]
+            - listitem [ref=f127e964]
+            - listitem [ref=f127e968]
+            - listitem [ref=f127e972]
+            - listitem [ref=f127e976]
+            - listitem [ref=f127e980]
+    - generic:
+      - contentinfo "꼬리말"
+  - generic:
+    - generic:
+      - region "Toast notification"

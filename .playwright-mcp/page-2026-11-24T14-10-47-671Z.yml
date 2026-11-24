@@ -1,0 +1,75 @@
+- generic [ref=f141e4]:
+  - generic:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+  - navigation [ref=f141e9]:
+    - generic [ref=f141e11]:
+      - generic [ref=f141e12]:
+        - generic "홈" [ref=f141e16]:
+          - link "홈" [ref=f141e17] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f141e24]:
+          - link "홈" [ref=f141e25] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f141e32]:
+          - link "내 보드" [ref=f141e33] [cursor=pointer]:
+            - /url: /saoproject26/
+        - generic "만들기" [ref=f141e40]:
+          - button "만들기" [ref=f141e41] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f141e57]:
+        - button "설정 및 지원" [ref=f141e58] [cursor=pointer]
+  - generic [ref=f141e65]:
+    - banner [ref=f141e66]:
+      - generic [ref=f141e70]:
+        - generic [ref=f141e72]:
+          - generic [ref=f141e73]:
+            - combobox "검색" [ref=f141e75]: open circle enso line art
+            - generic [ref=f141e76]:
+              - button "검색 입력 삭제" [ref=f141e80] [cursor=pointer]
+              - generic "이미지 업로드" [ref=f141e87]:
+                - button "Pinterest 렌즈" [ref=f141e88] [cursor=pointer]
+          - button "모든 핀" [ref=f141e96] [cursor=pointer]
+        - generic [ref=f141e102]:
+          - link "내 프로필" [ref=f141e107] [cursor=pointer]:
+            - /url: /saoproject26/
+          - button "계정" [ref=f141e119] [cursor=pointer]
+    - main [ref=f141e124]:
+      - heading "검색 결과 페이지" [level=1] [ref=f141e126]
+      - region "필터 및 세분화 검색" [ref=f141e131]:
+        - button "필터 표시" [ref=f141e140] [cursor=pointer]
+      - generic [ref=f141e151]:
+        - generic:
+          - generic:
+            - list:
+              - listitem [ref=f141e152]:
+                - group "핀 카드" [ref=f141e156]:
+                  - generic [ref=f141e158]:
+                    - link "제목 없음 핀 페이지" [ref=f141e160] [cursor=pointer]:
+                      - /url: /pin/673288213071062083/
+                      - img "포함된 이미지:" [ref=f141e170]
+                    - generic "추가 작업" [ref=f141e178]:
+                      - button "추가 작업" [ref=f141e179] [cursor=pointer]
+              - listitem [ref=f141e184]:
+                - group "핀 카드" [ref=f141e188]:
+                  - generic [ref=f141e190]:
+                    - link "제목 없음 핀 페이지" [ref=f141e192] [cursor=pointer]:
+                      - /url: /pin/532621093434675572/
+                      - img "포함된 이미지:" [ref=f141e202]
+                    - generic "추가 작업" [ref=f141e210]:
+                      - button "추가 작업" [ref=f141e211] [cursor=pointer]
+              - listitem [ref=f141e216]:
+                - group "핀 카드" [ref=f141e220]:
+                  - generic [ref=f141e222]:
+                    - link "50 Unique Moon Tattoo Stencils Perfect for Every Style – Refined Aesthetique 핀 페이지" [ref=f141e224] [cursor=pointer]:
+                      - /url: /pin/359302876547192243/
+                      - img "포함된 이미지:" [ref=f141e234]
+                    - generic "추가 작업" [ref=f141e242]:
+                      - button "추가 작업" [ref=f141e243] [cursor=pointer]
+              - listitem [ref=f141e248]:
+                - group "핀 카드" [ref=f141e252]:
+                  - generic [ref=f141e254]:
+                    - link "제목 없음 핀 페이지" [ref=f141e256] [cursor=pointer]:
+                      - /url: /pin/810155420511613723/
+                      - img "포함된 이미지:" [ref=f141e266]
+                    - generic "추가 작업" [ref=f141e274]:
+                      - button "추가 작업" [ref=f141e275] [cursor=pointer]

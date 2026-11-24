@@ -1,0 +1,198 @@
+- generic [active] [ref=f60e1]:
+  - generic [ref=f60e4]:
+    - generic:
+      - link "콘텐츠로 건너뛰기":
+        - /url: "#"
+    - navigation [ref=f60e9]:
+      - generic [ref=f60e11]:
+        - generic [ref=f60e12]:
+          - generic "홈" [ref=f60e16]:
+            - link "홈" [ref=f60e17] [cursor=pointer]:
+              - /url: /
+          - generic "홈" [ref=f60e24]:
+            - link "홈" [ref=f60e25] [cursor=pointer]:
+              - /url: /
+          - generic "내 보드" [ref=f60e32]:
+            - link "내 보드" [ref=f60e33] [cursor=pointer]:
+              - /url: /saoproject26/
+          - generic "만들기" [ref=f60e40]:
+            - button "만들기" [ref=f60e41] [cursor=pointer]
+          - generic "업데이트" [ref=f60e50]:
+            - 'button "업데이트: 1004개 알림" [ref=f60e51] [cursor=pointer]'
+          - generic "메시지" [ref=f60e60]:
+            - button "메시지" [ref=f60e61] [cursor=pointer]
+        - generic "설정 및 지원" [ref=f60e70]:
+          - button "설정 및 지원" [ref=f60e71] [cursor=pointer]
+    - generic:
+      - complementary "꼬리말 부동 버튼"
+    - generic [ref=f60e78]:
+      - banner [ref=f60e79]:
+        - generic [ref=f60e83]:
+          - button "뒤로" [ref=f60e86] [cursor=pointer]
+          - generic [ref=f60e93]:
+            - generic:
+              - img "검색 아이콘"
+            - combobox "검색" [ref=f60e95]
+            - generic "이미지 업로드" [ref=f60e99]:
+              - button "Pinterest 렌즈" [ref=f60e100] [cursor=pointer]
+          - generic [ref=f60e105]:
+            - link "내 프로필" [ref=f60e110] [cursor=pointer]:
+              - /url: /saoproject26/
+            - button "계정" [ref=f60e122] [cursor=pointer]
+      - main [ref=f60e127]:
+        - generic [ref=f60e139]:
+          - generic [ref=f60e140]: 관련 상품 결과를 불러오는 중
+          - list [ref=f60e145]:
+            - listitem [ref=f60e146]:
+              - group "Closeup content container" [ref=f60e153]:
+                - generic [ref=f60e158]:
+                  - region "핀 이미지 및 탐색할 항목" [ref=f60e161]:
+                    - region "핀 이미지" [ref=f60e166]:
+                      - generic [ref=f60e174]:
+                        - button "더 크게 보기" [ref=f60e177] [cursor=pointer]:
+                          - generic [ref=f60e179]:
+                            - generic: 더 크게 보기
+                            - img "더 크게 보기" [ref=f60e181]
+                        - button "이미지 검색" [ref=f60e186] [cursor=pointer]:
+                          - generic [ref=f60e188]:
+                            - generic: 이미지 검색
+                            - img "이미지 검색" [ref=f60e190]
+                  - generic [ref=f60e192]:
+                    - generic [ref=f60e195]:
+                      - list [ref=f60e196]:
+                        - generic [ref=f60e197]:
+                          - listitem [ref=f60e199]:
+                            - generic "반응" [ref=f60e202]:
+                              - button "반응" [ref=f60e203] [cursor=pointer]
+                            - generic [ref=f60e208]: "0"
+                          - listitem [ref=f60e210]:
+                            - generic "댓글" [ref=f60e213]:
+                              - button "댓글" [ref=f60e214] [cursor=pointer]
+                          - listitem [ref=f60e220]:
+                            - generic "공유" [ref=f60e224]:
+                              - button "이 핀 공유" [ref=f60e226] [cursor=pointer]
+                          - listitem [ref=f60e232]:
+                            - generic "추가 작업" [ref=f60e237]:
+                              - button "추가 작업" [ref=f60e239] [cursor=pointer]
+                      - generic [ref=f60e249]:
+                        - 'button "저장할 보드 선택: 재미있는 gif" [ref=f60e252] [cursor=pointer]':
+                          - generic "재미있는 gif" [ref=f60e255]
+                        - button "저장" [ref=f60e261] [cursor=pointer]
+                    - generic [ref=f60e269]:
+                      - generic [ref=f60e278]:
+                        - link [ref=f60e280] [cursor=pointer]:
+                          - /url: /movanastaran/
+                          - img "Movahedi Nastaran 아바타 링크" [ref=f60e287]
+                        - link [ref=f60e291] [cursor=pointer]:
+                          - /url: /movanastaran/
+                          - heading "Movahedi Nastaran" [level=2] [ref=f60e292]
+                      - generic [ref=f60e295]:
+                        - heading "At loggerheads" [level=1] [ref=f60e303]
+                        - generic [ref=f60e307]:
+                          - heading "설명" [level=4] [ref=f60e308]
+                          - generic [ref=f60e312]:
+                            - link "#attractions" [ref=f60e314] [cursor=pointer]:
+                              - /url: /search/pins/?q=attractions
+                            - link "#lines" [ref=f60e316] [cursor=pointer]:
+                              - /url: /search/pins/?q=lines
+                            - link "#wallpaper" [ref=f60e318] [cursor=pointer]:
+                              - /url: /search/pins/?q=wallpaper
+                            - link "#nastaranmovahedi" [ref=f60e320] [cursor=pointer]:
+                              - /url: /search/pins/?q=nastaranmovahedi
+                            - link "#movanastaran" [ref=f60e322] [cursor=pointer]:
+                              - /url: /search/pins/?q=movanastaran
+                            - link "#movanas" [ref=f60e324] [cursor=pointer]:
+                              - /url: /search/pins/?q=movanas
+                            - link "#dijitalart" [ref=f60e326] [cursor=pointer]:
+                              - /url: /search/pins/?q=dijitalart
+                            - link "#drawingideas" [ref=f60e328] [cursor=pointer]:
+                              - /url: /search/pins/?q=drawingideas
+                            - link "#procreat" [ref=f60e330] [cursor=pointer]:
+                              - /url: /search/pins/?q=procreat
+                            - link "#creative" [ref=f60e332] [cursor=pointer]:
+                              - /url: /search/pins/?q=creative
+                    - generic [ref=f60e341]:
+                      - generic [ref=f60e343]:
+                        - button [ref=f60e345]
+                        - generic [ref=f60e349]:
+                          - generic: 의견을 공유하려면 댓글을 추가하세요.
+                          - combobox "의견을 공유하려면 댓글을 추가하세요." [ref=f60e351]
+                      - generic [ref=f60e360]:
+                        - button "이모티콘 선택" [ref=f60e361] [cursor=pointer]
+                        - button "스티커 선택" [ref=f60e366] [cursor=pointer]
+                        - button "사진을 선택합니다." [ref=f60e372] [cursor=pointer]
+            - listitem [ref=f60e377]:
+              - group "핀 카드" [ref=f60e382]:
+                - generic [ref=f60e384]:
+                  - generic [ref=f60e385]:
+                    - link "samsung.com" [ref=f60e388] [cursor=pointer]:
+                      - /url: https://www.samsung.com/sec/gateView?redirectUrl=https://www.samsung.com/sec/tablets/galaxy-tab-s12/buy/?modelcode=sm-x940nzaakoo&cid=sec_pd_social_pinterest_tabs12_launch_br-i261004_video_standardvideo-i261004-v6-15s_amf1854-conkw&utm_campaign=626760008878&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680092513591
+                      - img "삼성 AI 구독으로 최대 20% 할인 받고, 갤럭시 탭으로 갈아타자! 6개월 구독료 추가 지원 혜택과 구글 AI Pro 6개월 구독권 무료 증정까지! 다양한 런칭 프로모션을 지금 삼성닷컴에서 확인하세요" [ref=f60e405]
+                    - generic: 0:25
+                  - generic [ref=f60e409]:
+                    - generic [ref=f60e410]:
+                      - generic [ref=f60e411]:
+                        - generic:
+                          - heading [level=2]
+                      - link "삼성전자 Samsung Korea 후원 핀" [ref=f60e414] [cursor=pointer]:
+                        - /url: /adlbh0143/
+                        - generic [ref=f60e416]:
+                          - generic [ref=f60e417]: 삼성전자 Samsung Korea
+                          - generic [ref=f60e418]: 후원 핀
+                    - generic "추가 작업" [ref=f60e426]:
+                      - button "추가 작업" [ref=f60e427] [cursor=pointer]
+            - listitem [ref=f60e432]:
+              - group "핀 카드" [ref=f60e437]:
+                - generic [ref=f60e439]:
+                  - link "Michael Bliss 핀 페이지" [ref=f60e441] [cursor=pointer]:
+                    - /url: /pin/529595237450318281/
+                    - 'img "포함된 이미지: Michael Bliss" [ref=f60e451]'
+                  - generic "추가 작업" [ref=f60e459]:
+                    - button "추가 작업" [ref=f60e460] [cursor=pointer]
+            - listitem [ref=f60e465]:
+              - group "핀 카드" [ref=f60e470]:
+                - generic [ref=f60e472]:
+                  - link "제목 없음 핀 페이지" [ref=f60e474] [cursor=pointer]:
+                    - /url: /pin/589267932524810007/
+                    - img "포함된 이미지:" [ref=f60e484]
+                  - generic "추가 작업" [ref=f60e492]:
+                    - button "추가 작업" [ref=f60e493] [cursor=pointer]
+            - listitem [ref=f60e498]:
+              - group "핀 카드" [ref=f60e503]:
+                - generic [ref=f60e505]:
+                  - link "제목 없음 핀 페이지" [ref=f60e507] [cursor=pointer]:
+                    - /url: /pin/371054456817990357/
+                    - img "포함된 이미지:" [ref=f60e517]
+                  - generic "추가 작업" [ref=f60e525]:
+                    - button "추가 작업" [ref=f60e526] [cursor=pointer]
+            - listitem [ref=f60e531]:
+              - group "핀 카드" [ref=f60e536]:
+                - generic [ref=f60e538]:
+                  - generic [ref=f60e539]:
+                    - link "제목 없음 핀 페이지" [ref=f60e540] [cursor=pointer]:
+                      - /url: /pin/1142436630484741750/
+                      - img "포함된 이미지:" [ref=f60e556]
+                    - generic: 0:30
+                  - generic "추가 작업" [ref=f60e564]:
+                    - button "추가 작업" [ref=f60e565] [cursor=pointer]
+            - listitem [ref=f60e570]:
+              - group "핀 카드" [ref=f60e575]:
+                - generic [ref=f60e577]:
+                  - link "제목 없음 핀 페이지" [ref=f60e579] [cursor=pointer]:
+                    - /url: /pin/556687203961717847/
+                    - img "포함된 이미지:" [ref=f60e589]
+                  - generic "추가 작업" [ref=f60e597]:
+                    - button "추가 작업" [ref=f60e598] [cursor=pointer]
+            - listitem [ref=f60e603]:
+              - group "핀 카드" [ref=f60e608]:
+                - generic [ref=f60e610]:
+                  - link "Double infinity 핀 페이지" [ref=f60e612] [cursor=pointer]:
+                    - /url: /pin/164733298848497985/
+                    - img "포함된 이미지:" [ref=f60e622]
+                  - generic "추가 작업" [ref=f60e630]:
+                    - button "추가 작업" [ref=f60e631] [cursor=pointer]
+    - generic:
+      - contentinfo "꼬리말"
+  - generic:
+    - generic:
+      - region "Toast notification"

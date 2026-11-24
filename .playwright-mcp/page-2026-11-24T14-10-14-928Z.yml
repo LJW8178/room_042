@@ -1,0 +1,82 @@
+- generic [ref=f127e4]:
+  - generic:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+  - navigation [ref=f127e9]:
+    - generic [ref=f127e11]:
+      - generic [ref=f127e12]:
+        - generic "홈" [ref=f127e16]:
+          - link "홈" [ref=f127e17] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f127e24]:
+          - link "홈" [ref=f127e25] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f127e32]:
+          - link "내 보드" [ref=f127e33] [cursor=pointer]:
+            - /url: /saoproject26/
+        - generic "만들기" [ref=f127e40]:
+          - button "만들기" [ref=f127e41] [cursor=pointer]
+        - generic "업데이트" [ref=f127e50]:
+          - 'button "업데이트: 1004개 알림" [ref=f127e51] [cursor=pointer]'
+        - generic "메시지" [ref=f127e60]:
+          - button "메시지" [ref=f127e61] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f127e70]:
+        - button "설정 및 지원" [ref=f127e71] [cursor=pointer]
+  - generic:
+    - complementary "꼬리말 부동 버튼"
+  - generic [ref=f127e78]:
+    - banner [ref=f127e79]:
+      - generic [ref=f127e83]:
+        - generic [ref=f127e85]:
+          - generic [ref=f127e86]:
+            - combobox "검색" [ref=f127e88]: wave line rhythm graphic
+            - generic [ref=f127e89]:
+              - button "검색 입력 삭제" [ref=f127e93] [cursor=pointer]
+              - generic "이미지 업로드" [ref=f127e100]:
+                - button "Pinterest 렌즈" [ref=f127e101] [cursor=pointer]
+          - button "모든 핀" [ref=f127e109] [cursor=pointer]
+        - generic [ref=f127e115]:
+          - link "내 프로필" [ref=f127e120] [cursor=pointer]:
+            - /url: /saoproject26/
+          - button "계정" [ref=f127e132] [cursor=pointer]
+    - main [ref=f127e137]:
+      - heading "검색 결과 페이지" [level=1] [ref=f127e139]
+      - region "필터 및 세분화 검색" [ref=f127e144]:
+        - button "필터 표시" [ref=f127e153] [cursor=pointer]
+      - generic [ref=f127e163]:
+        - generic [ref=f127e164]: wave line rhythm graphic 검색 결과를 추가로 불러오는 중
+        - list [ref=f127e169]:
+          - listitem [ref=f127e170]:
+            - group "핀 카드" [ref=f127e175]:
+              - generic [ref=f127e177]:
+                - link "제목 없음 핀 페이지" [ref=f127e179] [cursor=pointer]:
+                  - /url: /pin/133208101469548523/
+                  - img "포함된 이미지:" [ref=f127e189]
+                - generic "추가 작업" [ref=f127e197]:
+                  - button "추가 작업" [ref=f127e198] [cursor=pointer]
+          - listitem [ref=f127e203]:
+            - group "핀 카드" [ref=f127e208]:
+              - generic [ref=f127e210]:
+                - link "Visually searched image 핀 페이지" [ref=f127e212] [cursor=pointer]:
+                  - /url: /pin/1045116657281095116/
+                  - img "포함된 이미지:" [ref=f127e222]
+                - generic "추가 작업" [ref=f127e230]:
+                  - button "추가 작업" [ref=f127e231] [cursor=pointer]
+          - listitem [ref=f127e236]:
+            - group "핀 카드" [ref=f127e241]:
+              - generic [ref=f127e243]:
+                - link "제목 없음 핀 페이지" [ref=f127e245] [cursor=pointer]:
+                  - /url: /pin/796363146615346069/
+                  - img "포함된 이미지:" [ref=f127e255]
+                - generic "추가 작업" [ref=f127e263]:
+                  - button "추가 작업" [ref=f127e264] [cursor=pointer]
+          - listitem [ref=f127e269]
+          - listitem [ref=f127e273]
+          - listitem [ref=f127e277]
+          - listitem [ref=f127e281]
+          - listitem [ref=f127e285]
+          - listitem [ref=f127e289]
+          - listitem [ref=f127e293]
+          - listitem [ref=f127e297]
+          - listitem [ref=f127e301]
+          - listitem [ref=f127e305]

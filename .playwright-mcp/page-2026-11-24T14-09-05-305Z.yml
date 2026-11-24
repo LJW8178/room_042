@@ -1,0 +1,158 @@
+- generic [active] [ref=f87e1]:
+  - generic [ref=f87e4]:
+    - generic:
+      - link "콘텐츠로 건너뛰기":
+        - /url: "#"
+    - navigation [ref=f87e9]:
+      - generic [ref=f87e11]:
+        - generic [ref=f87e12]:
+          - generic "홈" [ref=f87e16]:
+            - link "홈" [ref=f87e17] [cursor=pointer]:
+              - /url: /
+          - generic "홈" [ref=f87e24]:
+            - link "홈" [ref=f87e25] [cursor=pointer]:
+              - /url: /
+          - generic "내 보드" [ref=f87e32]:
+            - link "내 보드" [ref=f87e33] [cursor=pointer]:
+              - /url: /saoproject26/
+          - generic "만들기" [ref=f87e40]:
+            - button "만들기" [ref=f87e41] [cursor=pointer]
+          - generic "업데이트" [ref=f87e775]:
+            - 'button "업데이트: 1004개 알림" [ref=f87e776] [cursor=pointer]'
+          - generic "메시지" [ref=f87e53]:
+            - button "메시지" [ref=f87e54] [cursor=pointer]
+        - generic "설정 및 지원" [ref=f87e63]:
+          - button "설정 및 지원" [ref=f87e64] [cursor=pointer]
+    - generic:
+      - complementary "꼬리말 부동 버튼"
+    - generic [ref=f87e71]:
+      - banner [ref=f87e72]:
+        - generic [ref=f87e76]:
+          - button "뒤로" [ref=f87e783] [cursor=pointer]
+          - generic [ref=f87e79]:
+            - generic:
+              - img "검색 아이콘"
+            - combobox "검색" [ref=f87e81]
+            - generic "이미지 업로드" [ref=f87e93]:
+              - button "Pinterest 렌즈" [ref=f87e94] [cursor=pointer]
+          - generic [ref=f87e108]:
+            - link "내 프로필" [ref=f87e113] [cursor=pointer]:
+              - /url: /saoproject26/
+            - button "계정" [ref=f87e125] [cursor=pointer]
+      - main [ref=f87e130]:
+        - generic [ref=f87e799]:
+          - generic [ref=f87e800]: 관련 상품 결과를 불러오는 중
+          - list [ref=f87e805]:
+            - listitem [ref=f87e806]:
+              - group "Closeup content container" [ref=f87e813]:
+                - generic [ref=f87e818]:
+                  - generic [ref=f87e822]:
+                    - list [ref=f87e823]:
+                      - generic [ref=f87e824]:
+                        - listitem [ref=f87e826]:
+                          - generic "반응" [ref=f87e829]:
+                            - button "반응" [ref=f87e830] [cursor=pointer]
+                          - generic [ref=f87e835]: "14"
+                        - listitem [ref=f87e837]:
+                          - generic "댓글" [ref=f87e840]:
+                            - button "댓글" [ref=f87e841] [cursor=pointer]
+                        - listitem [ref=f87e847]:
+                          - generic "공유" [ref=f87e851]:
+                            - button "이 핀 공유" [ref=f87e853] [cursor=pointer]
+                        - listitem [ref=f87e859]:
+                          - generic "추가 작업" [ref=f87e864]:
+                            - button "추가 작업" [ref=f87e866] [cursor=pointer]
+                    - generic [ref=f87e876]:
+                      - 'button "저장할 보드 선택: 재미있는 gif" [ref=f87e879] [cursor=pointer]':
+                        - generic "재미있는 gif" [ref=f87e882]
+                      - button "저장" [ref=f87e888] [cursor=pointer]
+                  - region "핀 이미지 및 탐색할 항목" [ref=f87e895]:
+                    - region "핀 이미지" [ref=f87e900]:
+                      - generic [ref=f87e908]:
+                        - button "더 크게 보기" [ref=f87e911] [cursor=pointer]:
+                          - generic [ref=f87e913]:
+                            - generic: 더 크게 보기
+                            - img "더 크게 보기" [ref=f87e915]
+                        - button "이미지 검색" [ref=f87e920] [cursor=pointer]:
+                          - generic [ref=f87e922]:
+                            - generic: 이미지 검색
+                            - img "이미지 검색" [ref=f87e924]
+                  - generic [ref=f87e926]:
+                    - generic [ref=f87e939]:
+                      - link [ref=f87e941] [cursor=pointer]:
+                        - /url: /airbornsangel/
+                        - img "Angel 아바타 링크" [ref=f87e948]
+                      - link [ref=f87e952] [cursor=pointer]:
+                        - /url: /airbornsangel/
+                        - heading "Angel" [level=2] [ref=f87e953]
+                    - generic [ref=f87e967]:
+                      - generic [ref=f87e969]:
+                        - button [ref=f87e971]
+                        - generic [ref=f87e975]:
+                          - generic: 의견을 공유하려면 댓글을 추가하세요.
+                          - combobox "의견을 공유하려면 댓글을 추가하세요." [ref=f87e977]
+                      - generic [ref=f87e986]:
+                        - button "이모티콘 선택" [ref=f87e987] [cursor=pointer]
+                        - button "스티커 선택" [ref=f87e992] [cursor=pointer]
+                        - button "사진을 선택합니다." [ref=f87e998] [cursor=pointer]
+            - listitem [ref=f87e1003]:
+              - group "핀 카드" [ref=f87e1008]:
+                - generic [ref=f87e1010]:
+                  - link "제목 없음 핀 페이지" [ref=f87e1012] [cursor=pointer]:
+                    - /url: /pin/599049187911080401/
+                    - img "포함된 이미지:" [ref=f87e1022]
+                  - generic "추가 작업" [ref=f87e1030]:
+                    - button "추가 작업" [ref=f87e1031] [cursor=pointer]
+            - listitem [ref=f87e1036]:
+              - group "핀 카드" [ref=f87e1041]:
+                - generic [ref=f87e1043]:
+                  - link "Technology Pattern Images – Browse 11,039,184 Stock Photos, Vectors, and Video 핀 페이지" [ref=f87e1045] [cursor=pointer]:
+                    - /url: /pin/359865826457250457/
+                    - 'img "포함된 이미지: Technology Pattern Images – Browse 11,039,184 Stock Photos, Vectors, and Video" [ref=f87e1055]'
+                  - generic "추가 작업" [ref=f87e1063]:
+                    - button "추가 작업" [ref=f87e1064] [cursor=pointer]
+            - listitem [ref=f87e1069]:
+              - group "핀 카드" [ref=f87e1074]:
+                - generic [ref=f87e1076]:
+                  - link "제목 없음 핀 페이지" [ref=f87e1078] [cursor=pointer]:
+                    - /url: /pin/803540758549358066/
+                    - img "포함된 이미지:" [ref=f87e1088]
+                  - generic "추가 작업" [ref=f87e1096]:
+                    - button "추가 작업" [ref=f87e1097] [cursor=pointer]
+            - listitem [ref=f87e1102]:
+              - group "핀 카드" [ref=f87e1107]:
+                - generic [ref=f87e1109]:
+                  - link "제목 없음 핀 페이지" [ref=f87e1111] [cursor=pointer]:
+                    - /url: /pin/440860251013911537/
+                    - img "포함된 이미지:" [ref=f87e1121]
+                  - generic "추가 작업" [ref=f87e1129]:
+                    - button "추가 작업" [ref=f87e1130] [cursor=pointer]
+            - listitem [ref=f87e1135]:
+              - group "핀 카드" [ref=f87e1140]:
+                - generic [ref=f87e1142]:
+                  - link "United 핀 페이지" [ref=f87e1144] [cursor=pointer]:
+                    - /url: /pin/67131850691129746/
+                    - img "포함된 이미지:" [ref=f87e1154]
+                  - generic "추가 작업" [ref=f87e1162]:
+                    - button "추가 작업" [ref=f87e1163] [cursor=pointer]
+            - listitem [ref=f87e1168]:
+              - group "핀 카드" [ref=f87e1173]:
+                - generic [ref=f87e1175]:
+                  - link "All Posts • Instagram 핀 페이지" [ref=f87e1177] [cursor=pointer]:
+                    - /url: /pin/771804454911560779/
+                    - img "포함된 이미지:" [ref=f87e1187]
+                  - generic "추가 작업" [ref=f87e1195]:
+                    - button "추가 작업" [ref=f87e1196] [cursor=pointer]
+            - listitem [ref=f87e1201]:
+              - group "핀 카드" [ref=f87e1206]:
+                - generic [ref=f87e1208]:
+                  - link "제목 없음 핀 페이지" [ref=f87e1210] [cursor=pointer]:
+                    - /url: /pin/712553972306146307/
+                    - img "포함된 이미지:" [ref=f87e1220]
+                  - generic "추가 작업" [ref=f87e1228]:
+                    - button "추가 작업" [ref=f87e1229] [cursor=pointer]
+    - generic:
+      - contentinfo "꼬리말"
+  - generic:
+    - generic:
+      - region "Toast notification"
